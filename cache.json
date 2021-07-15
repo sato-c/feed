@@ -1,642 +1,279 @@
 {
   "sources": [
     {
-      "title": "Release notes from osmosfeed",
-      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
-      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "title": "はてなブックマーク - 人気エントリー - 総合",
+      "feedUrl": "https://b.hatena.ne.jp/hotentry.rss",
+      "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
-          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
+          "id": "https://bunshun.jp/articles/-/47065",
           "author": null,
-          "description": "Added: support an experimental template for YouTube feed 📺 Demo | Source\n\nAggregate content from any YouTube channel rss url https://www.youtube.com/feeds/videos.xml?channel_id=<replace_with_channel_id>\nVideos are embedded via iframe and loading accelerated by youtube-lite-embed\nAds are reduced thanks to YouTube's policy for embedded videos 🙃\nWorks on mobile devices with butter smooth horizontal scroll.\nCaveat: the template works only with YouTube content. You cannot mix textual RSS feed or other video sources such as Vimeo.\nChanged: Default HTML template meta tag adjusted to match convention\nChanged: sources in template data is now ordered by last update timestamp (as opposed to alphabetical)\nThank you @PiyushLosalka",
-          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.0",
-          "publishedOn": "2021-06-23T05:57:59.000Z",
-          "wordCount": 370,
-          "title": "v1.11.0"
-        }
-      ]
-    },
-    {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
-      "articles": [
-        {
-          "id": "https://css-tricks.com/?p=344249",
-          "author": "Temani Afif",
-          "description": "I recently illustrated how we can achieve complex CSS animations using cubic-bezier() and how to do the same when it comes to CSS transitions. I was able to create complex hover effect without resorting to keyframes. In this article, I …\nThe post Build Complex CSS Transitions using Custom Properties and cubic-bezier() appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/build-complex-css-transitions-using-custom-properties-and-cubic-bezier/",
-          "publishedOn": "2021-07-14T14:31:02.000Z",
-          "wordCount": 1964,
-          "title": "Build Complex CSS Transitions using Custom Properties and cubic-bezier()"
+          "description": "小学校5年生から卒業までに1000万円を稼いだ ――いつから株取引を始めたのですか。 はる　小5の時に父に100万円をもらって株式投資をはじめました。小学校卒業までに1000万円は稼ぎましたね。今年4月に「小学生投資家」から「中学生投資家」になったばかりで、今は有名私立中学の1年生です。成績は学年で上位5位以内をキ...",
+          "link": "https://bunshun.jp/articles/-/47065",
+          "publishedOn": "2021-07-15T03:36:30.000Z",
+          "wordCount": 175,
+          "title": "「義務教育を無駄にするのは人間失格」1年で1000万円稼いだ\"小学生投資家”の日常　授業中はスマホでトレード、朝は5時起きで相場をチェック… | 文春オンライン"
         },
         {
-          "id": "https://css-tricks.com/?p=344407",
-          "author": "Chris Coyier",
-          "description": "Most of us grumble when running across a frustrating UX experience online (like not being able to complete a transaction because of a misplaced button). We might pen a whiny tweet. Jason Grigsby is like I’m going to write 2,000 …\nThe post A Bashful Button Worth $8 Million appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://cloudfour.com/thinks/a-bashful-button-worth-8-million/",
-          "publishedOn": "2021-07-14T14:25:08.000Z",
-          "wordCount": 2461,
-          "title": "A Bashful Button Worth $8 Million"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344316",
-          "author": "Chris Coyier",
-          "description": "As a day-job, React-using person, I like to stay abreast of interesting React news. As such, I save a healthy amount of links. Allow me to dump out my latest pile. Most of this is about React but not all …\nThe post Links on React and JavaScript appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/links-on-react-and-javascript/",
-          "publishedOn": "2021-07-13T19:57:10.000Z",
-          "wordCount": 1003,
-          "title": "Links on React and JavaScript"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343850",
-          "author": "Manuel Matuzovic",
-          "description": "Starting with Version 15, Safari supports the theme-color <meta> tag both on macOS and iOS. That’s exciting news because now the first desktop browser supports this <meta> tag and it also supports the media attribute and the prefers-color-scheme media feature.…\nThe post Meta Theme Color and Trickery appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/meta-theme-color-and-trickery/",
-          "publishedOn": "2021-07-13T14:58:33.000Z",
-          "wordCount": 2735,
-          "title": "Meta Theme Color and Trickery"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344542",
-          "author": "Geoff Graham",
-          "description": "(This is a sponsored post.)\nThe folks over at Netlify have opened up the Jamstack Community Survey for 2021. More than 3,000 front-enders like yourself took last year’s survey, which gauged how familiar people are with the …\nThe post Jamstack Community Survey 2021 appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.surveymonkey.com/r/jamstack-survey-css-tricks",
-          "publishedOn": "2021-07-13T14:34:48.000Z",
-          "wordCount": 142,
-          "title": "Jamstack Community Survey 2021"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344355",
-          "author": "Chris Coyier",
-          "description": "The reasons that are often cited that make container queries difficult or impossible is things like infinite loops—e.g. changing the width of an element, invalidating a container query, which changes the width again, which makes the container query take effect, …\nThe post Meet `:has`, A Native CSS Parent Selector appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/",
-          "publishedOn": "2021-07-12T19:45:00.000Z",
-          "wordCount": 2793,
-          "title": "Meet `:has`, A Native CSS Parent Selector"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343613",
-          "author": "Mojtaba Seyedi",
-          "description": "I don’t know about you, but I write these three declarations many times in my CSS:\nul {\n  padding: 0;\n  margin: 0;\n  list-style-type: none;\n}\nYou might yell at me and say I can just put those in my CSS …\nThe post Using the Specificity of :where() as a CSS Reset appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/using-the-specificity-of-where-as-a-css-reset/",
-          "publishedOn": "2021-07-12T14:30:34.000Z",
-          "wordCount": 962,
-          "title": "Using the Specificity of :where() as a CSS Reset"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344334",
-          "author": "Chris Coyier",
-          "description": "This is a nice update from Manuel Rego Casasnovas. Igalia has this idea to sort of crowd-source important web platform features that need to get worked on (that’s the sort of work they do). They call it Open Prioritization. …\nThe post :focus-visible in WebKit appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://blogs.igalia.com/mrego/2021/06/07/focus-visible-in-webkit-may-2021/",
-          "publishedOn": "2021-07-09T18:53:51.000Z",
-          "wordCount": 1281,
-          "title": ":focus-visible in WebKit"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343598",
-          "author": "Philippe Bernard",
-          "description": "Ever heard of favicons made with SVG? If you are a regular reader of CSS-Tricks, you probably have. But does your website actually use one?\nThe task is more non-trivial than you might think. As we will see in this …\nThe post SVG Favicons in Action appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/svg-favicons-in-action/",
-          "publishedOn": "2021-07-09T14:31:57.000Z",
-          "wordCount": 2485,
-          "title": "SVG Favicons in Action"
-        },
-        {
-          "id": "https://css-tricks.com/?p=344024",
-          "author": "Chris Coyier",
-          "description": "Wes has a heck of a set of “notes” for learning JavaScript. It’s organized like a curriculum, meaning if you teach JavaScript, you could do a lot worse. It’s actually more like 85 really fleshed-out blog posts organized into sections …\nThe post Beginner JavaScript Notes appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://wesbos.com/javascript",
-          "publishedOn": "2021-07-08T22:25:22.000Z",
-          "wordCount": 700,
-          "title": "Beginner JavaScript Notes"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343623",
-          "author": "Amit Sheen",
-          "description": "The wonderful company I work for, Payoneer, has a new logo, and my job was to recreate it and animate it for a loader component in our app. I’ll explain exactly how I did it, share the problems I …\nThe post My Struggle to Use and Animate a Conic Gradient in SVG appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/my-struggle-to-use-and-animate-a-conic-gradient-in-svg/",
-          "publishedOn": "2021-07-08T14:35:38.000Z",
-          "wordCount": 2007,
-          "title": "My Struggle to Use and Animate a Conic Gradient in SVG"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343574",
-          "author": "Fortune Ikechi",
-          "description": "Command line tools are one of the most popular applications we have today. We use command line tools every day, and they range from git, npm or yarn. Command line tools are very fast and useful for automating applications and …\nThe post Building a Command Line Tool with Nodejs and Fauna appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/building-a-command-line-tool-with-nodejs-and-fauna/",
-          "publishedOn": "2021-07-08T14:35:09.000Z",
-          "wordCount": 1407,
-          "title": "Building a Command Line Tool with Nodejs and Fauna"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343495",
-          "author": "Chris Coyier",
-          "description": "Astro is a brand new framework for building websites. To me, the big thing is that it allows you to build a site like you’re using a JavaScript framework (and you are), but the output is a zero-JavaScript static site. …\nThe post A Look at Building with Astro appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/a-look-at-building-with-astro/",
-          "publishedOn": "2021-07-07T21:06:35.000Z",
-          "wordCount": 2876,
-          "title": "A Look at Building with Astro"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343388",
-          "author": "Robin Rendle",
-          "description": "There are a lot of great defaults when it comes to browsers and the web. Think about all the accessibility features that are baked into HTML so that you don’t have to do weird stuff, like this example from Manuel…\nThe post The Web’s Worst Default appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/the-webs-worst-default/",
-          "publishedOn": "2021-07-07T14:30:34.000Z",
-          "wordCount": 1562,
-          "title": "The Web’s Worst Default"
-        },
-        {
-          "id": "https://css-tricks.com/?p=343438",
-          "author": "Chris Coyier",
-          "description": "I appreciate the clarity of this trick that Mikael Ainalem posted over on Reddit:\nIt’s a one-liner that toggles the class on the <body> so you can mock up different states and toggle between them on click.\n<body onclick=\"this.classList.toggle(\"active\");\"\nCould …\nThe post Body Toggle appeared first on CSS-Tricks. You can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://css-tricks.com/body-toggle/",
-          "publishedOn": "2021-07-06T20:55:45.000Z",
-          "wordCount": 681,
-          "title": "Body Toggle"
-        }
-      ]
-    },
-    {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
-      "articles": [
-        {
-          "id": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Too often dealing with filters can be frustrating. Let’s get them right. That means never freeze the UI on a single input, provide text input fallback and never auto-scroll users on a single input. Here’s why.",
-          "link": "https://smashingmagazine.com/2021/07/frustrating-design-patterns-broken-frozen-filters/",
-          "publishedOn": "2021-07-14T13:30:00.000Z",
-          "wordCount": 5285,
-          "title": "Frustrating Design Patterns: Broken Filters",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0c5f2df3-3d78-4563-a599-8c924604e84a/7-frustrating-design-patterns.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In JavaScript, attaching an event listener to constantly fire a callback on scroll can be performance-intensive. But there is a better way with Intersection Observer.",
-          "link": "https://smashingmagazine.com/2021/07/dynamic-header-intersection-observer/",
-          "publishedOn": "2021-07-13T12:00:00.000Z",
-          "wordCount": 3273,
-          "title": "Building A Dynamic Header With Intersection Observer",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/67cc7303-3dc9-4d67-b0f4-b6f77783380f/dynamic-header-intersection-observer.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
-          "author": "hello@smashingmagazine.com (Facundo Giuliani)",
-          "description": "In this article, we’re taking a closer look at different approaches and strategies on how we can migrate a web application that uses jQuery framework, and start using one of the coolest React frameworks in the market: Next.js.",
-          "link": "https://smashingmagazine.com/2021/07/migrate-jquery-nextjs/",
-          "publishedOn": "2021-07-13T10:30:00.000Z",
-          "wordCount": 4180,
-          "title": "How To Migrate From jQuery To Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ece22577-f23c-4e9c-a41c-f9000f14ae9d/migrate-jquery-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "CSS refactoring is not an easy task — it needs to be done in a way that doesn't create problems. First we need to analyze the existing codebase, audit CSS codebase health, discover weaknesses, agree on the approach, and convince management to invest time and resources into the process.",
-          "link": "https://smashingmagazine.com/2021/07/refactoring-css-introduction-part1/",
-          "publishedOn": "2021-07-12T13:30:00.000Z",
-          "wordCount": 3623,
-          "title": "Refactoring CSS: Introduction (Part 1)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b8b722a7-791f-433e-8d76-f0382d387e82/refactoring-css-introduction-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
-          "author": "hello@smashingmagazine.com (Todd Libby)",
-          "description": "Accessibility is often overlooked or bolted on to the end of a project. Let’s figure out how to implement and advocate for accessibility from the inception of a project to the release or handoff and beyond.",
-          "link": "https://smashingmagazine.com/2021/07/strong-case-for-accessibility/",
-          "publishedOn": "2021-07-09T10:30:00.000Z",
-          "wordCount": 2968,
-          "title": "Making A Strong Case For Accessibility",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9c226eaa-3251-4d02-9ade-96a88ad759fc/strong-case-for-accessibility.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-          "author": "hello@smashingmagazine.com (Uma Victor)",
-          "description": "Even though Vue.js claims to have an approachable minimalist framework that can be incrementally adaptable, it can be a little bit overwhelming when starting as a Vue.js newbie. In this article, we’re looking at ways to make writing Vue.js a breeze.",
-          "link": "https://smashingmagazine.com/2021/07/tools-practices-speed-up-vuejs-development-process/",
-          "publishedOn": "2021-07-08T11:00:00.000Z",
-          "wordCount": 4792,
-          "title": "Tools And Practices To Speed Up The Vue.js Development Process",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83768020-8004-41f2-b9a9-14b86c18eb4d/tools-practices-speed-up-vuejs-development-process.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "author": "hello@smashingmagazine.com (Emiliano Cicero)",
-          "description": "Interactive Components in Figma allows designers to create a component with states (hover, active, clicked, focus) and make it interactive so that every copy of the component will inherit those same interactions by default. Let’s explore how it can reduce the time and effort needed to create interactions for your mock-ups.",
-          "link": "https://smashingmagazine.com/2021/07/introduction-figma-interactive-components/",
-          "publishedOn": "2021-07-07T11:00:00.000Z",
-          "wordCount": 4069,
-          "title": "An Introduction To Figma Interactive Components",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a8390d0-26c0-4476-bc00-19e8c89b60c5/introduction-figma-interactive-components.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
-          "author": "hello@smashingmagazine.com (Emmanuel Tissera)",
-          "description": "There is an array of Headless CMSes out there. In this article, we delve into headless CMS features to satisfy your content editors, marketers and yourself as a developer. For the experience headless practitioner, this could be a checklist to see what’s new out there. For those starting out on their headless journey, this could be a guide on what to look for.",
-          "link": "https://smashingmagazine.com/2021/07/how-to-choose-a-headless-cms/",
-          "publishedOn": "2021-07-06T10:30:00.000Z",
-          "wordCount": 4127,
-          "title": "How To Choose A Headless CMS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0fa37a67-9079-4b4d-9489-fcd87c7c3807/how-to-choose-a-headless-cms.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "author": "hello@smashingmagazine.com (Ahmad Shadeed)",
-          "description": "In this article, Ahmad Shadeed explains what HSL is, how to use it, and shares some of the useful use-cases and examples that you can use right away in your current projects.",
-          "link": "https://smashingmagazine.com/2021/07/hsl-colors-css/",
-          "publishedOn": "2021-07-05T10:30:00.000Z",
-          "wordCount": 1600,
-          "title": "Using HSL Colors In CSS",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/73607a1e-fe7f-47ea-aada-df79342d823a/hsl-colors-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/email-testing-flow/",
-          "author": "hello@smashingmagazine.com (Andriy Zapisotskyi)",
-          "description": "With so many tools and approaches, email still has quite a few pain points, both for developers and email marketers. Email is difficult because it has too many aspects to set and a few instances with no common rules to follow.",
-          "link": "https://smashingmagazine.com/2021/07/email-testing-flow/",
-          "publishedOn": "2021-07-02T10:30:00.000Z",
-          "wordCount": 4222,
-          "title": "Email Testing Flow As It Should Be",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/57a53d31-9651-4d88-b2fe-f8de70c08da1/email-testing-flow.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
-          "author": "hello@smashingmagazine.com (Ramona Schwering)",
-          "description": "When writing front-end tests, you’ll find a lot of pitfalls along the way. Let’s explore common mistakes developers make, and how to avoid them. Testing doesn’t need to be painful, after all.",
-          "link": "https://smashingmagazine.com/2021/07/frontend-testing-pitfalls/",
-          "publishedOn": "2021-07-01T12:30:00.000Z",
-          "wordCount": 4784,
-          "title": "It’s A (Front-End Testing) Trap! Six Common Testing Pitfalls And How To Solve Them",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/dc1434b9-70c3-4fb2-821e-2128e3373246/frontend-testing-pitfalls.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/web-workers-2021/",
-          "author": "hello@smashingmagazine.com (Surma)",
-          "description": "The web is single-threaded. This makes it increasingly hard to write smooth and responsive apps. Workers have a bad rep, but can be an important and useful tool in any web developer's toolbelt for these kinds of problems. Let’s get up to speed on Workers on the Web!",
-          "link": "https://smashingmagazine.com/2021/06/web-workers-2021/",
-          "publishedOn": "2021-06-30T12:00:00.000Z",
-          "wordCount": 4754,
-          "title": "The State Of Web Workers In 2021",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/379e4510-b4ab-4fde-9a5d-122738be19b2/web-workers-2021.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome July with some fresh desktop wallpapers. Designed by artists and designers from around the world, they are available with and without a calendar. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/06/desktop-wallpaper-calendars-july-2021/",
-          "publishedOn": "2021-06-30T09:30:00.000Z",
-          "wordCount": 3726,
-          "title": "The Many Shades Of July (2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/814b3b6e-1510-4c12-8504-433157173355/july-21-against-the-current-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Static Generation is great for performance — until the app gets too big and build-times go through the roof. Today, we’ll have a look at how Netlify’s fresh On-Demand Builders can fix that.",
-          "link": "https://smashingmagazine.com/2021/06/breaking-down-bulky-builds-netlify-nextjs/",
-          "publishedOn": "2021-06-29T11:00:00.000Z",
-          "wordCount": 2459,
-          "title": "Breaking Down Bulky Builds With Netlify And Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a11af025-97a1-4506-8cbe-a7786e5574c9/breaking-down-bulky-builds-netlify-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Chakra UI. What is it and how can it help with your React projects? Drew McLellan talks to expert Mike Cavaliere to find out.",
-          "link": "https://smashingmagazine.com/2021/06/smashing-podcast-episode-40/",
-          "publishedOn": "2021-06-29T05:30:00.000Z",
-          "wordCount": 6625,
-          "title": "Smashing Podcast Episode 40 With Mike Cavaliere: What Is Chakra UI For React?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e981ad2c-0679-4935-b19f-39d1ca96823e/smashing-podcast-episode-40.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
-          "description": "In this article, Manuel explains why Emmet is one of his favorite productivity tools for writing HTML and CSS, and how you can create custom Emmet snippets in Visual Studio Code to help you improve your front-end workflows even more.",
-          "link": "https://smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/",
-          "publishedOn": "2021-06-28T10:30:00.000Z",
-          "wordCount": 2544,
-          "title": "Creating Custom Emmet Snippets In VS Code",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b7ff6227-3a15-4237-8e58-aa783fc9c485/custom-emmet-snippets-vscode.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "author": "hello@smashingmagazine.com (Dom Habersack)",
-          "description": "This article explains how we can connect different types of content in a Next.js application. With this technique, we can add any kind of one-to-one, one-to-many, or even many-to-many relationship to our projects.",
-          "link": "https://smashingmagazine.com/2021/06/creating-multi-author-blog-nextjs/",
-          "publishedOn": "2021-06-25T11:30:00.000Z",
-          "wordCount": 5454,
-          "title": "Creating A Multi-Author Blog With Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/28d0f286-9b01-4f8d-aede-01248ba3491d/creating-multi-author-blog-nextjs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "author": "hello@smashingmagazine.com (Mark Lankmilier)",
-          "description": "This article is a case study of how a UX audit affects a UI. It explains how a famous educational platform can be analyzed edX against Jakob Nielsen’s usability guidelines. To get started, Mark Lankmiller shares all of the criteria and metrics he used for his UX audit.",
-          "link": "https://smashingmagazine.com/2021/06/ux-audit-edtech-platform-case-study/",
-          "publishedOn": "2021-06-25T10:00:00.000Z",
-          "wordCount": 3545,
-          "title": "How To Run A UX Audit For A Major EdTech Platform (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d5116c31-3d66-47b0-aa81-1a6759c68b92/ux-audit-edtech-platform-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "author": "hello@smashingmagazine.com (Josh Singer)",
-          "description": "In the dynamic and unpredictable environments in which we work, even the most carefully crafted solutions can have a short shelf life. When we accept that our work is impermanent and our problem-solving abilities are limited, our goal can shift from delivering full solutions to developing tools that empower our users to adaptively design for themselves.",
-          "link": "https://smashingmagazine.com/2021/06/design-thinking-problem-solving-strategy/",
-          "publishedOn": "2021-06-24T14:00:00.000Z",
-          "wordCount": 4184,
-          "title": "The Rise Of Design Thinking As A Problem Solving Strategy",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5ea9274-2ff4-49d8-b259-a5f0904cec77/design-thinking-problem-solving-strategy.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "Frontend and design are remarkably complex these days. That’s why we invite kind, smart folks from the community to run [online workshops](https://smashingconf.com/online-workshops/) for all of us to learn together. And we have new ones coming up, and we’d like to kindly welcome you to join in.",
-          "link": "https://smashingmagazine.com/2021/06/new-smashing-online-workshops-frontend-ux-design/",
-          "publishedOn": "2021-06-23T13:30:00.000Z",
-          "wordCount": 953,
-          "title": "Smashing Online Workshops (July-October 2021)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1a95c729-8b29-4b44-90b0-d38183b367c0/online-workshops-2021-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "author": "hello@smashingmagazine.com (Cameron Cundiff)",
-          "description": "Automated testing is an important part of any software project, including testing for accessibility. There are already tools for linting and integration testing accessibility, but what about end-to-end testing with real assistive technology? Since I hadn’t seen this before, I set out to build Auto VO, a driver for the VoiceOver screen reader.",
-          "link": "https://smashingmagazine.com/2021/06/automating-screen-reader-testing-macos-autovo/",
-          "publishedOn": "2021-06-23T09:30:00.000Z",
-          "wordCount": 1415,
-          "title": "Automating Screen Reader Testing On macOS Using Auto VO",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c81018b9-c45e-4c21-9762-dff84dd2682c/automating-screen-reader-testing-macos-autovo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
-          "description": "After years of innovation in both tools and processes, the struggle between design and development is still real. This article focuses on the best practices for improving the design to development processes and how cutting-edge solutions, such as UXPin powered by Merge technology, can help in facilitating the change.",
-          "link": "https://smashingmagazine.com/2021/06/design-code-modern-approach-development-challenges/",
-          "publishedOn": "2021-06-22T09:00:00.000Z",
-          "wordCount": 2891,
-          "title": "Designing With Code: A Modern Approach To Design (Development Challenges)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/08546e48-5034-466a-a29c-08ce3827416e/uxpin-ui.png",
-            "length": "0",
-            "type": "image/png"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "author": "hello@smashingmagazine.com (Ayobami Ogundiran)",
-          "description": "Do you have to process data manually because it is served through images or scanned documents? An image-to-text conversion makes it possible to extract text from images to automate the processing of texts on images, videos, and scanned documents. In this article, we look at how to convert an image to text with React and Tesseract.js(OCR), preprocess images, and deal with the limitations of Tesseract (OCR).",
-          "link": "https://smashingmagazine.com/2021/06/image-text-conversion-react-tesseract-js-ocr/",
-          "publishedOn": "2021-06-21T14:30:00.000Z",
-          "wordCount": 5378,
-          "title": "Image To Text Conversion With React And Tesseract.js (OCR)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/012f3fbe-980a-44fc-b973-a459f6d9bf1a/image-text-conversion-react-tesseract-js-ocr.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "author": "hello@smashingmagazine.com (Ottomatias Peura)",
-          "description": "Voice assistants are currently the most popular use case for voice user interfaces. However, due to the bad feedback loop resulting from voice assistants can only solve simple user tasks such as setting an alarm or playing music. In order for voice user interfaces to really break through, feedback to the user must be visual, not auditive.",
-          "link": "https://smashingmagazine.com/2021/06/alternative-voice-ui-voice-assistants/",
-          "publishedOn": "2021-06-18T15:00:00.000Z",
-          "wordCount": 3427,
-          "title": "An Alternative Voice UI To Voice Assistants",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8ebd2c76-ebe5-4885-be3e-f9acc3608072/alternative-voice-ui-voice-assistants.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "author": "hello@smashingmagazine.com (Adebiyi Adedotun)",
-          "description": "Next.js has a file-based routing system in which each page automatically becomes a route based on its file name. This article will guide you through almost everything you need to know about Routing in Next.js and point you in the direction of related topics and concepts.",
-          "link": "https://smashingmagazine.com/2021/06/client-side-routing-next-js/",
-          "publishedOn": "2021-06-18T13:00:00.000Z",
-          "wordCount": 3985,
-          "title": "Client-Side Routing In Next.js",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a51f6c83-5e1a-4535-b28a-2018310ffc3b/client-side-routing-next-js.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "Image placement on the modern web is highly intentional, helping to communicate the overall purpose of a page or view. This means that nearly every image you declare needs to have an alternate description.",
-          "link": "https://smashingmagazine.com/2021/06/img-alt-attribute-alternate-description-decorative/",
-          "publishedOn": "2021-06-17T10:30:00.000Z",
-          "wordCount": 1652,
-          "title": "Your Image Is Probably Not Decorative",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/95585fe9-52b8-4bd4-adac-a3580ef87b98/img-alt-attribute-alternate-description-decorative.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "author": "hello@smashingmagazine.com (Nic Chan)",
-          "description": "In a new short series of posts, we highlight some of the useful tools and techniques for developers and designers. Recently we’ve covered HTML Emails and SVG Generators. This time we look into different kinds of tools to help you streamline your accessibility testing process. Don’t miss the next one.",
-          "link": "https://smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/",
-          "publishedOn": "2021-06-16T10:30:00.000Z",
-          "wordCount": 4111,
-          "title": "A Complete Guide To Accessibility Tooling",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/0e0ea8e6-a4ad-489c-b062-749a22d5e38e/complete-guide-accessibility-tooling.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
-      "articles": [
-        {
-          "id": "60d4e7596e1a1407b6b0bb56",
+          "id": "https://hatenacorp.jp/press/release/entry/2021/07/15/113000",
           "author": null,
-          "description": "Did you know that marketers (and even hackers) can use images to track you in your email inbox? Here's how so-called tracking pixels work: Someone creates an image and host it on their server. Often a transparent 1x1 \"tracking pixel\" that you don't even see.They send you an email",
-          "link": "https://www.freecodecamp.org/news/stop-email-tracking-pixel-disable-images-gmail/",
-          "publishedOn": "2021-07-14T17:51:43.000Z",
-          "wordCount": 577,
-          "title": "How to Stop Email Tracking in Gmail – Disable Images by Default"
+          "description": "株式会社はてな（代表取締役社長：栗栖義臣／本社所在地：京都市中京区）は、企業ロゴのデザインをリニューアルし、本日2021年7月15日に公開しました。 当社では“「知る」「つながる」「表現する」で新しい体験を提供し、人の生活を豊かにする”をコーポレートミッションに、さまざまな個人向け・法人向けサービスを展開...",
+          "link": "https://hatenacorp.jp/press/release/entry/2021/07/15/113000",
+          "publishedOn": "2021-07-15T03:24:59.000Z",
+          "wordCount": 118,
+          "title": "はてな、20周年で企業ロゴをリニューアル - プレスリリース - 株式会社はてな"
         },
         {
-          "id": "5ff5461e7af2371468bb7ece",
+          "id": "https://www.hatena.ne.jp/hatena20th",
           "author": null,
-          "description": "We're expanding freeCodeCamp's Python section into a full-blown data science curriculum. Currently, these data science skills are only taught at a few universities around the world. Our goal is for anyone, anywhere to be able to learn these advanced mathematics and machine learning concepts and that data scientists use in",
-          "link": "https://www.freecodecamp.org/news/building-a-data-science-curriculum-with-advanced-math-and-machine-learning/",
-          "publishedOn": "2021-07-14T16:27:00.000Z",
-          "wordCount": 1575,
-          "title": "We&#x27;re Building a Data Science Curriculum with Advanced Mathematics and Machine Learning"
+          "description": "株式会社はてなは、2021/7/15でサービス開始から20周年を迎えました。 この記念すべき節目の年を迎えることができましたのも、 多くのユーザーの皆様に支えられ、 パートナー企業の皆様のご支援、ご愛顧の賜物と心から感謝いたしております。 今後も社員一同決意を新たに、一層の努力で皆様のご愛顧にお応えしていきます...",
+          "link": "https://www.hatena.ne.jp/hatena20th",
+          "publishedOn": "2021-07-15T02:56:06.000Z",
+          "wordCount": 11,
+          "title": "はてな20周年祭 - はてな"
         },
         {
-          "id": "60ebb55be8ee9b08300ed731",
+          "id": "https://togetter.com/li/1745141",
           "author": null,
-          "description": "Websites are a critical part of almost every business or organization in the world. From your nearby florist to global brands, almost everyone uses a website as part of their branding. Unfortunately, websites are also one of the most unsecured gateways through which an attacker can exploit your company. Since",
-          "link": "https://www.freecodecamp.org/news/an-introduction-to-web-server-scanning-with-nikto/",
-          "publishedOn": "2021-07-14T07:18:59.000Z",
-          "wordCount": 1136,
-          "title": "An Introduction to Web Server Scanning With Nikto"
+          "description": "ǝunsʇo ıɯnɟɐsɐɯ @otsune 2011年にも同じ話題が出たのですが、結論から言うと「津波や土砂崩れがギリギリ来ない位置を選んで神社を建ててるのではなく、歴史の流れで被災した神社は残っていないだけ」ですね。 なので古い神社の近くの土地が安全である可能性は高いとは言えるが、昔の人は危険境界を分かっていたわけでは...",
+          "link": "https://togetter.com/li/1745141",
+          "publishedOn": "2021-07-15T02:44:31.000Z",
+          "wordCount": 900,
+          "title": "\"神社は災害が来ない位置にあるという言説、「被災した神社は残っていないだけ」で昔の人は危険境界を理解してた訳では無いという話 - Togetter"
         },
         {
-          "id": "60eb2a69e8ee9b08300ed5b3",
+          "id": "https://medical.jiji.com/news/45151",
           "author": null,
-          "description": "Redis is a type of database that can be added to your produciton level applicaiton to make it more performant.  In this article, I'll go over the Redis basics and show a real world example of Redis in action.  Here's everything we'll go over:  What is Redis? Why the Hype",
-          "link": "https://www.freecodecamp.org/news/redis-crash-course/",
-          "publishedOn": "2021-07-14T06:11:13.000Z",
-          "wordCount": 1435,
-          "title": "Redis Crash Course"
+          "description": "こころがきれいになる医学 正確な情報と予防の知識を常に吸収し、いい気持ちで生活することが身体を守る力になる－。そんなコンセプトのもと、心療内科医・海原純子からみなさんへ「こころがきれいになる医学」をお届けするコーナーです。 もはや日本人の生活様式に不可欠ともいえる温水洗浄便座（以下、温水便座）。多...",
+          "link": "https://medical.jiji.com/news/45151",
+          "publishedOn": "2021-07-15T02:26:56.000Z",
+          "wordCount": 105,
+          "title": "温水便座が院内で多剤耐性菌を拡散か｜最新医療ニュース｜時事メディカル｜時事通信の医療ニュースサイト"
         },
         {
-          "id": "60e73db9134ad707be00f206",
+          "id": "https://www.tamahome.jp/company/ir/upload_file/m000-/210715.pdf?e=7780",
           "author": null,
-          "description": "Branches are one of Git's most important concepts. And to master Git, it's essential to have a thorough understanding of how branches work. We just released a tutorial about Git branches on the freeCodeCamp.org YouTube channel. You will learn about the many actions you can perform around branches -",
-          "link": "https://www.freecodecamp.org/news/how-git-branches-work/",
-          "publishedOn": "2021-07-13T13:44:04.000Z",
-          "wordCount": 4795,
-          "title": "How Git Branches Work"
+          "description": "NEWS RELEASE 1 2021 年 7 月 15 日 タマホーム株式会社 東京都港区高輪 3-22-9 平素より、当社事業活動に対する温かいご支援をいただきまして、誠にありがとうございます。 2021 年 7 月頃より、インターネット上において、当社の新型コロナワクチン対応に関する誤った内容 を記載した、匿名での書き込みが Twitter や...",
+          "link": "https://www.tamahome.jp/company/ir/upload_file/m000-/210715.pdf?e=7780",
+          "publishedOn": "2021-07-15T02:04:41.000Z",
+          "wordCount": 195,
+          "title": "Microsoft Word - デマ打消しリリース_210715r2(Bパターン_1行追加ver.).docx"
         },
         {
-          "id": "609692d82cd0545b5e9441ab",
+          "id": "https://blog.twitter.com/ja_jp/topics/product/2021/goodbye-fleets",
           "author": null,
-          "description": "GraphQL is a query language for your API. It simplifies the process of requesting the server by providing convenient ways to query objects.  For instance, if you're using a REST API and you need a list of books, you might hit the GET /books/list endpoint for all books. Then",
-          "link": "https://www.freecodecamp.org/news/build-graphql-server-with-laravel/",
-          "publishedOn": "2021-07-13T07:54:34.000Z",
-          "wordCount": 2258,
-          "title": "How to Build a GraphQL Server with Laravel GraphQL and Test It with Postman"
+          "description": "私たちは、人々がプレッシャーを感じずに、リラックスしてそのときの思いを表現できるようフリートを開発しました。もっと気軽にTwitter上の会話に加わってほしかったからです。しかし、フリートをきっかけに新たにTwitterで会話に参加する人の数は、私たちが望んでいたようには増えていないことが分かりました。そこでT...",
+          "link": "https://blog.twitter.com/ja_jp/topics/product/2021/goodbye-fleets",
+          "publishedOn": "2021-07-14T22:55:40.000Z",
+          "wordCount": 186,
+          "title": "さよなら、フリート"
         },
         {
-          "id": "60e9c888e8ee9b08300ed212",
+          "id": "https://anond.hatelabo.jp/20210715001433",
           "author": null,
-          "description": "In this guide, you will see exactly how to use Axios.js with React using tons of real-world examples featuring React hooks.  You'll see why you should use Axios as a data fetching library, how to set it up with React, and perform every type of HTTP request with it.",
-          "link": "https://www.freecodecamp.org/news/how-to-use-axios-with-react/",
-          "publishedOn": "2021-07-13T07:36:28.000Z",
-          "wordCount": 2519,
-          "title": "How To Use Axios With React: The Definitive Guide (2021)"
+          "description": "・七人の侍 ・十二人の怒れる男 ・オーシャンズ11 ・300（スリーハンドレッド） ・ふたりはプリキュア",
+          "link": "https://anond.hatelabo.jp/20210715001433",
+          "publishedOn": "2021-07-14T22:44:32.000Z",
+          "wordCount": 157,
+          "title": "作品名に人数が入っていると必ず面白い説"
         },
         {
-          "id": "60e5b284134ad707be00e5e0",
+          "id": "https://bunshun.jp/articles/-/47125",
           "author": null,
-          "description": "Have you noticed that User Interface and User Experience design are considered different topics nowadays? Or have you ever wondered which one is better?  You're not the only one.  We live in a beautiful era of design, with new techniques and trends coming and going. Frontend development is also gaining",
-          "link": "https://www.freecodecamp.org/news/ui-ux-design-guide/",
-          "publishedOn": "2021-07-13T02:14:52.000Z",
-          "wordCount": 2261,
-          "title": "UI/UX Design Guide: What Are UI Designers, and How Are They Different Than UX Designers?"
+          "description": "産廃が埋まった土砂で盛り土をした結果、豪雨で決壊して大規模な土石流が発生、観光地として著名な「熱海」の名声もろとも押し流してしまいました。 神の御許に召された、亡くなられた付近住民の方の魂に平安があらんことを心よりお祈り申し上げます。 私自身も父親が金属輸出入や電気製品の小さな貿易商を営む傍ら、産...",
+          "link": "https://bunshun.jp/articles/-/47125",
+          "publishedOn": "2021-07-14T22:40:08.000Z",
+          "wordCount": 167,
+          "title": "熱海の「産廃土石流」に一言モノ申している小泉進次郎さんが知らないこと | 文春オンライン"
         },
         {
-          "id": "60e753aa134ad707be00f2c1",
+          "id": "https://www.itmedia.co.jp/news/articles/2107/15/news062.html",
           "author": null,
-          "description": "SPSS Statistics is a software package used for interactive, or batched, statistical analysis. We just released a full course on the freeCodeCamp.org YouTube channel that will teach you how to use the popular statistical application SPSS from IBM. This course provides a concise overview of how you can use",
-          "link": "https://www.freecodecamp.org/news/spss-full-course/",
-          "publishedOn": "2021-07-12T13:34:03.000Z",
-          "wordCount": 22122,
-          "title": "Learn How to Use SPSS to Explore and Analyze Data"
+          "description": "Twitterが日本でも昨年11月から提供しているInstagramの「ストーリーズ」に似た「Fleet」を8月3日に終了する。提供の目的は、あまりツイートしない人に投稿しやすい手段を提供することだったが、思ったような効果がなかったためとしている。 米Twitterは7月14日（現地時間）、昨年3月にテストを開始し、日本でも昨年11月...",
+          "link": "https://www.itmedia.co.jp/news/articles/2107/15/news062.html",
+          "publishedOn": "2021-07-14T22:02:33.000Z",
+          "wordCount": 140,
+          "title": "Twitter、24時間で投稿が消える「Fleet」を8月3日に終了へ - ITmedia NEWS"
         },
         {
-          "id": "60e981aae8ee9b08300ed1ae",
+          "id": "https://www.tokyo-np.co.jp/article/116732",
           "author": null,
-          "description": "Artificial intelligence and machine learning are two popular and often hyped terms these days. And people often use them interchangeably to describe an intelligent software or system.  But even though both AI and ML are based on statistics and mathematics, they are not the same thing. In this article, you",
-          "link": "https://www.freecodecamp.org/news/ai-vs-ml-whats-the-difference/",
-          "publishedOn": "2021-07-12T11:46:56.000Z",
-          "wordCount": 899,
-          "title": "AI vs ML – What’s the Difference Between Artificial Intelligence and Machine Learning?"
+          "description": "新型コロナウイルスの感染状況を分析し、厚生労働省に助言する専門家組織「アドバイザリーボード」は１４日、新規感染者数が１０００人を超えた東京都について「感染拡大の速度はさらに加速する」との分析をまとめた。１２日に発令された緊急事態宣言の効果が出るのは早くても２週間後とされ、５０代以下を中心に入院者...",
+          "link": "https://www.tokyo-np.co.jp/article/116732",
+          "publishedOn": "2021-07-14T21:40:59.000Z",
+          "wordCount": 304,
+          "title": "尾身氏、東京でコロナ新規感染1000人超えは「想定内」　感染加速を専門家ら警告：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP7F5G05P77UPQJ00T.html",
+          "author": null,
+          "description": "日本学術会議の会員に推薦されながら、菅義偉首相によって任命を拒否された問題が報道されてから9カ月余り。歴史学者の加藤陽子さんがインタビューに応じた。1930年代を中心にした戦前の日本近代史の研究で知られる加藤さんは、拒否した理由を説明せず、批判されても見直しに応じない現政権を、どう見ているのか。 ――菅...",
+          "link": "https://www.asahi.com/articles/ASP7F5G05P77UPQJ00T.html",
+          "publishedOn": "2021-07-14T21:40:35.000Z",
+          "wordCount": 219,
+          "title": "学術会議　私が外された理由と「6」の意味　加藤陽子氏：朝日新聞デジタル"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210715063023",
+          "author": null,
+          "description": "このブコメ群にとても象徴的だが、 https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20210714123642 お前らは若者を馬鹿にしている。それを隠そうともしない。我々でなくひろゆきを支持するような者は愚かであるというメッセージを意識的にでも無意識的にでも発している。 少なくともひろゆきは10代、20代に対して“敬...",
+          "link": "https://anond.hatelabo.jp/20210715063023",
+          "publishedOn": "2021-07-14T21:40:27.000Z",
+          "wordCount": 262,
+          "title": "何故ひろゆきが支持されているか理解できない老害共へ"
+        },
+        {
+          "id": "https://togetter.com/li/1745004",
+          "author": null,
+          "description": "if @if_itself 「令和生まれの若者は不愉快なことがあると泣くだけで自分で何も出来ない」というネタが2年前に流行りましたが、最近は令和生まれでも、納得いかない時に言葉で抗議したり危険を感じたら走って逃げたりする若者が出現しつつあるようで、時代の流れは早い。 2021-07-13 23:57:00 if @if_itself 令和生まれ...",
+          "link": "https://togetter.com/li/1745004",
+          "publishedOn": "2021-07-14T20:12:53.000Z",
+          "wordCount": 544,
+          "title": "二年前話題となった「令和生まれの若者は泣くだけで何も出来ない問題」→最近は言葉で抗議したり逃げたりする若者が出現しつつある模様 - Togetter"
+        },
+        {
+          "id": "https://www.nikkansports.com/olympic/tokyo2020/news/202107140000998.html",
+          "author": null,
+          "description": "国際オリンピック委員会（IOC）トーマス・バッハ会長（67）が14日、官邸を訪れ、菅義偉首相と面会した。バッハ氏の車はパトカーに先導されながらのVIP待遇で官邸入りした。 菅首相からは「すべての参加者が感染対策をはじめ、適切な行動を取ることが大会成功には不可欠。徹底にぜひ努めていただきたい」と、万全なコロナ...",
+          "link": "https://www.nikkansports.com/olympic/tokyo2020/news/202107140000998.html",
+          "publishedOn": "2021-07-14T18:11:16.000Z",
+          "wordCount": 353,
+          "title": "上機嫌一転「検査体制機能している」バッハ会長“違反”指摘に顔色こわばる - 東京オリンピック2020 : 日刊スポーツ"
+        },
+        {
+          "id": "https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets",
+          "author": null,
+          "description": "We built Fleets as a lower-pressure, ephemeral way for people to share their fleeting thoughts. We hoped Fleets would help more people feel comfortable joining the conversation on Twitter. But, in the time since we introduced Fleets to everyone, we haven’t seen an increase in the number of new pe...",
+          "link": "https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets",
+          "publishedOn": "2021-07-14T17:48:57.000Z",
+          "wordCount": 688,
+          "title": "Goodbye, Fleets"
+        },
+        {
+          "id": "https://natalie.mu/music/news/436905",
+          "author": null,
+          "description": "オリンピック・パラリンピック開会式の音楽監督をFPM田中知之が担当、作曲メンバーに小山田圭吾 2021年7月15日 0:55 4790 開会式と閉会式ともにショーディレクターを小林賢太郎、音楽監督を田中知之（FPM）、音楽監督アシスタントをナカムラヒロシ（i-dep、Sotte Bosse）、舞台美術を種田陽平、ライターを放送作家の樋口...",
+          "link": "https://natalie.mu/music/news/436905",
+          "publishedOn": "2021-07-14T16:00:46.000Z",
+          "wordCount": 410,
+          "title": "オリンピック・パラリンピック開会式の音楽監督をFPM田中知之が担当、作曲メンバーに小山田圭吾 - 音楽ナタリー"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html",
+          "author": null,
+          "description": "米マイクロソフト（MS）は14日朝、ウィンドウズの基本ソフト（OS）「10」や年末に投入される次世代の「11」がクラウド上で利用できるサービス「ウィンドウズ　365」を始めると発表した。8月2日から企業向けに提供する。アップルのiPad（アイパッド）などからも「ウィンドウズ」が利用できるようになり、働き方やパソコン...",
+          "link": "https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html",
+          "publishedOn": "2021-07-14T15:33:27.000Z",
+          "wordCount": 222,
+          "title": "iPadで「ウィンドウズ」利用可能に　クラウド経由で：朝日新聞デジタル"
+        },
+        {
+          "id": "https://amamako.hateblo.jp/entry/2021/07/14/224731",
+          "author": null,
+          "description": "swashweb.net TLでは結構絶賛されていて、「真のフェミニズムってこういうことだよな」みたいなことを書かれている上記の声明文。 ただ、どうも僕は読んでいて納得がいかないんですね。 いや、良いこと書いてあるとは思うんですよ？「すべての人々が解放されるまで私たちは戦う」とか、「私たち全員が自由になるまで、私...",
+          "link": "https://amamako.hateblo.jp/entry/2021/07/14/224731",
+          "publishedOn": "2021-07-14T15:06:10.000Z",
+          "wordCount": 156,
+          "title": "「フェミニスト原則」だけでどうにもならないから今の混沌があるんじゃないの - あままこのブログ"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html",
+          "author": null,
+          "description": "［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに マイクロソフトはオンラインで開催している同社のパートナー向けイベント「Inspire 2021」で、デスクトップ仮想化を用いてクラウドからWindows環境を配信する新サービス「Wi...",
+          "link": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html",
+          "publishedOn": "2021-07-14T15:01:44.000Z",
+          "wordCount": 213,
+          "title": "［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに － Publickey"
+        },
+        {
+          "id": "https://mdpr.jp/news/detail/2672209",
+          "author": null,
+          "description": "YouTubeに動画をあげました！ 【拡散希望】被害者大量…おっさんを騙して3億円稼いだ「頂き女子」の悪質すぎる手口と犯罪行為を公開 https://t.co/kyxR8YrpzB @YouTubeより — コレコレ@8/12誕生日😷 (@korekore19) July 13, 2021 コレコレ「頂き女子りり」に注意喚起「頂き女子」とはSNS上で出会った男性に接触し、嘘を付...",
+          "link": "https://mdpr.jp/news/detail/2672209",
+          "publishedOn": "2021-07-14T13:32:31.000Z",
+          "wordCount": 365,
+          "title": "YouTuberコレコレ「頂き女子りり」に注意喚起 岡野弁護士「10年以下の懲役、犯罪です」 - モデルプレス"
+        },
+        {
+          "id": "https://twitter.com/pmjpadjpadt/status/1415200610454958080",
+          "author": null,
+          "description": "タマホームがワクチン接種をしないように促しているのは事実です。打つなとは言わないものの、打ったら永遠に在宅、PCの持ち帰りも許されない。実質クビを言い渡しているようなものです。実際に1回目の接種を受けてしまっている社員は無期限の在宅処分になっています。",
+          "link": "https://twitter.com/pmjpadjpadt/status/1415200610454958080",
+          "publishedOn": "2021-07-14T13:03:58.000Z",
+          "wordCount": 196,
+          "title": "P on Twitter: \"タマホームがワクチン接種をしないように促しているのは事実です。打つなとは言わないものの、打ったら永遠に在宅、PCの持ち帰りも許されない。実質クビを言い渡しているようなものです。実際に1回目の接種を受けてしまっている社員は無期限の在宅処分になっています。\""
+        },
+        {
+          "id": "https://www.sankei.com/article/20210714-SM6SB6CCAFMX7JCBYRVESEAN64/",
+          "author": null,
+          "description": "「なぜ今なのか」「パートの勤務を減らすしかない」－。中央最低賃金審議会の小委員会で１４日、最低賃金の大幅な引き上げが示されたことに対し、関西の中小企業からは悲鳴があがった。コロナ禍の影響がより大きい中小には人件費の増大で経営体力を奪われるとの懸念が強く、今後雇用を抑制する動きが加速しかねない。 酒...",
+          "link": "https://www.sankei.com/article/20210714-SM6SB6CCAFMX7JCBYRVESEAN64/",
+          "publishedOn": "2021-07-14T12:17:11.000Z",
+          "wordCount": 61,
+          "title": "「なぜ、今なのか」　最低賃金引き上げ決定に中小企業の不満噴出　雇用圧迫の懸念も - 産経ニュース"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html",
+          "author": null,
+          "description": "東京オリンピック（五輪）の選手団の来日がピークを迎え、空港には連日、数百人単位で選手や関係者が入国している。大会中、新型コロナウイルスの感染拡大防止策として、選手団と一般の人たちとを分離する「バブル方式」を採り入れているが、完全な遮断とはほど遠い。 13日午前、成田空港第1ターミナルの北ウイング。複...",
+          "link": "https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html",
+          "publishedOn": "2021-07-14T11:22:53.000Z",
+          "wordCount": 219,
+          "title": "五輪選手団、急に来日・空港客とタッチ…遮断「不可能」 - 東京オリンピック [新型コロナウイルス]：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html",
+          "author": null,
+          "description": "怒るよりも投票に行こう――。サイゼリヤの堀埜（ほりの）一成社長は14日の決算会見で、コロナ禍で苦しい飲食業界の意向が政策に反映されない理由として関係者の「投票率の低さ」を挙げた。今秋までにある総選挙で投票に行くよう、従業員に呼びかけたという。 堀埜社長は、酒類の提供をやめさせようとした政府の一連の対応...",
+          "link": "https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html",
+          "publishedOn": "2021-07-14T10:44:17.000Z",
+          "wordCount": 222,
+          "title": "怒るよりも投票へ　サイゼリヤ社長が従業員に呼びかけ [新型コロナウイルス]：朝日新聞デジタル"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210714185723",
+          "author": null,
+          "description": "https://togetter.com/li/1744776#c9350058 七海@路上喫煙許さないウーマン @nanamiutena 女性が性産業で働く自由って、要は内臓を売るとか覚醒剤漬けになる自由を認めるようなものでしょ？そりゃ反対するよ。明らかに身体に害を与える事に対して、自分の意思でやってさえいれば何でも肯定するなんておかしい。 https://...",
+          "link": "https://anond.hatelabo.jp/20210714185723",
+          "publishedOn": "2021-07-14T10:03:04.000Z",
+          "wordCount": 347,
+          "title": "セックスワーク差別は無知からやってくる"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210714180449",
+          "author": null,
+          "description": "鈴鹿の信号機柱が折れた原因が犬のおしっこだというNHKのニュースが人気だけど、この報道ちょっと短絡的なんよ。 https://www3.nhk.or.jp/news/html/20210713/k10013135901000.html 地中に尿素が沢山検出された→尿に含まれる塩分のせいで腐食が速く進んだって理路だが、この科捜研の推理、間違いじゃね？普通こういう場...",
+          "link": "https://anond.hatelabo.jp/20210714180449",
+          "publishedOn": "2021-07-14T09:07:55.000Z",
+          "wordCount": 127,
+          "title": "「信号機倒壊原因は『犬の尿』by科捜研」の記事はバカニュースの類か"
+        },
+        {
+          "id": "https://togetter.com/li/1744846",
+          "author": null,
+          "description": "Swash @swash_jp フェミニストグループ、女性の人権団体、LGBTIQ＋やトランス主導の団体など18団体による共同声明、 「フェミニスト原則の再確認を呼びかける」 が発表されました。 共同声明の翻訳を掲載しました。 swashweb.net/2021/07/12/pos… 広く共有のご協力をお願いします。 個人でも団体でも署名できます。 2021...",
+          "link": "https://togetter.com/li/1744846",
+          "publishedOn": "2021-07-14T07:33:58.000Z",
+          "wordCount": 1125,
+          "title": "ツイフェミ「フェミニズムとツイフェミって、違ったの…？」 - Togetter"
+        },
+        {
+          "id": "https://twitter.com/nitiyoutwitt/status/1415181759197503492",
+          "author": null,
+          "description": "【スクープ】 感染対策で入国後14日間は公共交通機関を使えない五輪海外メディア。しかし菅政権は、普通のタクシーを使わせていました 編集部の入手資料には「ハイヤーヘンシン」という言葉が。五輪関係者の乗車時だけタクシーは専用ハイヤー（… https://t.co/gAdvcRr88s",
+          "link": "https://twitter.com/nitiyoutwitt/status/1415181759197503492",
+          "publishedOn": "2021-07-14T07:26:16.000Z",
+          "wordCount": 196,
+          "title": "しんぶん赤旗日曜版 on Twitter: \"【スクープ】 感染対策で入国後14日間は公共交通機関を使えない五輪海外メディア。しかし菅政権は、普通のタクシーを使わせていました 編集部の入手資料には「ハイヤーヘンシン」という言葉が。五輪関係者の乗車時だけタクシーは専用ハイヤー（… https://t.co/gAdvcRr88s\""
+        },
+        {
+          "id": "https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7",
+          "author": null,
+          "description": "役立つYouTubeのチャンネルまとめ 物理数学、アルゴリズム、プログラミング、などなど自分が使う技術に役立ちそうだな、困ったときによく見たなと思うチャンネルを紹介する。 取っ掛かり、ハマりがち、コツみたいな物が拾える。数学がメイン。随時更新していくつもり。 背景 YouTubeは視聴する登録チャンネルの数が増え...",
+          "link": "https://qiita.com/welt_meister_/items/d89710a59c8822ac7fc7",
+          "publishedOn": "2021-07-10T13:15:10.000Z",
+          "wordCount": 418,
+          "title": "技術ようつべチャンネル集 - Qiita"
         }
       ]
     }
