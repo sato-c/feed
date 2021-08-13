@@ -6,6 +6,276 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www3.nhk.or.jp/news/html/20210813/k10013198281000.html",
+          "author": null,
+          "description": "あさって15日の「終戦の日」を前に、西村経済再生担当大臣は、13日午前8時ごろ、東京・九段の靖国神社に参拝しました。",
+          "link": "https://www3.nhk.or.jp/news/html/20210813/k10013198281000.html",
+          "publishedOn": "2021-08-12T23:47:22.000Z",
+          "wordCount": 21,
+          "title": "西村経済再生相が靖国神社に参拝 | NHKニュース"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/123804",
+          "author": null,
+          "description": "国の持続化給付金事業で再委託や外注が繰り返された問題で、不透明な業務や支出の無駄がないかを検査していた経済産業省は１２日、最終結果を公表した。事業に関与した企業は５６４社（受注額１００万円以上）に上り、下請けは最大９次まで及ぶことが明らかとなったが、経産省は「手続きや取引の適切性を確認した」と結...",
+          "link": "https://www.tokyo-np.co.jp/article/123804",
+          "publishedOn": "2021-08-12T22:03:35.000Z",
+          "wordCount": 312,
+          "title": "最大9次下請け、564社関与　持続化給付金「中抜き」批判の電通再委託問題　経産省が検査の最終結果公表：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8D71ZZP8DUTIL067.html",
+          "author": null,
+          "description": "公明党衆院議員の秘書らが日本政策金融公庫の融資の違法な仲介に関わったとされる事件で、公庫の担当者の紹介を依頼した業者が同党の遠山清彦・前衆院議員側に計数百万円の現金を渡していた疑いがあることが、関係者への取材でわかった。遠山氏側が担当者紹介の謝礼として利得を得ていれば貸金業法違反の共犯になる可能...",
+          "link": "https://www.asahi.com/articles/ASP8D71ZZP8DUTIL067.html",
+          "publishedOn": "2021-08-12T21:25:35.000Z",
+          "wordCount": 218,
+          "title": "公明前議員側に数百万円提供か　公庫融資仲介の依頼業者：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www.afpbb.com/articles/-/3361497",
+          "author": null,
+          "description": "米ロサンゼルスで行われたデモで、極右陰謀論「Qアノン」信奉者が掲げた旗（2020年8月22日撮影、資料写真）。(c)Kyle Grillot / AFP 【8月13日 AFP】米連邦当局は11日、子ども2人を水中銃で殺害したとして、父親の男を訴追した。男は「Qアノン（QAnon）」などの陰謀論に感化され、「蛇のDNA」を持つ怪物から世界を救うた...",
+          "link": "https://www.afpbb.com/articles/-/3361497",
+          "publishedOn": "2021-08-12T20:13:00.000Z",
+          "wordCount": 146,
+          "title": "Qアノン信奉の男、「蛇のDNA」信じ子ども2人殺害 米　写真1枚　国際ニュース：AFPBB News"
+        },
+        {
+          "id": "https://togetter.com/li/1758756",
+          "author": null,
+          "description": "pamo @pamo09 @naco6r 「ちっ、またかぶった。」 「あれぇ同じのが出てきた？」 「コンプリート！」 ガチャポンって電気使わないから、自動販売機としては安いのかしらん？カプセルやカプセルにつめる手間をいれてもまだ安いのかしら？ 2021-08-11 09:42:19",
+          "link": "https://togetter.com/li/1758756",
+          "publishedOn": "2021-08-12T16:47:09.000Z",
+          "wordCount": 584,
+          "title": "「これは発想の勝利」陸運局に行ったら証紙をガチャガチャで販売…？ふざけているのかと思ったらとんでもなく合理的なコストカットだった - Togetter"
+        },
+        {
+          "id": "https://togetter.com/li/1758749",
+          "author": null,
+          "description": "ふろってぃ @furotty いまだ関東に馴れない関西人。二人育児ですが、ハンドメイドに夢中です。 ミシンソーイング つまみ細工 その他 ご心配をおかけしてましたが、保育士試験受かってます。時給がコンビニを越えたら保育士パートします。 ふろってぃ @furotty 元銀行員です。固い判子は一部が欠けても元のものと照合でき...",
+          "link": "https://togetter.com/li/1758749",
+          "publishedOn": "2021-08-12T16:45:17.000Z",
+          "wordCount": 598,
+          "title": "「なんでシャチハタはダメなのに100均のハンコはOKなの？」→その答えは年月が経過するとわかってくる！ - Togetter"
+        },
+        {
+          "id": "https://www.chunichi.co.jp/article/309964",
+          "author": null,
+          "description": "高致死率ラムダ株2週間報告せず「もっと早く問い合わせがあれば答えた」自民党外交部会長が番組で釈明 2021年8月12日 22時23分 12日のBS―TBS「報道1930」に自民党外交部会長を務める佐藤正久参院議員（60）が出演。致死率の高い「ラムダ株」が東京五輪開幕の7月23日に国内で初めて解析され、国際機関に報告しながら、8月...",
+          "link": "https://www.chunichi.co.jp/article/309964",
+          "publishedOn": "2021-08-12T15:24:29.000Z",
+          "wordCount": 296,
+          "title": "高致死率ラムダ株2週間報告せず「もっと早く問い合わせがあれば答えた」自民党外交部会長が番組で釈明：中日スポーツ・東京中日スポーツ"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210813/k00/00m/040/001000c",
+          "author": null,
+          "description": "「メンタリスト」のDaiGo氏が、動画投稿サイト「ユーチューブ」で、ホームレスの人や生活保護受給者を差別する主張をする動画を載せ、批判を集めている。ホームレスに対しては「いないほうがいい」「犯罪者を殺すのと同じ」などと言い、差別や攻撃を扇動するとして、インターネット上で「炎上」状態となっている。 ※記事...",
+          "link": "https://mainichi.jp/articles/20210813/k00/00m/040/001000c",
+          "publishedOn": "2021-08-12T15:18:28.000Z",
+          "wordCount": 472,
+          "title": "メンタリストDaiGo氏、ホームレスの人への差別発言で「炎上」 | 毎日新聞"
+        },
+        {
+          "id": "https://www.wasteofpops.com/entry/2021/08/12/000000",
+          "author": null,
+          "description": "Zepp Tokyo・STUDIO COASTの閉館が決まりました。 どちらも相当に行き倒したライブハウスなので非常に残念な気持ちはあるのですが、Zepp Tokyoは元々もっと早くに閉館する予定で、Zepp DiverCityはその代替としてのオープンのはずだったのが、跡地の再開発計画の延期で営業期間延長しての今回ですので、むしろ今まで粘っ...",
+          "link": "https://www.wasteofpops.com/entry/2021/08/12/000000",
+          "publishedOn": "2021-08-12T15:03:13.000Z",
+          "wordCount": 191,
+          "title": "Zepp TokyoとSTUDIO COAST閉店以降の首都圏のライブ会場のこと - WASTE OF POPS 80s-90s"
+        },
+        {
+          "id": "https://twitter.com/ryogomatsumaru/status/1425831859724845059",
+          "author": null,
+          "description": "今まで兄が炎上しても「また炎上してんな〜〜」くらいにしか思ってなかったし触れないようにしてたけど、人の命を軽く見る発言だけはさすがにダメです。それだけは絶対に許されない。 今度会ったら絶対に論破するまで怒り続けます。今回ばかりは兄がおかしい。ごめんね。",
+          "link": "https://twitter.com/ryogomatsumaru/status/1425831859724845059",
+          "publishedOn": "2021-08-12T15:00:50.000Z",
+          "wordCount": 196,
+          "title": "松丸 亮吾 🍥 on Twitter: \"今まで兄が炎上しても「また炎上してんな〜〜」くらいにしか思ってなかったし触れないようにしてたけど、人の命を軽く見る発言だけはさすがにダメです。それだけは絶対に許されない。 今度会ったら絶対に論破するまで怒り続けます。今回ばかりは兄がおかしい。ごめんね。\""
+        },
+        {
+          "id": "https://www.buzzfeed.com/jp/kotahatachi/daigo-youtube",
+          "author": null,
+          "description": "メンタリストDaiGo氏の生活保護受給者やホームレスの人たちに対するYouTube上の発言が批判を集めている。差別や攻撃を煽動しかねないもので、優生思想に直結するとの指摘もある。 動画では、「生活保護の人が生きてても僕は別に得しない」「必要のない命は僕にとって軽い」と発言。さらにホームレスの人たちについては、...",
+          "link": "https://www.buzzfeed.com/jp/kotahatachi/daigo-youtube",
+          "publishedOn": "2021-08-12T14:00:06.000Z",
+          "wordCount": 91,
+          "title": "「ホームレスの命はどうでもいい」人間と猫の命を比較し… メンタリストDaiGo氏の発言に批判殺到"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a130cfbc05bbb3b38bb87eb675db4594cae4bfcc",
+          "author": null,
+          "description": "12日のBS―TBS「報道1930」に自民党外交部会長を務める佐藤正久参院議員（60）が出演。致死率の高い「ラムダ株」が東京五輪開幕の7月23日に国内で初めて解析され、国際機関に報告しながら、8月6日に一部報道されるまで明らかにならなかった件について「早く発表すべきだったが、政府の中でも情報が共有されていなかった。...",
+          "link": "https://news.yahoo.co.jp/articles/a130cfbc05bbb3b38bb87eb675db4594cae4bfcc",
+          "publishedOn": "2021-08-12T13:47:43.000Z",
+          "wordCount": 67,
+          "title": "高致死率ラムダ株2週間報告せず「もっと早く問い合わせがあれば答えた」自民党外交部会長が番組で釈明（中日スポーツ） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www.sanspo.com/article/20210812-PZ5UGSLD3NORDJDLLIRK75XU5U/",
+          "author": null,
+          "description": "東京五輪女子フェザー級で日本女子初の金メダルを獲得した入江聖奈（せな、２０）＝日体大＝を扱ったＴＢＳテレビ系情報番組「サンデーモーニング」で、野球解説者の張本勲氏（８１）が女性およびボクシングを蔑視した発言をした問題について、日本ボクシング連盟は１２日、ＴＢＳから謝罪文を受け取ったと発表した。 ８...",
+          "link": "https://www.sanspo.com/article/20210812-PZ5UGSLD3NORDJDLLIRK75XU5U/",
+          "publishedOn": "2021-08-12T13:39:54.000Z",
+          "wordCount": 27,
+          "title": "ＴＢＳが張本勲氏の発言を謝罪　張本氏は「言葉足らずで反省しています」／ＢＯＸ - サンスポ"
+        },
+        {
+          "id": "https://togetter.com/li/1758642",
+          "author": null,
+          "description": "かえる™ @72jailbreak 興信所の人捜し事例を眺めていると、40代以上の既婚男性からの「ふと若い頃の元カノが今幸せに暮らしているのか気になって……」という依頼がめちゃくちゃ多い。「配偶者に内緒で大金を支払って昔の恋人の暮らしぶりを知りたい」という欲求is何？？マジで自分の中にはない衝動なのでおもしろかった。...",
+          "link": "https://togetter.com/li/1758642",
+          "publishedOn": "2021-08-12T12:47:25.000Z",
+          "wordCount": 2114,
+          "title": "興信所の人捜し事例、40代以上の既婚男性による「若い頃の元カノが今幸せに暮らしているか」という依頼が多いらしい - Togetter"
+        },
+        {
+          "id": "https://yorozoonews.jp/article/14415456",
+          "author": null,
+          "description": "映画監督で脚本家、俳優としても活躍するクエンティン・タランティーノ（５８）は、作家になる夢を応援してくれなかった母親に対し、今でも経済的な援助をしていないという。ハリウッドの大物監督の１人に数えられるタランティーノは、１２歳の時、来...",
+          "link": "https://yorozoonews.jp/article/14415456",
+          "publishedOn": "2021-08-12T12:25:45.000Z",
+          "wordCount": 191,
+          "title": "タランティーノ 自分の夢をバカにした母親に１円の経済援助もなし「子供に向けた言葉には結果がある」｜よろず〜ニュース"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210812/k00/00m/040/307000c",
+          "author": null,
+          "description": "名古屋出入国在留管理局（名古屋市）に収容されていたスリランカ人女性、ウィシュマ・サンダマリさん（当時33歳）が3月に死亡した問題で、出入国在留管理庁は12日、ウィシュマさんが映った施設内の監視カメラ映像を遺族に開示した。遺族側は「動物のように扱われていた」と感想を述べた。 遺族によると、この日、上川陽...",
+          "link": "https://mainichi.jp/articles/20210812/k00/00m/040/307000c",
+          "publishedOn": "2021-08-12T12:12:03.000Z",
+          "wordCount": 545,
+          "title": "入管女性死亡でビデオ映像開示　遺族「動物のように扱われていた」 | 毎日新聞"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8D6TZ0P8DUTIL00T.html",
+          "author": null,
+          "description": "名古屋出入国在留管理局の施設で今年3月に亡くなったスリランカ人ウィシュマ・サンダマリさん（当時33）の収容中の様子を撮影した監視カメラのビデオ映像が12日、来日中の妹2人に開示された。映像は、記録が残る2月22日から死亡した3月6日までの13日分を、出入国在留管理庁が2時間に編集した。 ウィシュマさんが日に日に...",
+          "link": "https://www.asahi.com/articles/ASP8D6TZ0P8DUTIL00T.html",
+          "publishedOn": "2021-08-12T12:05:39.000Z",
+          "wordCount": 220,
+          "title": "スリランカ人女性のビデオ開示　遺族、衝撃受け視聴中断：朝日新聞デジタル"
+        },
+        {
+          "id": "https://nordot.app/798520458961534976",
+          "author": null,
+          "description": "東京都は12日、新型コロナウイルスに感染して死亡した60代男性が2回のワクチン接種を6月に済ませていたと明らかにした。都内で2回接種後の死亡が判明した例は初めてとしている。",
+          "link": "https://nordot.app/798520458961534976",
+          "publishedOn": "2021-08-12T11:56:13.000Z",
+          "wordCount": 39,
+          "title": "ワクチン2回接種済みの男性死亡　東京の60代 ｜ 共同通信"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210812202705",
+          "author": null,
+          "description": "あれほど人流が増える！って発狂していた皆さんはどこへ行かれたのでしょう？ オリンピックは選手は選手村に隔離、メディアや関係やはホテルに隔離、公共の交通機関も利用禁止、対策済みのタクシーのみ可だったけど 全国から1万人くらい移動してきてる甲子園が絶賛開催中なのに、なんで中止を訴えないの？ 君らの存在の...",
+          "link": "https://anond.hatelabo.jp/20210812202705",
+          "publishedOn": "2021-08-12T11:30:37.000Z",
+          "wordCount": 203,
+          "title": "五輪反対派ってどこ行った？"
+        },
+        {
+          "id": "https://www.fnn.jp/articles/-/223314",
+          "author": null,
+          "description": "若者はワクチン接種で、ポイントがもらえることになる。 東京都は、新たな補正予算案で、若年層へのワクチン接種を促進するため、ワクチン接種促進キャンペーン事業を行う方針を固めた。 このキャンペーンでは、接種記録を読み込めるアプリを開発し、登録すると、20代と30代限定で割引やポイントが付与されるという。 具...",
+          "link": "https://www.fnn.jp/articles/-/223314",
+          "publishedOn": "2021-08-12T11:12:38.000Z",
+          "wordCount": 127,
+          "title": "【速報】東京都が20代・30代限定ポイント導入へ　若者のワクチン接種促す狙い"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210812/k00/00m/040/280000c",
+          "author": null,
+          "description": "政府の有識者会議「新型コロナウイルス感染症対策分科会」がお盆休み前後の対策強化を提言したことを受け、西村康稔経済再生担当相は12日、東京都内で記者団に「強い危機感を専門家と共有している」と述べた。その上で、お盆期間中の鉄道・航空の予約が昨年より増加しているとして、「緊急事態宣言地域などの発着便は、...",
+          "link": "https://mainichi.jp/articles/20210812/k00/00m/040/280000c",
+          "publishedOn": "2021-08-12T10:57:26.000Z",
+          "wordCount": 532,
+          "title": "西村担当相「今からでも帰省キャンセルを」　分科会提言受け | 毎日新聞"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210812/k10013197681000.html",
+          "author": null,
+          "description": "新型コロナウイルス対策の政府分科会の尾身茂会長が12日、記者会見を開き「このままでは自宅療養中に亡くなるケースが増えてしまう」と述べ、この2週間で東京都などでは人出を7月前半に比べて最低でも5割減らすことが必要だとして協力を呼びかけました。 新型コロナウイルスの急激な感染拡大に歯止めをかける必要がある...",
+          "link": "https://www3.nhk.or.jp/news/html/20210812/k10013197681000.html",
+          "publishedOn": "2021-08-12T10:09:32.000Z",
+          "wordCount": 22,
+          "title": "尾身会長「このままでは自宅療養中に亡くなるケース増える」 | 新型コロナウイルス | NHKニュース"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/12/news145.html",
+          "author": null,
+          "description": "法人向け料金は従量制で、計算に使用するCPUの性能と利用時間で変動する。最も安い2コアのCPUを使う場合は1時間で0.18ドル（約20円）。使用したデータの容量1GB当たり0.07ドル（約7円）も月額で別途請求する。 Visual Studio Codeは米Microsoftが手掛けるソースコードエディタ。Microsoftは2018年にGitHubを買収した。 ...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/12/news145.html",
+          "publishedOn": "2021-08-12T10:03:58.000Z",
+          "wordCount": 159,
+          "title": "「便利すぎる」──GitHubから直接「Visual Studio Code」を起動できる新機能が話題に - ITmedia NEWS"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8D5DWHP8DOIPE00Q.html",
+          "author": null,
+          "description": "河村たかし・名古屋市長がかじった東京五輪ソフトボール選手の金メダルを国際オリンピック委員会（IOC）などが交換する方針であることが明らかになったことを受け、12日に河村市長が記者会見した。市長の発言と報道陣との主なやりとりは、以下の通り。 「報道がございましたけど、まああの、基本的に、行き過ぎた発言が...",
+          "link": "https://www.asahi.com/articles/ASP8D5DWHP8DOIPE00Q.html",
+          "publishedOn": "2021-08-12T08:06:01.000Z",
+          "wordCount": 261,
+          "title": "河村氏「申し訳にゃあと言うしかないでしょう」会見詳報 - 東京オリンピック：朝日新聞デジタル"
+        },
+        {
+          "id": "https://katsumakazuyo.hatenablog.com/entry/2021/08/12/162845",
+          "author": null,
+          "description": "Humankind　希望の歴史　上　人類が善き未来をつくるための18章 (文春e-book) 作者:ルトガー・ブレグマン 文藝春秋 Amazon Humankind　希望の歴史　下　人類が善き未来をつくるための18章 (文春e-book) 作者:ルトガー・ブレグマン 文藝春秋 Amazon こちらは、周りでものすごく話題だからと、友人から推薦されてさっそく...",
+          "link": "https://katsumakazuyo.hatenablog.com/entry/2021/08/12/162845",
+          "publishedOn": "2021-08-12T07:40:53.000Z",
+          "wordCount": 225,
+          "title": "激推し。ここ数年の中で、一番衝撃的だった本「Humankind 希望の歴史」。人間の本質は善良で利他的で協力的だと考えると、ありとあらゆる謎が解けます！！ - 勝間和代が徹底的にマニアックな話をアップするブログ"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210812/k00/00m/010/138000c",
+          "author": null,
+          "description": "共産党の小池晃書記局長は10日夜のユーチューブ番組で、菅義偉首相について「説明できない。自分の言葉でまったく語れない。しかも原稿も読めない。ちょっと大丈夫か」と述べた。首相は6日、広島市で開かれた平和記念式典であいさつの一部を読み飛ばすなど、発信力に課題を抱えている。 小池氏は、日本学術会議の任命拒...",
+          "link": "https://mainichi.jp/articles/20210812/k00/00m/010/138000c",
+          "publishedOn": "2021-08-12T07:31:57.000Z",
+          "wordCount": 466,
+          "title": "「菅首相、ちょっと大丈夫か」共産・小池氏、ユーチューブ番組で | 毎日新聞"
+        },
+        {
+          "id": "http://blog.livedoor.jp/dqnplus/archives/2009780.html",
+          "author": null,
+          "description": "DaiGo「生活保護の人とホームレスは社会にいらない。生活保護に食わせる金あるなら猫救え」｢邪魔だしプラスになんないしいない方がいい｣ 1 名前：Anonymous ★：2021/08/12(木) 11:34:46.46 ID:CAP_USER9 メンタリストDaiGo 「僕は生活保護の人たちにお金を払うために税金を納めてるんじゃないからね。 生活保護の人に食...",
+          "link": "http://blog.livedoor.jp/dqnplus/archives/2009780.html",
+          "publishedOn": "2021-08-12T07:13:20.000Z",
+          "wordCount": 21718,
+          "title": "痛いニュース(ﾉ∀`) : DaiGo「生活保護の人とホームレスは社会にいらない。生活保護に食わせる金あるなら猫救え」｢邪魔だしプラスになんないしいない方がいい｣ - ライブドアブログ"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/byline/itojota/20210812-00252859",
+          "author": null,
+          "description": "東京五輪2020の卓球競技で、各国の選手たちが「チキータ」と呼ばれる技術を駆使して戦った。「チキータ」とは、もともとは1990年代にボールの軌道を曲げる技術として登場し、アメリカのバナナのブランド名から名づけられた。それを中国の選手が激しい前進回転をかける技術に改良して優勝したのが2011年の世界選手権だっ...",
+          "link": "https://news.yahoo.co.jp/byline/itojota/20210812-00252859",
+          "publishedOn": "2021-08-12T06:57:26.000Z",
+          "wordCount": 65,
+          "title": "【卓球】五輪でも威力を発揮した「チキータ」とは何か　卓球史上最大の技術革新（伊藤条太） - 個人 - Yahoo!ニュース"
+        },
+        {
+          "id": "https://togetter.com/li/1758517",
+          "author": null,
+          "description": "100RT以上されている作品をまとめました。他にも素敵な写真がたくさんあるので、ぜひタグ検索してみてください。",
+          "link": "https://togetter.com/li/1758517",
+          "publishedOn": "2021-08-12T05:11:01.000Z",
+          "wordCount": 812,
+          "title": "#人がいるから返って良かった写真 みなさんの「人が写っているからこそ素敵」なお気に入り作品をまとめました - Togetter"
+        },
+        {
+          "id": "https://www.businessinsider.jp/post-240199",
+          "author": null,
+          "description": "2021年7月28日、不可解な現象が起こった。 1989年に作家の筒井康隆さんが発表し、1995年に中央公論新社から文庫本が出版された小説『残像に口紅を』が突然、各通販サイトで上位にランクインしたのだ。 アマゾンでは、本の売れ筋ランキングの総合で一時は9位となり、日本文学部門などで1位を獲得。反響を受けて、同作は3...",
+          "link": "https://www.businessinsider.jp/post-240199",
+          "publishedOn": "2021-08-12T04:08:38.000Z",
+          "wordCount": 198,
+          "title": "｢TikTok売れ｣で30年前の実験的SF小説が3万5000部の緊急重版……メガヒットに出版社も熱視線 | Business Insider Japan"
+        },
+        {
           "id": "https://internet.watch.impress.co.jp/docs/yajiuma/1343466.html",
           "author": null,
           "description": "Firefoxのユーザが激減していることについて考察したレポートが海外で話題だ。",
@@ -7726,69 +7996,6 @@
           "publishedOn": "2021-07-14T13:03:58.000Z",
           "wordCount": 196,
           "title": "P on Twitter: \"タマホームがワクチン接種をしないように促しているのは事実です。打つなとは言わないものの、打ったら永遠に在宅、PCの持ち帰りも許されない。実質クビを言い渡しているようなものです。実際に1回目の接種を受けてしまっている社員は無期限の在宅処分になっています。\""
-        },
-        {
-          "id": "https://www.sankei.com/article/20210714-SM6SB6CCAFMX7JCBYRVESEAN64/",
-          "author": null,
-          "description": "「なぜ今なのか」「パートの勤務を減らすしかない」－。中央最低賃金審議会の小委員会で１４日、最低賃金の大幅な引き上げが示されたことに対し、関西の中小企業からは悲鳴があがった。コロナ禍の影響がより大きい中小には人件費の増大で経営体力を奪われるとの懸念が強く、今後雇用を抑制する動きが加速しかねない。 酒...",
-          "link": "https://www.sankei.com/article/20210714-SM6SB6CCAFMX7JCBYRVESEAN64/",
-          "publishedOn": "2021-07-14T12:17:11.000Z",
-          "wordCount": 61,
-          "title": "「なぜ、今なのか」　最低賃金引き上げ決定に中小企業の不満噴出　雇用圧迫の懸念も - 産経ニュース"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html",
-          "author": null,
-          "description": "東京オリンピック（五輪）の選手団の来日がピークを迎え、空港には連日、数百人単位で選手や関係者が入国している。大会中、新型コロナウイルスの感染拡大防止策として、選手団と一般の人たちとを分離する「バブル方式」を採り入れているが、完全な遮断とはほど遠い。 13日午前、成田空港第1ターミナルの北ウイング。複...",
-          "link": "https://www.asahi.com/articles/ASP7G677QP7GUTIL01R.html",
-          "publishedOn": "2021-07-14T11:22:53.000Z",
-          "wordCount": 219,
-          "title": "五輪選手団、急に来日・空港客とタッチ…遮断「不可能」 - 東京オリンピック [新型コロナウイルス]：朝日新聞デジタル"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html",
-          "author": null,
-          "description": "怒るよりも投票に行こう――。サイゼリヤの堀埜（ほりの）一成社長は14日の決算会見で、コロナ禍で苦しい飲食業界の意向が政策に反映されない理由として関係者の「投票率の低さ」を挙げた。今秋までにある総選挙で投票に行くよう、従業員に呼びかけたという。 堀埜社長は、酒類の提供をやめさせようとした政府の一連の対応...",
-          "link": "https://www.asahi.com/articles/ASP7G6FL7P7GULFA021.html",
-          "publishedOn": "2021-07-14T10:44:17.000Z",
-          "wordCount": 222,
-          "title": "怒るよりも投票へ　サイゼリヤ社長が従業員に呼びかけ [新型コロナウイルス]：朝日新聞デジタル"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210714185723",
-          "author": null,
-          "description": "https://togetter.com/li/1744776#c9350058 七海@路上喫煙許さないウーマン @nanamiutena 女性が性産業で働く自由って、要は内臓を売るとか覚醒剤漬けになる自由を認めるようなものでしょ？そりゃ反対するよ。明らかに身体に害を与える事に対して、自分の意思でやってさえいれば何でも肯定するなんておかしい。 https://...",
-          "link": "https://anond.hatelabo.jp/20210714185723",
-          "publishedOn": "2021-07-14T10:03:04.000Z",
-          "wordCount": 347,
-          "title": "セックスワーク差別は無知からやってくる"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210714180449",
-          "author": null,
-          "description": "鈴鹿の信号機柱が折れた原因が犬のおしっこだというNHKのニュースが人気だけど、この報道ちょっと短絡的なんよ。 https://www3.nhk.or.jp/news/html/20210713/k10013135901000.html 地中に尿素が沢山検出された→尿に含まれる塩分のせいで腐食が速く進んだって理路だが、この科捜研の推理、間違いじゃね？普通こういう場...",
-          "link": "https://anond.hatelabo.jp/20210714180449",
-          "publishedOn": "2021-07-14T09:07:55.000Z",
-          "wordCount": 127,
-          "title": "「信号機倒壊原因は『犬の尿』by科捜研」の記事はバカニュースの類か"
-        },
-        {
-          "id": "https://togetter.com/li/1744846",
-          "author": null,
-          "description": "Swash @swash_jp フェミニストグループ、女性の人権団体、LGBTIQ＋やトランス主導の団体など18団体による共同声明、 「フェミニスト原則の再確認を呼びかける」 が発表されました。 共同声明の翻訳を掲載しました。 swashweb.net/2021/07/12/pos… 広く共有のご協力をお願いします。 個人でも団体でも署名できます。 2021...",
-          "link": "https://togetter.com/li/1744846",
-          "publishedOn": "2021-07-14T07:33:58.000Z",
-          "wordCount": 1125,
-          "title": "ツイフェミ「フェミニズムとツイフェミって、違ったの…？」 - Togetter"
-        },
-        {
-          "id": "https://twitter.com/nitiyoutwitt/status/1415181759197503492",
-          "author": null,
-          "description": "【スクープ】 感染対策で入国後14日間は公共交通機関を使えない五輪海外メディア。しかし菅政権は、普通のタクシーを使わせていました 編集部の入手資料には「ハイヤーヘンシン」という言葉が。五輪関係者の乗車時だけタクシーは専用ハイヤー（… https://t.co/gAdvcRr88s",
-          "link": "https://twitter.com/nitiyoutwitt/status/1415181759197503492",
-          "publishedOn": "2021-07-14T07:26:16.000Z",
-          "wordCount": 196,
-          "title": "しんぶん赤旗日曜版 on Twitter: \"【スクープ】 感染対策で入国後14日間は公共交通機関を使えない五輪海外メディア。しかし菅政権は、普通のタクシーを使わせていました 編集部の入手資料には「ハイヤーヘンシン」という言葉が。五輪関係者の乗車時だけタクシーは専用ハイヤー（… https://t.co/gAdvcRr88s\""
         }
       ]
     }
