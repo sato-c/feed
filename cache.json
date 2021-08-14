@@ -6,6 +6,276 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.tokyo-np.co.jp/article/124060",
+          "author": null,
+          "description": "新型コロナウイルスワクチンの１回目を、国民の約半数が打ち終えた。データが蓄積され、米ファイザー製、米モデルナ製それぞれの特徴が見えてきた。厚生労働省の研究では、モデルナ接種後に発熱した人の割合はファイザー接種後の２～３倍に上ると判明。諸外国より突出して多く、日本特有の現象だ。２回のワクチン接種を...",
+          "link": "https://www.tokyo-np.co.jp/article/124060",
+          "publishedOn": "2021-08-13T22:07:18.000Z",
+          "wordCount": 304,
+          "title": "なぜ日本人はモデルナで発熱するのか…ファイザーの２～３倍　２回接種後に感染も：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210814/k10013200641000.html",
+          "author": null,
+          "description": "新型コロナウイルスの水際対策として、1日およそ2000人に抑えられていた入国者の上限について、国は、16日からおよそ3500人に緩和することを決めたことが関係者への取材で分かりました。感染拡大が続く中での緩和について、東京オリンピックが閉幕し検疫の態勢に余裕ができたためなどとしています。 新型コロナウイルス...",
+          "link": "https://www3.nhk.or.jp/news/html/20210814/k10013200641000.html",
+          "publishedOn": "2021-08-13T18:56:42.000Z",
+          "wordCount": 20,
+          "title": "入国者上限1日3500人に緩和へ 五輪終了で「検疫態勢に余裕」 | 新型コロナウイルス | NHKニュース"
+        },
+        {
+          "id": "https://togetter.com/li/1759225",
+          "author": null,
+          "description": "🦜かささぎ号（ハンズマン） @hansman_neo 読み方分からない状態で慫慂をググるときってみんなどうやってるんやろう？「従涌」とかでサーチかけるんやろうか？ 2021-08-13 22:16:01",
+          "link": "https://togetter.com/li/1759225",
+          "publishedOn": "2021-08-13T17:23:51.000Z",
+          "wordCount": 706,
+          "title": "佐賀駅の掲示「ご旅行の中止を\"慫慂\"いたします」←これなんて読むんや… - Togetter"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a79862e582af47484d88b6edf9dae3cd302b83d9",
+          "author": null,
+          "description": "東京都の小池百合子知事の発言をめぐり、国民および都民が大激怒している。 小池知事は１３日、定例会見で「最大級、災害級の危機を迎えている」と新型コロナウイルス感染拡大に強い危機感を示した上で、お盆休みの帰省や旅行について「延期、中止などを〝考えてください〟ではなく、諦めてください」と要請。さらに「今...",
+          "link": "https://news.yahoo.co.jp/articles/a79862e582af47484d88b6edf9dae3cd302b83d9",
+          "publishedOn": "2021-08-13T16:52:01.000Z",
+          "wordCount": 71,
+          "title": "小池都知事「帰省はあきらめて」に都民ブチ切れ！ 「五輪あきらめてって意見、聞いてくれた？」（東スポWeb） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://togetter.com/li/1759098",
+          "author": null,
+          "description": "ししかわ/Shinya Ishikawa @meganetaaan さらにサッケード（眼球の不随意運動）を追加だいぶリアルな動きにできた気がする。 あとは邪魔されてもターゲットの方向を向こうとします。健気でかわいい。 #ｽﾀｯｸﾁｬﾝ #stackchan #M5Stack pic.twitter.com/n9lLcspvDn 2021-07-17 00:42:23",
+          "link": "https://togetter.com/li/1759098",
+          "publishedOn": "2021-08-13T14:24:58.000Z",
+          "wordCount": 459,
+          "title": "手乗りロボット「ｽﾀｯｸﾁｬﾝ」を作ってみた - Togetter"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210813232045",
+          "author": null,
+          "description": "https://www.mhlw.go.jp/topics/2018/01/dl/tp0115-s01-01-03.pdf 生活保護費負担金（事業費ベース）は3.8兆円（平成30年度当初予算）。 平成30年度の租税及印紙収入が 60 兆 3,563 億円（前年度比 2.7％増）で、歳入に占める割合は既に6.3％を超えている。 10年前の平成20年度は2兆7000億円だったので、10年間で1兆円も...",
+          "link": "https://anond.hatelabo.jp/20210813232045",
+          "publishedOn": "2021-08-13T14:21:51.000Z",
+          "wordCount": 570,
+          "title": "いい機会だから、生活保護について知っておきたいこと"
+        },
+        {
+          "id": "https://nordot.app/798910356550631424",
+          "author": null,
+          "description": "JR東日本東京支社は13日、渋谷駅の改札やみどりの窓口などで働く駅員12人が新型コロナウイルスに感染したと発表した。重症者はいない。感染判明を受け、駅で乗客が触れる可能性のある場所は消毒を済ませた。 東京支社によると、12人は20～50代の男女で、7月27日～8月12日に感染が判明した。感染経路は不明という。",
+          "link": "https://nordot.app/798910356550631424",
+          "publishedOn": "2021-08-13T13:57:46.000Z",
+          "wordCount": 39,
+          "title": "JR渋谷駅員12人がコロナ感染　改札や窓口担当 ｜ 共同通信"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8F7DXKP8FUTFK01V.html",
+          "author": null,
+          "description": "立憲民主党・枝野幸男代表（発言録）　おかしい、理不尽な、まっとうでない政治をまっとうにさせるというのは、（立憲民主党の）1丁目1番地でもある。次の選挙の政権公約の詰めをやっているが、そこには大々的に「この間隠されていたこと、改ざんされたことをすべてオープンにする」と（掲げる）。 モリカケ、桜に始まっ...",
+          "link": "https://www.asahi.com/articles/ASP8F7DXKP8FUTFK01V.html",
+          "publishedOn": "2021-08-13T13:55:51.000Z",
+          "wordCount": 202,
+          "title": "立憲・枝野氏「モリカケ、桜、五輪の経費、すべて公開」：朝日新聞デジタル"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210810172238",
+          "author": null,
+          "description": "驚いたときの「なにぃぃぃ！？」",
+          "link": "https://anond.hatelabo.jp/20210810172238",
+          "publishedOn": "2021-08-13T13:39:50.000Z",
+          "wordCount": 110,
+          "title": "アニメ・漫画でよく使われるけど現実ではあまり使わない言葉"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210813/k00/00m/040/282000c",
+          "author": null,
+          "description": "北海道苫小牧市で8日まで開催されていた「第16回全国高校選抜アイスホッケー大会」で、道内外の生徒ら90人の感染が13日までに判明し、大規模クラスター（感染者集団）となっている。国は緊急事態宣言地域と往来する際のPCR検査を求めているが、大会では実施していなかった。関係者を含めると参加者は全国26チームの約100...",
+          "link": "https://mainichi.jp/articles/20210813/k00/00m/040/282000c",
+          "publishedOn": "2021-08-13T13:37:54.000Z",
+          "wordCount": 552,
+          "title": "アイスホッケー大会でクラスター　90人感染　PCR検査実施せず | 毎日新聞"
+        },
+        {
+          "id": "https://mainichi.jp/articles/20210813/k00/00m/040/286000c",
+          "author": null,
+          "description": "「メンタリスト」という肩書で活動するDaiGo氏が、動画投稿サイト「ユーチューブ」で「ホームレスの命はどうでもいい」などと発言し、批判された。これを受けDaiGo氏は8月13日夜のライブ配信で「一生懸命、社会復帰を目指して生活保護を受けながら頑張っている人、支援する人がいる。さすがにあの言い方はよくなかった。...",
+          "link": "https://mainichi.jp/articles/20210813/k00/00m/040/286000c",
+          "publishedOn": "2021-08-13T13:37:46.000Z",
+          "wordCount": 465,
+          "title": "メンタリストDaiGo氏が差別発言を謝罪「無知が招いた失態」 | 毎日新聞"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a4a7c1db1d126eab0f07e609d99dd881a808a58e",
+          "author": null,
+          "description": "メンタリストのＤａｉＧｏが１３日、自身の公式ＹｏｕＴｕｂｅチャンネルで生配信を実施。７日に配信した動画で、ホームレス生活者や生活保護者の命を軽視するような発言を行ったことについて、「この度は大変申",
+          "link": "https://news.yahoo.co.jp/articles/a4a7c1db1d126eab0f07e609d99dd881a808a58e",
+          "publishedOn": "2021-08-13T13:29:05.000Z",
+          "wordCount": 79,
+          "title": "炎上のメンタリストDaiGo、生配信で謝罪「今までで一番良くないことをした」　動画広告の収益は全額寄付へ（よろず～ニュース） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www.tokyo-sports.co.jp/entame/news/3520582/",
+          "author": null,
+          "description": "メンタリストＤａｉＧｏ 社会的弱者に対する差別発言で大炎上中のメンタリストＤａｉＧｏの過去の発言に注目が集まっている。 ＤａｉＧｏは７日、自身のユーチューブチャンネルで行った生配信で「生活保護の人たちを食わせる金があるんだったら猫を救って欲しい」「ホームレスの命はどうでもいい」「邪魔だし、プラスに...",
+          "link": "https://www.tokyo-sports.co.jp/entame/news/3520582/",
+          "publishedOn": "2021-08-13T12:27:14.000Z",
+          "wordCount": 309,
+          "title": "ＤａｉＧｏ「ＩＱが低い人ほど差別的な発言をする」 過去発言でブーメラン現象 | 東スポのニュースに関するニュースを掲載"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8F6SN0P8FULFA028.html",
+          "author": null,
+          "description": "菅義偉首相は13日、新型コロナウイルス対応にあたる関係閣僚との会議を官邸で開き、今後の対策などを協議した。会議後、記者団の取材に応じ、患者が酸素の投与が必要になった場合に対応する「酸素ステーション」を設置することなどを明らかにした。主なやりとりは次の通り。 ――東京都のコロナ感染者数が過去最多を更新し...",
+          "link": "https://www.asahi.com/articles/ASP8F6SN0P8FULFA028.html",
+          "publishedOn": "2021-08-13T12:10:07.000Z",
+          "wordCount": 220,
+          "title": "首相「世界で外出禁止に罰金かけても守られず」：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www.huffingtonpost.jp/entry/trijana_jp_61164842e4b07b9118a9de85",
+          "author": null,
+          "description": "ハフポスト日本版は、ティヤナさんにパーチメント選手との交流について聞いた。 日本とセルビアにルーツがあるというティヤナさんによると、正確には「ボランティア」ではなく、大会関係スタッフだった。大会関係者のバス輸送を担当する近畿日本ツーリストの委託業者だったという。 ティヤナさんは、タクシーの手配は組...",
+          "link": "https://www.huffingtonpost.jp/entry/trijana_jp_61164842e4b07b9118a9de85",
+          "publishedOn": "2021-08-13T12:06:05.000Z",
+          "wordCount": 242,
+          "title": "バスを間違えた五輪選手を救ったティヤナさんが語る。競技に出られなければ「一生後悔させてしまう」 | ハフポスト"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210813163253",
+          "author": null,
+          "description": "杏仁豆腐←豆腐じゃない 麦茶←茶じゃない こういうの他にある？",
+          "link": "https://anond.hatelabo.jp/20210813163253",
+          "publishedOn": "2021-08-13T11:54:54.000Z",
+          "wordCount": 123,
+          "title": "杏仁豆腐←豆腐じゃない 麦茶←茶じゃない こういうの他にある？"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2108/13/news141.html",
+          "author": null,
+          "description": "ビックカメラが、グループ社員を対象とした、新型コロナウイルスワクチンの職域接種を終えたと発表した。社員に加えてその家族など約1万7500人に接種したという。 ビックカメラは8月13日、コジマなどグループ社員を対象とした、新型コロナウイルスワクチンの職域接種を終えたと発表した。社員に加えてその家族、取引先企...",
+          "link": "https://www.itmedia.co.jp/news/articles/2108/13/news141.html",
+          "publishedOn": "2021-08-13T10:58:08.000Z",
+          "wordCount": 136,
+          "title": "ビックカメラ、希望者全員への職域接種を完了　社員や取引先など約1万7500人 - ITmedia NEWS"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210813194457",
+          "author": null,
+          "description": "DaiGoを擁護するわけじゃないけど、普通のサラリーマンはこういう気持ちあるよね？ 大半がセーフティネットがなんとか言ってて確かに自分がお世話になる可能性はあるよ ただそれとは別にタイトルみたいなことを思うのは普通じゃないかな だって朝から晩まで働いて手取り20万ない人からしたら生活保護取ってるやつムカつ...",
+          "link": "https://anond.hatelabo.jp/20210813194457",
+          "publishedOn": "2021-08-13T10:47:30.000Z",
+          "wordCount": 559,
+          "title": "生活保護に払った税金が使われるの嫌だよね？"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/124024",
+          "author": null,
+          "description": "国内で初めて新型コロナウイルス感染者が２万人確認された１３日、菅義偉首相は、官邸で記者団の囲み取材に応じた。菅氏はこれまでの取り組みへの総括を求められたのに対し、「私自身、自己評価することは僭越だと思う」と評価を避けた。 記者は「感染拡大を招いたこれまでの総括や反省がなければ、国民に政治の声が届か...",
+          "link": "https://www.tokyo-np.co.jp/article/124024",
+          "publishedOn": "2021-08-13T10:34:20.000Z",
+          "wordCount": 300,
+          "title": "「感染拡大の反省がなければ、政治の声届かない」と記者…菅首相「自己評価は僭越だ」：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://www.jiji.com/jc/article?k=2021081300881&g=pol",
+          "author": null,
+          "description": "菅首相、４カ月半休みなし　「疲れている」指摘も 2021年08月13日16時40分 大雨に関する関係閣僚会議で発言する菅義偉首相（左）＝１３日午前、首相官邸 菅義偉首相の連続執務日数が１３日で１３８日となった。首相周辺は「休むように言っている」と明かすが、首相は土日や祝日も首相公邸で新型コロナウイルス関係の会議...",
+          "link": "https://www.jiji.com/jc/article?k=2021081300881&g=pol",
+          "publishedOn": "2021-08-13T10:09:26.000Z",
+          "wordCount": 346,
+          "title": "菅首相、４カ月半休みなし　「疲れている」指摘も：時事ドットコム"
+        },
+        {
+          "id": "https://automaton-media.com/articles/newsjp/20210813-172284/",
+          "author": null,
+          "description": "日々ゲームを楽しむにあたって、“没入感”を大切にしているプレイヤーは少なくないだろう。しかし、どっぷりとゲームの世界観に浸りたくとも、ちょっとしたことで興をそがれてしまうことがある。よくある例が、「暗転した画面に自分の顔が映り込んでしまう」というものだ。画面がツルツルして反射しやすい、携帯ゲーム機...",
+          "link": "https://automaton-media.com/articles/newsjp/20210813-172284/",
+          "publishedOn": "2021-08-13T09:46:43.000Z",
+          "wordCount": 519,
+          "title": "乙女ゲームのロード画面では、“自分の映り込み”に配慮して黒背景を禁止する例があった。複数タイトルの検証によって見えてきた、没入感への配慮 | AUTOMATON"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210813/k10013200161000.html",
+          "author": null,
+          "description": "新型コロナウイルス対策をめぐり菅総理大臣は、患者への酸素投与が必要となった場合に利用できる「酸素ステーション」や、いわゆる「抗体カクテル療法」として新たに承認された治療薬の投与を集中的に行える拠点を、近く整備する考えを示しました。また、10月初旬までに、国民全員の8割にワクチンを2回接種できる体制を...",
+          "link": "https://www3.nhk.or.jp/news/html/20210813/k10013200161000.html",
+          "publishedOn": "2021-08-13T09:40:03.000Z",
+          "wordCount": 20,
+          "title": "菅首相 「酸素ステーション」「抗体カクテル療法」拠点整備へ | 新型コロナウイルス | NHKニュース"
+        },
+        {
+          "id": "https://note.com/syukatsu_tsurai/n/n33189259a550",
+          "author": null,
+          "description": "大森靖子の今までのパワハラ炎上まとめ　巫まろ、戦慄かなの、香椎かてぃ、生うどん、他【そしてZOCは終焉に】",
+          "link": "https://note.com/syukatsu_tsurai/n/n33189259a550",
+          "publishedOn": "2021-08-13T09:29:20.000Z",
+          "wordCount": 161,
+          "title": "大森靖子の今までのパワハラ炎上まとめ　巫まろ、戦慄かなの、香椎かてぃ、生うどん、他【そしてZOCは終焉に】｜アンナカリイナ｜note"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210813/k10013200011000.html",
+          "author": null,
+          "description": "今月24日に開幕するパラリンピックについて、東京都の小池知事は「オリンピックの成功を必ずパラリンピックにつなげていく」と述べました。 小池知事は13日の記者会見で、今月8日に閉幕したオリンピックについて、記者団から「安全安心に大会を終える目標を達成できたか」と問われました。 これ対して小池知事は「これま...",
+          "link": "https://www3.nhk.or.jp/news/html/20210813/k10013200011000.html",
+          "publishedOn": "2021-08-13T09:19:47.000Z",
+          "wordCount": 20,
+          "title": "小池知事「オリンピック成功をパラリンピックにつなげていく」 | オリンピック・パラリンピック　大会運営 | NHKニュース"
+        },
+        {
+          "id": "https://www.tokyo-np.co.jp/article/123980",
+          "author": null,
+          "description": "東京都の小池百合子知事は　８月２４日に開幕予定のパラリンピックでの新型コロナウイルス対策について「パラリンピックもこれまでの経験を生かし、改善を加え、安全安心の大会にしていきたい」と述べた。 パラリンピックで東京パラリンピックの観戦機会を児童や生徒に提供する「学校連携観戦プログラム」を行うかどうか...",
+          "link": "https://www.tokyo-np.co.jp/article/123980",
+          "publishedOn": "2021-08-13T09:02:29.000Z",
+          "wordCount": 299,
+          "title": "小池知事　パラリンピック「子どもたちに見せたい」　感染状況で判断　：東京新聞 TOKYO Web"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8F4VXPP8CULBJ003.html",
+          "author": null,
+          "description": "新型コロナウイルスの検査を受けた人のうち、結果が陽性だった人の割合を示す「陽性率」が各地で上昇している。東京都では22%に達し、検査能力の乏しかった昨春を除き、過去最高を更新中だ。陽性率の上昇は一般に、増える感染者数に対し、検査が追いついていないことが原因とされる。だが、都内などではまだ検査に余力が...",
+          "link": "https://www.asahi.com/articles/ASP8F4VXPP8CULBJ003.html",
+          "publishedOn": "2021-08-13T08:21:13.000Z",
+          "wordCount": 229,
+          "title": "急上昇する陽性率、なぜ？東京22%、川崎は異様な高さ [新型コロナウイルス]：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210813/k10013199681000.html",
+          "author": null,
+          "description": "急速な感染拡大について、東京都の小池知事は、記者会見で「最大級、災害級の危機を迎えている」と述べて、強い危機感を示したうえで、感染の抑え込みに向けて人の流れの5割削減を目指すとして、盆休みの帰省や旅行は「延期・中止などを『考えてください』でなく、諦めていただきたい」と述べました。 このなかで、小池...",
+          "link": "https://www3.nhk.or.jp/news/html/20210813/k10013199681000.html",
+          "publishedOn": "2021-08-13T08:05:32.000Z",
+          "wordCount": 22,
+          "title": "“帰省や旅行は諦めて” 助かる命も助からなくなる 小池知事 | 新型コロナウイルス | NHKニュース"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210813/k10013195481000.html",
+          "author": null,
+          "description": "その作品は、“まるでドキュメンタリーのような演技だ”と評されます。 ことしのカンヌ映画祭、「ドライブ・マイ・カー」で脚本賞を受賞した映画監督の濱口竜介さん。 ことしの世界3大映画祭のうち、2つの映画祭でそれぞれ別の作品が主要な賞を受賞、一躍世界に注目されています。 俳優の自然な演技を引き出す、「濱口メソ...",
+          "link": "https://www3.nhk.or.jp/news/html/20210813/k10013195481000.html",
+          "publishedOn": "2021-08-13T07:51:44.000Z",
+          "wordCount": 53,
+          "title": "WEB特集 演技なのか、ドキュメントなのか 世界を魅了!「濱口メソッド」 | NHKニュース"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210813/k10013199291000.html",
+          "author": null,
+          "description": "夏休みの子どもたちが絵本を通して、男女の性差による偏見をなくすことなどの大切さを考える催しが静岡県掛川市で開かれました。 これは静岡県内のNPOが12日、掛川市内の会場で開き、地元の小学生と保護者らあわせて15人が集まりました。 この中では静岡県の高校で校長として勤めていた奥山和弘さんが「桃太郎」を女の子...",
+          "link": "https://www3.nhk.or.jp/news/html/20210813/k10013199291000.html",
+          "publishedOn": "2021-08-13T07:35:35.000Z",
+          "wordCount": 19,
+          "title": "「桃太郎」が女の子「桃子」の紙芝居 小学生ら偏見や差別学ぶ | NHKニュース"
+        },
+        {
+          "id": "https://nordot.app/798814984534065152",
+          "author": null,
+          "description": "新型コロナウイルスの変異株で南米ペルー由来とされる「ラムダ株」の感染者と国内で7月に初確認された女性は、東京五輪関係者だったことが13日、政府関係者への取材で分かった。",
+          "link": "https://nordot.app/798814984534065152",
+          "publishedOn": "2021-08-13T07:28:01.000Z",
+          "wordCount": 37,
+          "title": "ラムダ株感染の国内初確認は五輪関係者 ｜ 共同通信"
+        },
+        {
           "id": "https://www3.nhk.or.jp/news/html/20210813/k10013198281000.html",
           "author": null,
           "description": "あさって15日の「終戦の日」を前に、西村経済再生担当大臣は、13日午前8時ごろ、東京・九段の靖国神社に参拝しました。",
@@ -7672,330 +7942,6 @@
           "publishedOn": "2021-07-15T12:47:13.000Z",
           "wordCount": 352,
           "title": "開会式作曲の小山田圭吾氏障がい者いじめ告白雑誌を入手　五輪理念に逆行 - 東京オリンピック2020 : 日刊スポーツ"
-        },
-        {
-          "id": "https://news.tbs.co.jp/newseye/tbs_newseye4315709.html",
-          "author": null,
-          "description": "ＩＯＣ＝国際オリンピック委員会のバッハ会長が１４日、菅総理と会談した際に、コロナの感染状況が改善した際には観客を入れてほしいと要望していたことが明らかになりました。 バッハ会長は、１４日午後に菅総理と会談し、「今回の東京大会はいろいろな意味で歴史的な大会となる」などとして、大会を成功させるため協力...",
-          "link": "https://news.tbs.co.jp/newseye/tbs_newseye4315709.html",
-          "publishedOn": "2021-07-15T12:32:06.000Z",
-          "wordCount": 652,
-          "title": "【独自】バッハ会長が菅首相に“有観客開催”検討を要望 官邸で｜TBS NEWS"
-        },
-        {
-          "id": "https://p-shirokuma.hatenadiary.com/entry/20210715/1626350764",
-          "author": null,
-          "description": "私の気持ちは、誰のもの？（熊代亨：精神科医）＃もやもやする気持ちへの処方箋｜「こころ」のための専門メディア 金子書房 リンク先は、金子書房さんのnote記事に寄稿させていただいた「私の気持ちは誰のもの？」という文章だ。 社会から不適切な感情がどんどんなくなり、怒りや気分の落ち込みや不注意がどんどん治療や...",
-          "link": "https://p-shirokuma.hatenadiary.com/entry/20210715/1626350764",
-          "publishedOn": "2021-07-15T12:30:07.000Z",
-          "wordCount": 208,
-          "title": "「僕たちの文明では感情は精神疾患」まであと何歩？ - シロクマの屑籠"
-        },
-        {
-          "id": "https://gigazine.net/news/20210715-handheld-console-with-tritium-cell/",
-          "author": null,
-          "description": "ゲームボーイなどの携帯ゲーム機はいつでもどこでも遊べるのが利点ですが、乾電池や充電池で動作するため、定期的に電池の交換や充電をしなければいけないという問題がつきまといます。そこで、半減期12年以上のトリチウム(三重水素)を使った自作原子力電池を携帯ゲーム機に組み込む実験を、エンジニアYouTuberのイアン...",
-          "link": "https://gigazine.net/news/20210715-handheld-console-with-tritium-cell/",
-          "publishedOn": "2021-07-15T12:10:41.000Z",
-          "wordCount": 199,
-          "title": "10年以上交換不要な原子力電池を自作して携帯ゲーム機に組み込んだ猛者が登場 - GIGAZINE"
-        },
-        {
-          "id": "https://mainichi.jp/articles/20210715/k00/00m/040/254000c",
-          "author": null,
-          "description": "クイック・ジャパン（1995年3号）に掲載された小山田圭吾さんのインタビュー記事＝東京都千代田区で2021年7月15日、北山夏帆撮影 東京オリンピックの開会式の楽曲を担当する小山田圭吾さんが過去に雑誌のインタビューで長年にわたって同級生をいじめていたと告白していたことを巡り、15日に「いじめ自慢」としてツイッタ...",
-          "link": "https://mainichi.jp/articles/20210715/k00/00m/040/254000c",
-          "publishedOn": "2021-07-15T11:34:51.000Z",
-          "wordCount": 612,
-          "title": "小山田圭吾さん、過去の「いじめ告白」拡散　五輪開会式で楽曲担当 | 毎日新聞"
-        },
-        {
-          "id": "https://ics.media/entry/210715/",
-          "author": null,
-          "description": "ウェブ業界の当たり前だと思っていることでも、他社の人には違う常識があるかもしれません。自分が業界多数の傾向と違うところはどこなのか・・・、この連載ではアンケートデータから国内のウェブ業界の傾向を分析します。 連載7回目となる本記事では「ウェブ業界で、2010年代から変化したもの」をテーマとしてアンケー...",
-          "link": "https://ics.media/entry/210715/",
-          "publishedOn": "2021-07-15T10:45:06.000Z",
-          "wordCount": 116,
-          "title": "昔と違う2021年のHTML制作。アンケート結果から分析するイマドキのウェブ制作 - ICS MEDIA"
-        },
-        {
-          "id": "https://nordot.app/788352044499648512",
-          "author": null,
-          "description": "新型コロナウイルスで打撃を受けた酒類販売事業者への「月次支援金」を巡り、政府が給付要件として「酒類提供停止に応じない飲食店との取引停止」を求めた文書は、内閣官房が発案したことが15日、明らかになった。",
-          "link": "https://nordot.app/788352044499648512",
-          "publishedOn": "2021-07-15T10:44:36.000Z",
-          "wordCount": 35,
-          "title": "酒類提供で取引停止、内閣官房が発案 ｜ 共同通信"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210715/k10013141521000.html",
-          "author": null,
-          "description": "裏地にメッシュ生地が使われた子ども用の水着を着た際に、男性器の皮膚が生地の隙間に挟まってけがをした事故が相次いでいるとして、国民生活センターが注意を呼びかけています。 国民生活センターによりますと、子ども用の水着の裏地に使われたメッシュ生地に、男性器の皮膚が挟まってけがをしたという事例は、毎年のよ...",
-          "link": "https://www3.nhk.or.jp/news/html/20210715/k10013141521000.html",
-          "publishedOn": "2021-07-15T10:23:52.000Z",
-          "wordCount": 20,
-          "title": "裏地がメッシュ生地の子ども用水着で事故相次ぐ 注意呼びかけ | 事故 | NHKニュース"
-        },
-        {
-          "id": "https://www.huffingtonpost.jp/entry/bach_jp_60eff7b1e4b0d5140ebced66",
-          "author": null,
-          "description": "KIMIMASA MAYAMA via Getty Images7月14日、首相官邸で菅義偉首相の面会した際のトーマス・バッハ会長。左は東京五輪・パラリンピック組織委員会の橋本聖子会長 来日中の国際オリンピック委員会（IOC）のトーマス・バッハ会長が7月15日、思わぬトラブルに見舞われた。 バッハ会長が東京都庁に出向き、小池百合子知事と会...",
-          "link": "https://www.huffingtonpost.jp/entry/bach_jp_60eff7b1e4b0d5140ebced66",
-          "publishedOn": "2021-07-15T10:12:57.000Z",
-          "wordCount": 245,
-          "title": "バッハ会長に「お前はウソつきだ！」と罵声。小池都知事との記念撮影でハプニング | ハフポスト"
-        },
-        {
-          "id": "https://www.janog.gr.jp/meeting/janog48/lt4/",
-          "author": null,
-          "description": "場所 OHGAKI(完全リモート) 日時 Day3 2021年7月16日(金) 14:45～15:15(05分) 概要 RFC9000で標準化が完了したQUICはUDP443番ポートを使うプロトコルです。それが故にIPv4のNATルータとの間で起こる問題について考察したいと思います。 発表者 川上 雄也(NTTコミュニケーションズ株式会社) 公開資料 公開資料",
-          "link": "https://www.janog.gr.jp/meeting/janog48/lt4/",
-          "publishedOn": "2021-07-15T10:10:47.000Z",
-          "wordCount": 91,
-          "title": "QUICとNATと – JANOG48 Meeting"
-        },
-        {
-          "id": "https://togetter.com/li/1745312",
-          "author": null,
-          "description": "成田 悠輔 @narita_yusuke 独身税という税がある。少子化に苦しんでたブルガリアが1968-89年に導入した税で、独身成人に5-10%の税を課すことで結婚を増やそうとした。だけど、独身税のせいで結婚資金を貯められない人が多発、かえって独身率は上がって出生率は下がるという地獄に終わったらしい 2021-07-14 21:31:17 リ...",
-          "link": "https://togetter.com/li/1745312",
-          "publishedOn": "2021-07-15T10:03:35.000Z",
-          "wordCount": 1490,
-          "title": "かつてブルガリアでは独身成人に5-10%の独身税を課すことで結婚を増やそうとしたが若者が結婚資金を貯められず逆に出生率は下がるという結果になった - Togetter"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a6bbd18fb444741dfea5992d03bcc36106c46cf0",
-          "author": null,
-          "description": "東京五輪開閉会式の制作メンバーに作曲家として名を連ねている小山田圭吾氏（52）が過去のいじめ問題でSNSやインターネット上で炎上する中、批評家の東浩紀氏（50）は、「大昔の発言や行動記録を掘り出してネットで超法規的にリンチするのはよくない」との考えを示した。 ネット上では、小山田氏自身が障がい者をいじめ...",
-          "link": "https://news.yahoo.co.jp/articles/a6bbd18fb444741dfea5992d03bcc36106c46cf0",
-          "publishedOn": "2021-07-15T09:42:47.000Z",
-          "wordCount": 70,
-          "title": "批評家の東浩紀氏「超法規的リンチよくない」小山田圭吾の過去いじめ問題で（日刊スポーツ） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGXZQOUC303JJ0Q1A630C2000000/",
-          "author": null,
-          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら ツイッターで特定のキーワードをつぶやいた人に対して、リアルタイムで広告を配信できるサービス「リアルタイムキーワードターゲティング」の国内提供が始まっている。...",
-          "link": "https://www.nikkei.com/article/DGXZQOUC303JJ0Q1A630C2000000/",
-          "publishedOn": "2021-07-15T09:13:11.000Z",
-          "wordCount": 114,
-          "title": "「喉が渇いた」ツイートにすぐ飲料広告　ニーズ逃さず: 日本経済新聞"
-        },
-        {
-          "id": "https://www.buzzfeed.com/jp/yutochiba/rikken-kitajyo-covid-19-vaccine",
-          "author": null,
-          "description": "だが、「感染予防効果は見込めない」とする北條氏の主張は誤りだ。 新型コロナやワクチンに関する正確な情報発信を推進する日米の専門家によるプロジェクト「こびナビ」は、BuzzFeed Newsの以前のファクトチェックに対し、こう回答している。 「アメリカでは 4000名弱の医療従事者などを対象に毎週PCR検査を実施した結果...",
-          "link": "https://www.buzzfeed.com/jp/yutochiba/rikken-kitajyo-covid-19-vaccine",
-          "publishedOn": "2021-07-15T07:31:51.000Z",
-          "wordCount": 166,
-          "title": "「永久不妊の可能性」「接種者の息や汗から…」立憲・北條智彦氏がワクチンめぐる誤情報拡散→削除"
-        },
-        {
-          "id": "https://dev.classmethod.jp/articles/non-97-operation-manual/",
-          "author": null,
-          "description": "手順書フォーマットは千差万別 みなさんは自己流または、組織やプロジェクトで定められた手順書のフォーマットはありますか? 私は自己流の手順書フォーマットがあります。 自己流の手順書フォーマットがあるといっても、かなり扱いがふわふわしているので、備忘やメモの意味合い強めでまとめていきます。 「もっとこうし...",
-          "link": "https://dev.classmethod.jp/articles/non-97-operation-manual/",
-          "publishedOn": "2021-07-15T04:23:51.000Z",
-          "wordCount": 1016,
-          "title": "自己流の手順書フォーマットを公開してみた | DevelopersIO"
-        },
-        {
-          "id": "https://bunshun.jp/articles/-/47065",
-          "author": null,
-          "description": "小学校5年生から卒業までに1000万円を稼いだ ――いつから株取引を始めたのですか。 はる　小5の時に父に100万円をもらって株式投資をはじめました。小学校卒業までに1000万円は稼ぎましたね。今年4月に「小学生投資家」から「中学生投資家」になったばかりで、今は有名私立中学の1年生です。成績は学年で上位5位以内をキ...",
-          "link": "https://bunshun.jp/articles/-/47065",
-          "publishedOn": "2021-07-15T03:36:30.000Z",
-          "wordCount": 175,
-          "title": "「義務教育を無駄にするのは人間失格」1年で1000万円稼いだ\"小学生投資家”の日常　授業中はスマホでトレード、朝は5時起きで相場をチェック… | 文春オンライン"
-        },
-        {
-          "id": "https://hatenacorp.jp/press/release/entry/2021/07/15/113000",
-          "author": null,
-          "description": "株式会社はてな（代表取締役社長：栗栖義臣／本社所在地：京都市中京区）は、企業ロゴのデザインをリニューアルし、本日2021年7月15日に公開しました。 当社では“「知る」「つながる」「表現する」で新しい体験を提供し、人の生活を豊かにする”をコーポレートミッションに、さまざまな個人向け・法人向けサービスを展開...",
-          "link": "https://hatenacorp.jp/press/release/entry/2021/07/15/113000",
-          "publishedOn": "2021-07-15T03:24:59.000Z",
-          "wordCount": 118,
-          "title": "はてな、20周年で企業ロゴをリニューアル - プレスリリース - 株式会社はてな"
-        },
-        {
-          "id": "https://www.hatena.ne.jp/hatena20th",
-          "author": null,
-          "description": "株式会社はてなは、2021/7/15でサービス開始から20周年を迎えました。 この記念すべき節目の年を迎えることができましたのも、 多くのユーザーの皆様に支えられ、 パートナー企業の皆様のご支援、ご愛顧の賜物と心から感謝いたしております。 今後も社員一同決意を新たに、一層の努力で皆様のご愛顧にお応えしていきます...",
-          "link": "https://www.hatena.ne.jp/hatena20th",
-          "publishedOn": "2021-07-15T02:56:06.000Z",
-          "wordCount": 11,
-          "title": "はてな20周年祭 - はてな"
-        },
-        {
-          "id": "https://togetter.com/li/1745141",
-          "author": null,
-          "description": "ǝunsʇo ıɯnɟɐsɐɯ @otsune 2011年にも同じ話題が出たのですが、結論から言うと「津波や土砂崩れがギリギリ来ない位置を選んで神社を建ててるのではなく、歴史の流れで被災した神社は残っていないだけ」ですね。 なので古い神社の近くの土地が安全である可能性は高いとは言えるが、昔の人は危険境界を分かっていたわけでは...",
-          "link": "https://togetter.com/li/1745141",
-          "publishedOn": "2021-07-15T02:44:31.000Z",
-          "wordCount": 900,
-          "title": "\"神社は災害が来ない位置にあるという言説、「被災した神社は残っていないだけ」で昔の人は危険境界を理解してた訳では無いという話 - Togetter"
-        },
-        {
-          "id": "https://medical.jiji.com/news/45151",
-          "author": null,
-          "description": "こころがきれいになる医学 正確な情報と予防の知識を常に吸収し、いい気持ちで生活することが身体を守る力になる－。そんなコンセプトのもと、心療内科医・海原純子からみなさんへ「こころがきれいになる医学」をお届けするコーナーです。 もはや日本人の生活様式に不可欠ともいえる温水洗浄便座（以下、温水便座）。多...",
-          "link": "https://medical.jiji.com/news/45151",
-          "publishedOn": "2021-07-15T02:26:56.000Z",
-          "wordCount": 105,
-          "title": "温水便座が院内で多剤耐性菌を拡散か｜最新医療ニュース｜時事メディカル｜時事通信の医療ニュースサイト"
-        },
-        {
-          "id": "https://www.tamahome.jp/company/ir/upload_file/m000-/210715.pdf?e=7780",
-          "author": null,
-          "description": "NEWS RELEASE 1 2021 年 7 月 15 日 タマホーム株式会社 東京都港区高輪 3-22-9 平素より、当社事業活動に対する温かいご支援をいただきまして、誠にありがとうございます。 2021 年 7 月頃より、インターネット上において、当社の新型コロナワクチン対応に関する誤った内容 を記載した、匿名での書き込みが Twitter や...",
-          "link": "https://www.tamahome.jp/company/ir/upload_file/m000-/210715.pdf?e=7780",
-          "publishedOn": "2021-07-15T02:04:41.000Z",
-          "wordCount": 195,
-          "title": "Microsoft Word - デマ打消しリリース_210715r2(Bパターン_1行追加ver.).docx"
-        },
-        {
-          "id": "https://blog.twitter.com/ja_jp/topics/product/2021/goodbye-fleets",
-          "author": null,
-          "description": "私たちは、人々がプレッシャーを感じずに、リラックスしてそのときの思いを表現できるようフリートを開発しました。もっと気軽にTwitter上の会話に加わってほしかったからです。しかし、フリートをきっかけに新たにTwitterで会話に参加する人の数は、私たちが望んでいたようには増えていないことが分かりました。そこでT...",
-          "link": "https://blog.twitter.com/ja_jp/topics/product/2021/goodbye-fleets",
-          "publishedOn": "2021-07-14T22:55:40.000Z",
-          "wordCount": 186,
-          "title": "さよなら、フリート"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210715001433",
-          "author": null,
-          "description": "・七人の侍 ・十二人の怒れる男 ・オーシャンズ11 ・300（スリーハンドレッド） ・ふたりはプリキュア",
-          "link": "https://anond.hatelabo.jp/20210715001433",
-          "publishedOn": "2021-07-14T22:44:32.000Z",
-          "wordCount": 157,
-          "title": "作品名に人数が入っていると必ず面白い説"
-        },
-        {
-          "id": "https://bunshun.jp/articles/-/47125",
-          "author": null,
-          "description": "産廃が埋まった土砂で盛り土をした結果、豪雨で決壊して大規模な土石流が発生、観光地として著名な「熱海」の名声もろとも押し流してしまいました。 神の御許に召された、亡くなられた付近住民の方の魂に平安があらんことを心よりお祈り申し上げます。 私自身も父親が金属輸出入や電気製品の小さな貿易商を営む傍ら、産...",
-          "link": "https://bunshun.jp/articles/-/47125",
-          "publishedOn": "2021-07-14T22:40:08.000Z",
-          "wordCount": 167,
-          "title": "熱海の「産廃土石流」に一言モノ申している小泉進次郎さんが知らないこと | 文春オンライン"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/15/news062.html",
-          "author": null,
-          "description": "Twitterが日本でも昨年11月から提供しているInstagramの「ストーリーズ」に似た「Fleet」を8月3日に終了する。提供の目的は、あまりツイートしない人に投稿しやすい手段を提供することだったが、思ったような効果がなかったためとしている。 米Twitterは7月14日（現地時間）、昨年3月にテストを開始し、日本でも昨年11月...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/15/news062.html",
-          "publishedOn": "2021-07-14T22:02:33.000Z",
-          "wordCount": 140,
-          "title": "Twitter、24時間で投稿が消える「Fleet」を8月3日に終了へ - ITmedia NEWS"
-        },
-        {
-          "id": "https://www.tokyo-np.co.jp/article/116732",
-          "author": null,
-          "description": "新型コロナウイルスの感染状況を分析し、厚生労働省に助言する専門家組織「アドバイザリーボード」は１４日、新規感染者数が１０００人を超えた東京都について「感染拡大の速度はさらに加速する」との分析をまとめた。１２日に発令された緊急事態宣言の効果が出るのは早くても２週間後とされ、５０代以下を中心に入院者...",
-          "link": "https://www.tokyo-np.co.jp/article/116732",
-          "publishedOn": "2021-07-14T21:40:59.000Z",
-          "wordCount": 304,
-          "title": "尾身氏、東京でコロナ新規感染1000人超えは「想定内」　感染加速を専門家ら警告：東京新聞 TOKYO Web"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP7F5G05P77UPQJ00T.html",
-          "author": null,
-          "description": "日本学術会議の会員に推薦されながら、菅義偉首相によって任命を拒否された問題が報道されてから9カ月余り。歴史学者の加藤陽子さんがインタビューに応じた。1930年代を中心にした戦前の日本近代史の研究で知られる加藤さんは、拒否した理由を説明せず、批判されても見直しに応じない現政権を、どう見ているのか。 ――菅...",
-          "link": "https://www.asahi.com/articles/ASP7F5G05P77UPQJ00T.html",
-          "publishedOn": "2021-07-14T21:40:35.000Z",
-          "wordCount": 219,
-          "title": "学術会議　私が外された理由と「6」の意味　加藤陽子氏：朝日新聞デジタル"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210715063023",
-          "author": null,
-          "description": "このブコメ群にとても象徴的だが、 https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20210714123642 お前らは若者を馬鹿にしている。それを隠そうともしない。我々でなくひろゆきを支持するような者は愚かであるというメッセージを意識的にでも無意識的にでも発している。 少なくともひろゆきは10代、20代に対して“敬...",
-          "link": "https://anond.hatelabo.jp/20210715063023",
-          "publishedOn": "2021-07-14T21:40:27.000Z",
-          "wordCount": 262,
-          "title": "何故ひろゆきが支持されているか理解できない老害共へ"
-        },
-        {
-          "id": "https://togetter.com/li/1745004",
-          "author": null,
-          "description": "if @if_itself 「令和生まれの若者は不愉快なことがあると泣くだけで自分で何も出来ない」というネタが2年前に流行りましたが、最近は令和生まれでも、納得いかない時に言葉で抗議したり危険を感じたら走って逃げたりする若者が出現しつつあるようで、時代の流れは早い。 2021-07-13 23:57:00 if @if_itself 令和生まれ...",
-          "link": "https://togetter.com/li/1745004",
-          "publishedOn": "2021-07-14T20:12:53.000Z",
-          "wordCount": 544,
-          "title": "二年前話題となった「令和生まれの若者は泣くだけで何も出来ない問題」→最近は言葉で抗議したり逃げたりする若者が出現しつつある模様 - Togetter"
-        },
-        {
-          "id": "https://www.nikkansports.com/olympic/tokyo2020/news/202107140000998.html",
-          "author": null,
-          "description": "国際オリンピック委員会（IOC）トーマス・バッハ会長（67）が14日、官邸を訪れ、菅義偉首相と面会した。バッハ氏の車はパトカーに先導されながらのVIP待遇で官邸入りした。 菅首相からは「すべての参加者が感染対策をはじめ、適切な行動を取ることが大会成功には不可欠。徹底にぜひ努めていただきたい」と、万全なコロナ...",
-          "link": "https://www.nikkansports.com/olympic/tokyo2020/news/202107140000998.html",
-          "publishedOn": "2021-07-14T18:11:16.000Z",
-          "wordCount": 353,
-          "title": "上機嫌一転「検査体制機能している」バッハ会長“違反”指摘に顔色こわばる - 東京オリンピック2020 : 日刊スポーツ"
-        },
-        {
-          "id": "https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets",
-          "author": null,
-          "description": "We built Fleets as a lower-pressure, ephemeral way for people to share their fleeting thoughts. We hoped Fleets would help more people feel comfortable joining the conversation on Twitter. But, in the time since we introduced Fleets to everyone, we haven’t seen an increase in the number of new pe...",
-          "link": "https://blog.twitter.com/en_us/topics/product/2021/goodbye-fleets",
-          "publishedOn": "2021-07-14T17:48:57.000Z",
-          "wordCount": 688,
-          "title": "Goodbye, Fleets"
-        },
-        {
-          "id": "https://natalie.mu/music/news/436905",
-          "author": null,
-          "description": "オリンピック・パラリンピック開会式の音楽監督をFPM田中知之が担当、作曲メンバーに小山田圭吾 2021年7月15日 0:55 4790 開会式と閉会式ともにショーディレクターを小林賢太郎、音楽監督を田中知之（FPM）、音楽監督アシスタントをナカムラヒロシ（i-dep、Sotte Bosse）、舞台美術を種田陽平、ライターを放送作家の樋口...",
-          "link": "https://natalie.mu/music/news/436905",
-          "publishedOn": "2021-07-14T16:00:46.000Z",
-          "wordCount": 410,
-          "title": "オリンピック・パラリンピック開会式の音楽監督をFPM田中知之が担当、作曲メンバーに小山田圭吾 - 音楽ナタリー"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html",
-          "author": null,
-          "description": "米マイクロソフト（MS）は14日朝、ウィンドウズの基本ソフト（OS）「10」や年末に投入される次世代の「11」がクラウド上で利用できるサービス「ウィンドウズ　365」を始めると発表した。8月2日から企業向けに提供する。アップルのiPad（アイパッド）などからも「ウィンドウズ」が利用できるようになり、働き方やパソコン...",
-          "link": "https://www.asahi.com/articles/ASP7G5S64P7GUHBI025.html",
-          "publishedOn": "2021-07-14T15:33:27.000Z",
-          "wordCount": 222,
-          "title": "iPadで「ウィンドウズ」利用可能に　クラウド経由で：朝日新聞デジタル"
-        },
-        {
-          "id": "https://amamako.hateblo.jp/entry/2021/07/14/224731",
-          "author": null,
-          "description": "swashweb.net TLでは結構絶賛されていて、「真のフェミニズムってこういうことだよな」みたいなことを書かれている上記の声明文。 ただ、どうも僕は読んでいて納得がいかないんですね。 いや、良いこと書いてあるとは思うんですよ？「すべての人々が解放されるまで私たちは戦う」とか、「私たち全員が自由になるまで、私...",
-          "link": "https://amamako.hateblo.jp/entry/2021/07/14/224731",
-          "publishedOn": "2021-07-14T15:06:10.000Z",
-          "wordCount": 156,
-          "title": "「フェミニスト原則」だけでどうにもならないから今の混沌があるんじゃないの - あままこのブログ"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html",
-          "author": null,
-          "description": "［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに マイクロソフトはオンラインで開催している同社のパートナー向けイベント「Inspire 2021」で、デスクトップ仮想化を用いてクラウドからWindows環境を配信する新サービス「Wi...",
-          "link": "https://www.publickey1.jp/blog/21/windows_365_cloud_pcwindows.html",
-          "publishedOn": "2021-07-14T15:01:44.000Z",
-          "wordCount": 213,
-          "title": "［速報］マイクロソフト「Windows 365 Cloud PC」正式発表。Windowsをクラウドサービスとして月額定額料金で提供、デスクトップ仮想化をベースに － Publickey"
-        },
-        {
-          "id": "https://mdpr.jp/news/detail/2672209",
-          "author": null,
-          "description": "YouTubeに動画をあげました！ 【拡散希望】被害者大量…おっさんを騙して3億円稼いだ「頂き女子」の悪質すぎる手口と犯罪行為を公開 https://t.co/kyxR8YrpzB @YouTubeより — コレコレ@8/12誕生日😷 (@korekore19) July 13, 2021 コレコレ「頂き女子りり」に注意喚起「頂き女子」とはSNS上で出会った男性に接触し、嘘を付...",
-          "link": "https://mdpr.jp/news/detail/2672209",
-          "publishedOn": "2021-07-14T13:32:31.000Z",
-          "wordCount": 365,
-          "title": "YouTuberコレコレ「頂き女子りり」に注意喚起 岡野弁護士「10年以下の懲役、犯罪です」 - モデルプレス"
-        },
-        {
-          "id": "https://twitter.com/pmjpadjpadt/status/1415200610454958080",
-          "author": null,
-          "description": "タマホームがワクチン接種をしないように促しているのは事実です。打つなとは言わないものの、打ったら永遠に在宅、PCの持ち帰りも許されない。実質クビを言い渡しているようなものです。実際に1回目の接種を受けてしまっている社員は無期限の在宅処分になっています。",
-          "link": "https://twitter.com/pmjpadjpadt/status/1415200610454958080",
-          "publishedOn": "2021-07-14T13:03:58.000Z",
-          "wordCount": 196,
-          "title": "P on Twitter: \"タマホームがワクチン接種をしないように促しているのは事実です。打つなとは言わないものの、打ったら永遠に在宅、PCの持ち帰りも許されない。実質クビを言い渡しているようなものです。実際に1回目の接種を受けてしまっている社員は無期限の在宅処分になっています。\""
         }
       ]
     }
