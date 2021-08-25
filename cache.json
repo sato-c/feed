@@ -6,6 +6,276 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html",
+          "author": null,
+          "description": "“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
+          "link": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html",
+          "publishedOn": "2021-08-24T22:09:51.000Z",
+          "wordCount": 155,
+          "title": "「Google ドライブ」アプリのアカウント移行を忘れずに！　9月末までに済ませよう - やじうまの杜 - 窓の杜"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210825/k10013221371000.html",
+          "author": null,
+          "description": "車いすの利用者などが電車に乗る際、駅員が情報を共有するアナウンス。この情報を悪用したとみられる男性に、障害者の女性が車内でつきまとわれたといった相談が障害者団体に寄せられていて、国土交通省は、鉄道会社に対し情報共有の方法を検討するよう、求めました。 車いすの利用者や視覚障害者が電車を利用する際、乗...",
+          "link": "https://www3.nhk.or.jp/news/html/20210825/k10013221371000.html",
+          "publishedOn": "2021-08-24T22:07:19.000Z",
+          "wordCount": 19,
+          "title": "駅員のアナウンス悪用か 障害者の電車利用で情報共有の検討を | NHKニュース"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210825/k10013221561000.html",
+          "author": null,
+          "description": "24日夜、東京 港区の駅の構内で20代の男性が男に突然液体をかけられ顔などにやけどを負う大けがをしたほか、近くにいた女性も足にやけどを負いました。液体は硫酸とみられるということで、警視庁は防犯カメラの画像を公開して逃げた男の行方を捜査しています。 警視庁や東京消防庁によりますと、24日午後9時すぎ、東京 ...",
+          "link": "https://www3.nhk.or.jp/news/html/20210825/k10013221561000.html",
+          "publishedOn": "2021-08-24T21:21:24.000Z",
+          "wordCount": 26,
+          "title": "白金高輪駅 液体かけられ2人やけど 逃げた男の画像公開 警視庁 | 事件 | NHKニュース"
+        },
+        {
+          "id": "https://www.afpbb.com/articles/-/3363113",
+          "author": null,
+          "description": "英ロックバンド、ザ・ローリング・ストーンズのドラマー、チャーリー・ワッツさん。米テキサス州ヒューストンで（2019年7月27日撮影）。(c)SUZANNE CORDEIRO / AFP 【8月25日 AFP】（更新）英ロックバンド、ザ・ローリング・ストーンズ（The Rolling Stones）のドラマー、チャーリー・ワッツ（Charlie Watts）さんが24日...",
+          "link": "https://www.afpbb.com/articles/-/3363113",
+          "publishedOn": "2021-08-24T16:51:45.000Z",
+          "wordCount": 153,
+          "title": "ストーンズのドラマー、チャーリー・ワッツさん死去 80歳　写真3枚　国際ニュース：AFPBB News"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/21/2021nftaiml.html",
+          "author": null,
+          "description": "ガートナー「先進テクノロジのハイプ・サイクル：2021年」を発表。NFTやAIによるソフトウェア開発支援などは過度な期待、黎明期に量子MLなど 米調査会社のガートナーは、「先進テクノロジのハイプ・サイクル：2021年」を発表しました。 ガートナーのハイプサイクルは、技術の登場から安定までを5つのステージに分けて説...",
+          "link": "https://www.publickey1.jp/blog/21/2021nftaiml.html",
+          "publishedOn": "2021-08-24T14:40:09.000Z",
+          "wordCount": 139,
+          "title": "ガートナー「先進テクノロジのハイプ・サイクル：2021年」を発表。NFTやAIによるソフトウェア開発支援などは過度な期待、黎明期に量子MLなど － Publickey"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210824/k10013221451000.html",
+          "author": null,
+          "description": "24日夜、東京 港区の駅の構内で20代の男性が男に突然液体をかけられ顔などにやけどを負ったほか、近くにいた女性も足にやけどを負いました。液体は硫酸とみられるということで、警視庁は傷害事件として逃げた男の行方を捜査しています。 警視庁や東京消防庁によりますと、24日午後9時すぎ、東京 港区の地下鉄・白金高輪...",
+          "link": "https://www3.nhk.or.jp/news/html/20210824/k10013221451000.html",
+          "publishedOn": "2021-08-24T14:37:20.000Z",
+          "wordCount": 26,
+          "title": "東京 白金高輪駅 男性が液体かけられ顔などにやけど 硫酸か | 事件 | NHKニュース"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8S7HL9P8SUTQP01X.html",
+          "author": null,
+          "description": "約3400人の選手団が参加した24日夜の東京パラリンピック開会式。7月23日の東京オリンピック（五輪）開会式と比べて統一感が伝わってきたのは、演出の考え方の違いによるものが大きいだろう。 中村英正・運営統括は「五輪もパラリンピックもテーマは多様性。五輪は色々なものを出してそれを表現しようとしたが、パラは一...",
+          "link": "https://www.asahi.com/articles/ASP8S7HL9P8SUTQP01X.html",
+          "publishedOn": "2021-08-24T14:21:17.000Z",
+          "wordCount": 214,
+          "title": "パラと五輪、開会式で出た差　「外野の注文少なかった」：朝日新聞デジタル"
+        },
+        {
+          "id": "https://togetter.com/li/1764508",
+          "author": null,
+          "description": "まっち💫 COMITIA137 J04a💉 @fullmalion 「あれ？青春18きっぷで移動したら、途中の食費とか宿泊代とかかって、トータルで考えると新幹線のほうが安くね？」と気づいた瞬間、青春は終わるのだ。 そして君はエクスプレス予約会員になる。 2021-08-24 00:06:59 リンク JR東日本：東日本旅客鉄道株式会社 おトクなきっぷ：...",
+          "link": "https://togetter.com/li/1764508",
+          "publishedOn": "2021-08-24T14:16:29.000Z",
+          "wordCount": 804,
+          "title": "青春18きっぷの旅、食費や宿泊代を考えると新幹線の方が安いのでは？→気づいた瞬間が青春の終わり - Togetter"
+        },
+        {
+          "id": "https://yashio.hatenablog.com/entry/20210824/1629810465",
+          "author": null,
+          "description": "現在のワクチン 現在世界で承認している国が多いものは以下の8種類ほど。 日本はファイザー、モデルナ、アストラゼネカの3種を承認済み、J&Jが承認申請。 【mRNA】 ファイザー(米)(ビオンテック:独) モデルナ(米) 【ウイルスベクター】 アストラゼネカ(英)(オックスフォード大:英) ジョンソン・エンド・ジョンソン(J&J)(...",
+          "link": "https://yashio.hatenablog.com/entry/20210824/1629810465",
+          "publishedOn": "2021-08-24T14:09:45.000Z",
+          "wordCount": 330,
+          "title": "新型コロナワクチン時系列 - やしお"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/90f2c27a4c9ba2c80c1a9265780f21961104f8ed",
+          "author": null,
+          "description": "パソナグループ会長で慶應大名誉教授の竹中平蔵氏が２４日までにツイッターを投稿し、「医療ムラを解体しないと、日本はよくならない」と指摘した。 現在、全国的に新型コロナウイルスの感染者が拡大し、特に首都圏では医療ひっ迫が深刻化している。 その中で、竹中氏は「コロナ問題最大の課題は、病床不足で医療逼迫す...",
+          "link": "https://news.yahoo.co.jp/articles/90f2c27a4c9ba2c80c1a9265780f21961104f8ed",
+          "publishedOn": "2021-08-24T13:38:43.000Z",
+          "wordCount": 70,
+          "title": "竹中平蔵氏「医療ムラ解体しないと日本は良くならない」医療ひっ迫に持論（デイリースポーツ） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://twitter.com/don_jardine/status/1430007492805758993",
+          "author": null,
+          "description": "ロックが反抗の音楽だというなら「俺たちは政府の方針に従わない。その代わり政府の世話にはならない」でなければおかしい。「俺たちは政府の方針に従わない。その結果何かが起こったら政府のせいにする」なら単なる甘えの音楽に過ぎない。社会に迷惑をかけて文句ばかり言うのはただの駄々っ子。",
+          "link": "https://twitter.com/don_jardine/status/1430007492805758993",
+          "publishedOn": "2021-08-24T13:15:35.000Z",
+          "wordCount": 196,
+          "title": "the_spoiler on Twitter: \"ロックが反抗の音楽だというなら「俺たちは政府の方針に従わない。その代わり政府の世話にはならない」でなければおかしい。「俺たちは政府の方針に従わない。その結果何かが起こったら政府のせいにする」なら単なる甘えの音楽に過ぎない。社会に迷惑をかけて文句ばかり言うのはただの駄々っ子。\""
+        },
+        {
+          "id": "https://news.tv-asahi.co.jp/news_international/articles/000226585.html",
+          "author": null,
+          "description": "動物虐待に厳しい香港警察が、大量の塩をまいて複数のカタツムリを殺したとして26歳の大学院生の男を逮捕しました。 中国・香港の地元メディアによりますと、香港警察は今月16日、「数匹のカタツムリに大量の塩をまき、殺した」として26歳の大学院生の男を逮捕しました。 近所からの通報を受け、香港警察内にある動物虐...",
+          "link": "https://news.tv-asahi.co.jp/news_international/articles/000226585.html",
+          "publishedOn": "2021-08-24T13:12:20.000Z",
+          "wordCount": 24,
+          "title": "塩でカタツムリ数匹殺した疑い　26歳男逮捕　香港｜テレ朝news-テレビ朝日のニュースサイト"
+        },
+        {
+          "id": "https://internet.watch.impress.co.jp/docs/news/1345962.html",
+          "author": null,
+          "description": "マップボックス・ジャパン合同会社（Mapbox Japan）は8月24日、地図サービスを手掛ける国内企業7社とともに、広告配信で連携する「マップアドネットワーク」を立ち上げたと発表した。同ネットワークへ配信する「Mapbox広告プラットフォーム」を独自開発するとともに、地図のネイティブ広告を提供する「Mapbox広告」のベータサービスを提供開始した。参加企業はヤフー株式会社、株式会社ゼンリン、ジョルダン株式会社、株式会社ナビタイムジャパン、株式会社駅探、インクリメントP株式会社、株式会社マップル。",
+          "link": "https://internet.watch.impress.co.jp/docs/news/1345962.html",
+          "publishedOn": "2021-08-24T12:50:02.000Z",
+          "wordCount": 123,
+          "title": "ヤフー、ゼンリンら地図サービス7社が大集結した「地図広告ネットワーク」が始動、Mapbox Japanが立ち上げ - INTERNET Watch"
+        },
+        {
+          "id": "https://natalie.mu/comic/news/442245",
+          "author": null,
+          "description": "一方、Webマンガ部門で第1位に輝いた「怪獣8号」は、世界屈指の怪獣発生率を記録する“怪獣大国”の日本が舞台。主人公の日比野カフカは防衛隊員になり怪獣を全滅させることを夢見ていたが、謎の生物により自身の身体が怪獣化し、日本防衛隊からコードネーム“怪獣8号”と呼ばれる存在になってしまう。単行本は3巻まで発売さ...",
+          "link": "https://natalie.mu/comic/news/442245",
+          "publishedOn": "2021-08-24T12:00:36.000Z",
+          "wordCount": 535,
+          "title": "次にくるマンガ大賞2021、「【推しの子】」「怪獣8号」がコミックス＆Web部門で1位に（コメントあり） - コミックナタリー"
+        },
+        {
+          "id": "https://twitter.com/shimadamakoto11/status/1430109226114772995",
+          "author": null,
+          "description": "私は島田誠本人ですが、私の「以下のキャンペーンに賛同をお願いします！「メンタリストDaigGoのSNSアカウント停止を求めます！」というツィートは、私が意図して発信したものではありません。現在、出し入れの時の誤操作による場合もあるかもしれませんが、プロセスを確認中です。",
+          "link": "https://twitter.com/shimadamakoto11/status/1430109226114772995",
+          "publishedOn": "2021-08-24T11:46:00.000Z",
+          "wordCount": 196,
+          "title": "島田誠　立憲民主党埼玉県第11区総支部長 on Twitter: \"私は島田誠本人ですが、私の「以下のキャンペーンに賛同をお願いします！「メンタリストDaigGoのSNSアカウント停止を求めます！」というツィートは、私が意図して発信したものではありません。現在、出し入れの時の誤操作による場合もあるかもしれませんが、プロセスを確認中です。\""
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210824201719",
+          "author": null,
+          "description": "中途採用した社員が経歴を、完全に詐称していた。これが俺の係で大問題になっている。 事の発端は1本の電話からだった。 問題の電話を受けたのは俺で、電話を受けると英語でまくしたてられてしまって、英語なんて偏差値40の俺は何を言ってるのか全然分からない。 「あー、ソーリー、アイムノーイングリッシュ」みたいな...",
+          "link": "https://anond.hatelabo.jp/20210824201719",
+          "publishedOn": "2021-08-24T11:22:38.000Z",
+          "wordCount": 200,
+          "title": "中途採用社員が経歴詐称だった"
+        },
+        {
+          "id": "https://engryouri.net/other/life/12468",
+          "author": null,
+          "description": "ちゃんと洗濯をしているのに衣類やタオルが臭うことはありませんか。これは菌によるものです。なので定期的に熱で殺菌すると嫌な臭いを防ぐことができます。 はじめに 清潔な生活を送るため、洗濯は欠かせない家事のひとつです。しかし、衣類やタオルはしっかり洗っていても生乾きの悪臭がしてきたりします。着た後に洗...",
+          "link": "https://engryouri.net/other/life/12468",
+          "publishedOn": "2021-08-24T11:11:34.000Z",
+          "wordCount": 260,
+          "title": "衣類やタオルからする悪臭の防ぎ方 | エンジニアのメソッド"
+        },
+        {
+          "id": "https://www.huffingtonpost.jp/entry/story_jp_61246d78e4b0ec33fa075d37",
+          "author": null,
+          "description": "ムーミン、DHCとのコラボ中止へ　本国の著作権管理会社がコメント「いかなる差別も容認しません」 「ムーミンの作者であるトーベ・ヤンソンが示した価値観とはまったく相容れない」。DHCとのコラボをめぐり、本国の著作権管理会社がコメントしました。 人気キャラクター「ムーミン」に関する著作権を管理するフィンラン...",
+          "link": "https://www.huffingtonpost.jp/entry/story_jp_61246d78e4b0ec33fa075d37",
+          "publishedOn": "2021-08-24T10:51:53.000Z",
+          "wordCount": 244,
+          "title": "ムーミン、DHCとのコラボ中止へ　本国の著作権管理会社がコメント「いかなる差別も容認しません」 | ハフポスト"
+        },
+        {
+          "id": "https://www.moomin.co.jp/news/other/95191",
+          "author": null,
+          "description": "ムーミンを大切にしてくださる皆様へ 平素より、ムーミンをご愛顧いただきありがとうございます。 この度、当社がライセンス管理をする一部製品に関しまして、皆様へ不快な思いをさせてしまいましたこと、心よりお詫び申し上げます。 本国フィンランドのムーミンキャラクターズ社は、“いかなる差別も、助長ないし許容す...",
+          "link": "https://www.moomin.co.jp/news/other/95191",
+          "publishedOn": "2021-08-24T10:34:51.000Z",
+          "wordCount": 127,
+          "title": "ムーミン公式サイトより重要なお知らせ - ムーミン公式サイト"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210824132422",
+          "author": null,
+          "description": "野菜の1番うまい食べ方夏部門は焼き浸しで決まり！ 最近はナスを焼いてはめんつゆに浸して食べてるってことを狂ったかのようにずっとしてる 昨日もスーパーに行ってナスを買いに行ったんだけど、たまたまししとうが足元の棚に置いてるのをみて はるか昔にししとうを農家さんからたんまりもらったのをどうにかして醤油漬...",
+          "link": "https://anond.hatelabo.jp/20210824132422",
+          "publishedOn": "2021-08-24T10:32:33.000Z",
+          "wordCount": 159,
+          "title": "野菜の焼き浸し"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8S61TWP8SUTFK012.html",
+          "author": null,
+          "description": "枝野幸男・立憲民主党代表（発言録）　政府と東京都はようやく昨日、東京の医療機関に対して、改正感染症法に基づく（病床確保の）要請をした。改正感染症法を我々が協力して作ってから半年を大幅に超える日にちが経っている。第5波で「医療崩壊」が深刻な危機にあると言われてから1カ月近くが経とうとしている。この半...",
+          "link": "https://www.asahi.com/articles/ASP8S61TWP8SUTFK012.html",
+          "publishedOn": "2021-08-24T09:57:44.000Z",
+          "wordCount": 205,
+          "title": "立憲・枝野氏「政府と東京都、半年何をやっていたのか」：朝日新聞デジタル"
+        },
+        {
+          "id": "https://togetter.com/li/1764451",
+          "author": null,
+          "description": "木口雄人 @kiguchi_yuto 【京都人にコーヒーすすめられたら】 これ当たってた...京都に4年住んだだけある。笑 皆さんわかりますか、これ。 西と東で正答率変わるのかどうか興味深い... 答えは続きのコメントに貼るので、考えてみてください！ pic.twitter.com/JXx8V5cqcg 2020-04-01 20:10:47",
+          "link": "https://togetter.com/li/1764451",
+          "publishedOn": "2021-08-24T09:19:15.000Z",
+          "wordCount": 1330,
+          "title": "京都弁クイズ「コーヒーを飲んでいいのは一つだけ、さてどれ？」 - Togetter"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ce93abb96530fc03b596e24bcb568c328bf804b4",
+          "author": null,
+          "description": "今月20日から22日まで新潟・苗場スキー場で開催された日本最大規模の野外ロックフェス『FUJI ROCK FESTIVAL’21』の公式サイトが24日、「終了のご報告」として3日間の“延べ”来場者数が3万5449人だったと発表した。内訳は20日が1万2636人、21日が1万3513人、22日が9300人。 【写真】「生きる希望になりました！」RAD＆菅田...",
+          "link": "https://news.yahoo.co.jp/articles/ce93abb96530fc03b596e24bcb568c328bf804b4",
+          "publishedOn": "2021-08-24T09:03:31.000Z",
+          "wordCount": 75,
+          "title": "フジロック、3日間の延べ来場者数は3万5449人　現在のところ陽性者の確認なし（オリコン） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210824174907",
+          "author": null,
+          "description": "むかしむかし、とっても美しい（※注１）けれど、心の美しさについては評価が分かれることもある、王のパートナーの方（※注２）がいました。王のパートナーの方は魔法（※注３）のカガミを持っていて、いつも魔法のカガミにたずねます。 「カガミよカガミよ、この世で一番美しい（※注１）のは誰？」 王のパートナーの方は...",
+          "link": "https://anond.hatelabo.jp/20210824174907",
+          "publishedOn": "2021-08-24T08:54:46.000Z",
+          "wordCount": 150,
+          "title": "コンプラ白雪姫"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8S5RZGP8SULFA00R.html",
+          "author": null,
+          "description": "北欧の人気キャラクター「ムーミン」の商品化権の管理会社が、化粧品大手ディーエイチシー（DHC）が23日に売り出したキャラクター商品について、追加生産を中止するよう同社に求めたことが分かった。在日韓国・朝鮮人に対する差別的な文章が同社会長名でネット上に公開された問題で、SNS上で「ムーミンの世界観に合わな...",
+          "link": "https://www.asahi.com/articles/ASP8S5RZGP8SULFA00R.html",
+          "publishedOn": "2021-08-24T08:41:57.000Z",
+          "wordCount": 206,
+          "title": "ムーミン商品、追加生産中止を要請　管理会社がDHCに：朝日新聞デジタル"
+        },
+        {
+          "id": "https://lllagoon.hatenablog.com/entry/2021/08/24/163120",
+          "author": null,
+          "description": "しかし、医療機関に病床増やせ、できなければ名前を公表するというのなら、これまで病床を減らす政策に賛成してした議員全員、実名公表したらええのでは？— 近藤史恵 (@kondofumie) 2021年8月23日 という訳で実名を公表します。 本稿では実名の他、根拠法案や議事録も併せてご紹介します。これらの情報が来る衆院選にお...",
+          "link": "https://lllagoon.hatenablog.com/entry/2021/08/24/163120",
+          "publishedOn": "2021-08-24T08:20:46.000Z",
+          "wordCount": 131,
+          "title": "病床削減に賛成した議員の実名一覧を公表します(衆議院編) - エルの楽園"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/byline/tarobando/20200810-00192486",
+          "author": null,
+          "description": "新型コロナウイルス感染症の再拡大が懸念されるなか、昨年まで進められてきた「病床削減」方針を見直そうという動きが出てきました。すでに削減されてきた保健所や感染症病床のあり方も問われています。もっとも一連の削減にも理はあったのです。増大する一方の医療費をどうするかという問いに新型ウイルスが示した「伝...",
+          "link": "https://news.yahoo.co.jp/byline/tarobando/20200810-00192486",
+          "publishedOn": "2021-08-24T08:15:21.000Z",
+          "wordCount": 91,
+          "title": "病床・保健所を削減しまくってきた理由と今後のあり方（坂東太郎） - 個人 - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8S5HS3P8STIPE01P.html",
+          "author": null,
+          "description": "4件の市民襲撃事件で死刑判決を受けた特定危険指定暴力団・工藤会（北九州市）のトップ、野村悟被告（74）は、24日の福岡地裁での公判が終わった後、裁判長に向かって「生涯このことを後悔するぞ」と発言した。 発言があったのは、野村被告に対し求刑通り死刑の判決の言い渡しが終わり、閉廷が告げられた直後。野村被告...",
+          "link": "https://www.asahi.com/articles/ASP8S5HS3P8STIPE01P.html",
+          "publishedOn": "2021-08-24T07:57:16.000Z",
+          "wordCount": 218,
+          "title": "死刑判決の工藤会トップ、裁判長に「生涯後悔するぞ」 [裁かれる工藤会]：朝日新聞デジタル"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210824151056",
+          "author": null,
+          "description": "巨大ロボ除く",
+          "link": "https://anond.hatelabo.jp/20210824151056",
+          "publishedOn": "2021-08-24T07:34:00.000Z",
+          "wordCount": 202,
+          "title": "ネコ型じゃないよ。ヒト型のロボットって今ならだれを思い浮かべるよ？"
+        },
+        {
+          "id": "https://togetter.com/li/1764239",
+          "author": null,
+          "description": "絹* @UgZo5VFCxSAL10E 今日聞きました。 友人の娘さんの友人（21歳）が枠売って15分待機中に亡くなったそうです。そしたら市役所？政府？（管轄どこの方か忘れてしまいました）が「口外しないでくれ」と💴包んで持ってきたそうです。拒否出来ない状況らしくもう泣き寝入りしかなかったそうです。もちろんニュースにも 20...",
+          "link": "https://togetter.com/li/1764239",
+          "publishedOn": "2021-08-24T06:53:40.000Z",
+          "wordCount": 778,
+          "title": "友人の娘さんの友人（21歳）が枠売って15分待機中に亡くなったそうです。そしたら市役所？政府？（管轄どこの方か忘れてしまいました）が「口外しないでくれ」と💴包んで持ってきたそうです。拒否出来ない状況らしくもう泣き寝入りしかなかったそうです。 - Togetter"
+        },
+        {
           "id": "https://bunshun.jp/articles/-/48097",
           "author": null,
           "description": "スマートフォンひとつで何でもできるネット先進国中国。その中国で、もしもインターネットがつながらなくなったらどうなるのか。ものすごい有事にでもならない限り起きえないと思ってましたが、オリンピックの直前にひっそりと起きていました。 内陸の河南省に、前例がないほどの豪雨 世界的に報じられる東京オリンピッ...",
@@ -7600,303 +7870,6 @@
           "publishedOn": "2021-07-26T12:40:47.000Z",
           "wordCount": 80,
           "title": "トライアスロン後に嘔吐　暑さや水質…心配の声 - 産経ニュース"
-        },
-        {
-          "id": "https://hobby.watch.impress.co.jp/docs/special/1340233.html",
-          "author": null,
-          "description": "老舗のホビーメディア「ホビージャパン」編集者のSNSでの発言について、株式会社ホビージャパンが、該当者の退職処分をはじめ、担当取締役や編集長も降格処分とするかなり重い処分を行なった。",
-          "link": "https://hobby.watch.impress.co.jp/docs/special/1340233.html",
-          "publishedOn": "2021-07-26T12:36:56.000Z",
-          "wordCount": 701,
-          "title": "【特別企画】なぜホビーメディアは「転売」を容認してはいけないのか 転売行為はユーザーとメーカーの幸せな関係を破壊してしまう - HOBBY Watch"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a4105959cc526c62bb56449e1b71e01fcced6aca",
-          "author": null,
-          "description": "東京オリンピック（五輪）大会組織委員会のジェンダー平等推進チームのアドバイザーを務めている井本直歩子さんは26日、五輪メインプレスセンターで記者会見して、大会後に日本オリンピック委員会（JOC）などと女性アスリートの報じられ方について協議したいとの意向を示した。 【写真】東京五輪の開会式。木製の五輪マ...",
-          "link": "https://news.yahoo.co.jp/articles/a4105959cc526c62bb56449e1b71e01fcced6aca",
-          "publishedOn": "2021-07-26T12:27:34.000Z",
-          "wordCount": 70,
-          "title": "国連の井本氏、女性選手の報じられ方に異議「容姿の話題多い」（朝日新聞デジタル） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://www.asahi.com/articles/ASP7V6T4VP7VUTQP045.html",
-          "author": null,
-          "description": "東京オリンピック（五輪）大会組織委員会のジェンダー平等推進チームのアドバイザーを務めている井本直歩子さんは26日、五輪メインプレスセンターで記者会見して、大会後に日本オリンピック委員会（JOC）などと女性アスリートの報じられ方について協議したいとの意向を示した。 井本さんは国連児童基金の教育専門官（休...",
-          "link": "https://www.asahi.com/articles/ASP7V6T4VP7VUTQP045.html",
-          "publishedOn": "2021-07-26T12:25:16.000Z",
-          "wordCount": 205,
-          "title": "国連の井本氏、女性選手の報じられ方に異議「容姿の話題多い」 - 東京オリンピック：朝日新聞デジタル"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b89225daea76a27a34468122172b31ec5384b840",
-          "author": null,
-          "description": "連日熱戦が繰り広げられている東京オリンピックだが、あまりの猛暑に不満を訴えるアスリートが続出している。７月24日には、アーチェリー女子の予選でロシアのスヴェトラーナ・ゴムボエワが暑さで気を失い、2",
-          "link": "https://news.yahoo.co.jp/articles/b89225daea76a27a34468122172b31ec5384b840",
-          "publishedOn": "2021-07-26T11:43:24.000Z",
-          "wordCount": 81,
-          "title": "「日本の組織委員会は嘘をついた」猛暑下での五輪開催を米メディアが厳しく糾弾！「アスリートが代償を支払っている」【東京五輪】（THE DIGEST） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210726195557",
-          "author": null,
-          "description": "東京の感染者数を5週間ぶん予測した (6月21日版) から (7月19日版) に至る記事の続き。まえがきは初回(6月21日版)の記事でご覧ください。 まず、最初の6月21日の予測から5週が経過したので、全体を振り返っておきます。6月21日版予測 現実 差 ～6月27日 3,368 3,342 -0.8% ～7月04日 4,679 4,074 -12.9% ～7月11日 6,642...",
-          "link": "https://anond.hatelabo.jp/20210726195557",
-          "publishedOn": "2021-07-26T10:57:36.000Z",
-          "wordCount": 1739,
-          "title": "東京の感染者数を5週間ぶん予測した (7月26日版)"
-        },
-        {
-          "id": "https://www.tokyo-np.co.jp/article/119459",
-          "author": null,
-          "description": "東京五輪・パラリンピック組織委員会が待機期間中の大会関係者に宿泊先から１５分以内の外出を認めていた問題で、批判を受けて「１５分以内」の表示を削除した後も、監督者の帯同なしで外出できる状態にあることが分かった。２６日の野党会合で、内閣官房が公表した外出に関する新たな文面の問題点を野党側が指摘した。",
-          "link": "https://www.tokyo-np.co.jp/article/119459",
-          "publishedOn": "2021-07-26T10:54:58.000Z",
-          "wordCount": 299,
-          "title": "15分以内の外出容認、見直したら「時間が無制限に」　五輪関係者の特例巡り野党が批判：東京新聞 TOKYO Web"
-        },
-        {
-          "id": "https://news.denfaminicogamer.jp/kikakuthetower/210726z",
-          "author": null,
-          "description": "東京オリンピック開会式でのゲーム音楽の使用にまつわる議論から、現代における社会の分断について考える──インターネットは民主主義の敵なのか？ 東京オリンピックの開会式の入場曲に、『ドラゴンクエスト』や『ファイナルファンタジー』をはじめとするゲーム音楽が使用されたことについて、ネットではその是非を巡って...",
-          "link": "https://news.denfaminicogamer.jp/kikakuthetower/210726z",
-          "publishedOn": "2021-07-26T10:36:04.000Z",
-          "wordCount": 295,
-          "title": "東京オリンピック開会式でのゲーム音楽の使用にまつわる議論から、現代における社会の分断について考える──インターネットは民主主義の敵なのか？"
-        },
-        {
-          "id": "https://www.buzzfeed.com/jp/kotahatachi/tokyo-2020",
-          "author": null,
-          "description": "「日本のオリンピック組織は嘘をついた」海外コラムニストが猛暑の東京五輪を酷評東京オリンピックの暑さの問題に関しては、IOCが競技日程変更を認める意向を示したという。また、組織委も「早急に相談していきたい」と述べている。",
-          "link": "https://www.buzzfeed.com/jp/kotahatachi/tokyo-2020",
-          "publishedOn": "2021-07-26T09:58:40.000Z",
-          "wordCount": 119,
-          "title": "「日本のオリンピック組織は嘘をついた」海外コラムニストが猛暑の東京五輪を酷評"
-        },
-        {
-          "id": "https://news.mynavi.jp/article/20210726-1930922/",
-          "author": null,
-          "description": "Windows 10のライセンス認証に必要となる「プロダクトキー」は、PCのパッケージや付属するカードに記載されています。こうしたラベルを確認できない場合でも、コマンドプロンプトやPowerShellでプロダクトキーを表示することが可能です。自作PCの場合はフリーソフトの「Windows Product Key View」を使うことで確認でき...",
-          "link": "https://news.mynavi.jp/article/20210726-1930922/",
-          "publishedOn": "2021-07-26T09:24:58.000Z",
-          "wordCount": 464,
-          "title": "Windows 10のプロダクトキーを確認する方法 | マイナビニュース"
-        },
-        {
-          "id": "https://note.com/meirojin/n/n75ce098a2b7b",
-          "author": null,
-          "description": "新型コロナウイルス感染症については、必ず1次情報として厚生労働省や首相官邸のウェブサイトなど公的機関で発表されている発生状況やQ&A、相談窓口の情報もご確認ください。またコロナワクチンに関する情報は首相官邸のウェブサイトをご確認ください。※非常時のため、すべての関連記事に本注意書きを一時的に出していま...",
-          "link": "https://note.com/meirojin/n/n75ce098a2b7b",
-          "publishedOn": "2021-07-26T08:57:15.000Z",
-          "wordCount": 52,
-          "title": "運動が嫌いな私がどうしても東京五輪を許せないわけ｜安田峰俊｜note"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210726/k10013160821000.html",
-          "author": null,
-          "description": "文豪・ヘミングウェーのそっくりさんを決める、毎年恒例のコンテストがアメリカ・フロリダ州で開かれ、白髭を蓄えた男性130人余りが参加しました。 ことしで40周年を迎えるこのコンテストは「老人と海」などで知られる文豪・ヘミングウェーが、1930年代にアメリカ南部フロリダ州のキーウェストに住んでいたことを記念し...",
-          "link": "https://www3.nhk.or.jp/news/html/20210726/k10013160821000.html",
-          "publishedOn": "2021-07-26T08:47:07.000Z",
-          "wordCount": 19,
-          "title": "ヘミングウェー いちばん似ているのは誰 米でコンテスト | NHKニュース"
-        },
-        {
-          "id": "https://www.sankei.com/article/20210726-4Y7OO6URJVOPFDAVVL42XNE73I/",
-          "author": null,
-          "description": "党会合での自身の発言について、報道陣の取材に応じる立憲民主党の本多平直衆院議員＝６月８日午後、国会立憲民主党の本多平直衆院議員が性交同意年齢に関する議論で「５０代が１４歳と恋愛し同意があった場合に罰せられるのはおかしい」などと発言した問題をめぐり、本多氏が発言の場となった党性犯罪刑法改正ワーキン...",
-          "link": "https://www.sankei.com/article/20210726-4Y7OO6URJVOPFDAVVL42XNE73I/",
-          "publishedOn": "2021-07-26T08:42:13.000Z",
-          "wordCount": 43,
-          "title": "立民・本多氏「１２歳と２１歳だってないとはいえない」　ＷＴ寺田座長が意見書 - 産経ニュース"
-        },
-        {
-          "id": "http://hobbyjapan.co.jp/news_release/detail.html?id=6",
-          "author": null,
-          "description": "株式会社ホビージャパンの重要なお知らせを掲載しています。",
-          "link": "http://hobbyjapan.co.jp/news_release/detail.html?id=6",
-          "publishedOn": "2021-07-26T07:34:22.000Z",
-          "wordCount": 48,
-          "title": "弊社社員のSNS等での不適切発言に関する社内処分につきまして｜重要なお知らせ ｜ 株式会社ホビージャパン"
-        },
-        {
-          "id": "https://togetter.com/li/1750270",
-          "author": null,
-          "description": "真乃宮@いつか君の盾となろう @manomiya37 愛する妻と息子たち。読書に救われてきた人生。報いのない物語でこそ伝えられる情動があると信じています。（Twitterは呟きが主です） 真乃宮@いつか君の盾となろう @manomiya37 昔『わらび餅の移動販売』を短編小説に取り上げたとき、ある読者から「衛生上の問題」「保健所の...",
-          "link": "https://togetter.com/li/1750270",
-          "publishedOn": "2021-07-26T07:17:06.000Z",
-          "wordCount": 1903,
-          "title": "『わらび餅の移動販売』を小説に書いたら読者から「架空のものを実在してるかのように書くのはタブー。きちんと調べた方がいいですよ」と言われた話 - Togetter"
-        },
-        {
-          "id": "https://techlife.cookpad.com/entry/2021/07/26/160000",
-          "author": null,
-          "description": "レシピ事業サービス基盤部で部長をやっています、新井(@SpicyCoffee66)です。引越しを機に MtG のカードをほとんど売ったはずなのに、そのときは存在しなかったポケモンカードのデッキが手元にあります。なぜ？ 私は 2017 卒のエンジニアとしてクックパッドに入社し、様々な業務を経験した後に 2020 年の 8 月から部長と...",
-          "link": "https://techlife.cookpad.com/entry/2021/07/26/160000",
-          "publishedOn": "2021-07-26T07:04:41.000Z",
-          "wordCount": 473,
-          "title": "マイクロマネジメントは悪か？よりよい組織をつくるためのマネジメント形態についての考察 - クックパッド開発者ブログ"
-        },
-        {
-          "id": "https://twitter.com/hmakihara/status/1419439901548843008",
-          "author": null,
-          "description": "高橋洋一先生のコラム。私もオリンピックは開催して良かったと心から思っています。 中止を声高に主張されていた方は今どういうお気持ちなのでしょうか、と少し気になります。 あ、朝日新聞社主催の夏の甲子園大会もやって下さって感謝しています。 https://t.co/H9M6Wudgn2",
-          "link": "https://twitter.com/hmakihara/status/1419439901548843008",
-          "publishedOn": "2021-07-26T07:01:33.000Z",
-          "wordCount": 196,
-          "title": "牧原秀樹 まきはらひでき 衆議院議員　自民党 on Twitter: \"高橋洋一先生のコラム。私もオリンピックは開催して良かったと心から思っています。 中止を声高に主張されていた方は今どういうお気持ちなのでしょうか、と少し気になります。 あ、朝日新聞社主催の夏の甲子園大会もやって下さって感謝しています。 https://t.co/H9M6Wudgn2\""
-        },
-        {
-          "id": "https://da-nce.jp/2021/07/26/datascientist-questionnaire2021/",
-          "author": null,
-          "description": "データ分析とビジネス活用のプロとして、さまざまな業界フィールドで活躍する「データサイエンティスト」。 スキルセットや必要な知識などが語られることはあるものの、まだはっきりとした定義がなく、いったいどんな人たちなのか？と疑問を持つ人も少なくないのでは。 そこで本企画では、企業で働くデータサイエンティ...",
-          "link": "https://da-nce.jp/2021/07/26/datascientist-questionnaire2021/",
-          "publishedOn": "2021-07-26T05:58:12.000Z",
-          "wordCount": 2003,
-          "title": "22社、52人のデータサイエンティストに聞いてみた！「どんなお仕事してますか？」 | Da-nce"
-        },
-        {
-          "id": "https://jp.reuters.com/article/sport-tokyo-olympics-heat-idJPKBN2EW0AJ",
-          "author": null,
-          "description": "ＩＯＣは２５日、酷暑と湿度対策のために、必要であれば東京五輪の競技日程変更を認める意向を示した。写真は試合中にクールダウンする女子テニスのオンス・ジャブール（２０２１年　ロイター） ［東京　２５日　ロイター］ - 国際オリンピック委員会（ＩＯＣ）は２５日、酷暑と湿度対策のために、必要であれば東京五輪...",
-          "link": "https://jp.reuters.com/article/sport-tokyo-olympics-heat-idJPKBN2EW0AJ",
-          "publishedOn": "2021-07-26T04:49:42.000Z",
-          "wordCount": 24,
-          "title": "五輪＝ＩＯＣが日程変更を許可、酷暑と湿度対策で | ロイター"
-        },
-        {
-          "id": "https://wirelesswire.jp/2021/07/80265/",
-          "author": null,
-          "description": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる 2021.07.26 Updated by Ryo Shimizu on July 26, 2021, 07:12 am JST 最近のプログラミングの新しい波は微分可能プログラミング(differentiable programming)である。 微分可能プログラミングとは、簡単...",
-          "link": "https://wirelesswire.jp/2021/07/80265/",
-          "publishedOn": "2021-07-26T01:45:38.000Z",
-          "wordCount": 176,
-          "title": "「映像も物理も、微分可能になるとすごいことが起きる」ということの意味を文系にもわかるように説明しようと試みる - WirelessWire News（ワイヤレスワイヤーニュース）"
-        },
-        {
-          "id": "https://hichihara.hatenablog.com/entry/2021/07/26/070000",
-          "author": null,
-          "description": "最高の夏を迎える中庭 前回の記事投稿からだいぶあいていますが、あいかわらずGAFAではない会社でソフトウェアエンジニアをしています。今回は最近の個人的な大仕事であった家を買った話を書きます。ちなみにこの記事にソフトウェアエンジニア要素はほぼないので釣りタイトルになります、ただプロダクト設計やプロジェク...",
-          "link": "https://hichihara.hatenablog.com/entry/2021/07/26/070000",
-          "publishedOn": "2021-07-25T23:55:41.000Z",
-          "wordCount": 221,
-          "title": "ソフトウェアエンジニア、家を買う - hichihara note"
-        },
-        {
-          "id": "https://www.nikkei.com/article/DGKKZO74163610V20C21A7PE8000/",
-          "author": null,
-          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 人手不足を補うため海外から人材を受け入れるだけ受け入れ、劣悪な労働環境は放置というのでは無責任のそしりを免れない。外国人技能実習制度のことだ。 いっこうに改...",
-          "link": "https://www.nikkei.com/article/DGKKZO74163610V20C21A7PE8000/",
-          "publishedOn": "2021-07-25T21:56:06.000Z",
-          "wordCount": 110,
-          "title": "（社説）技能実習は速やかに廃止を: 日本経済新聞"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html",
-          "author": null,
-          "description": "ガソリンと同じ成分を体内で作る植物プランクトンを海洋研究開発機構の研究グループが北極海で発見し、新たなバイオ燃料の開発につなげられないか注目されています。 海洋研究開発機構の研究船「みらい」が8年前（2013年）に北極海で行った調査で、採取した植物プランクトンを培養して詳しく調べたところ、体内にガソリ...",
-          "link": "https://www3.nhk.or.jp/news/html/20210726/k10013159751000.html",
-          "publishedOn": "2021-07-25T21:04:27.000Z",
-          "wordCount": 19,
-          "title": "ガソリンと同じ成分作る植物プランクトン発見 | 環境 | NHKニュース"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20200603181732",
-          "author": null,
-          "description": "うまく説明とか言語化ができないんだけどさ なんか「計算でヒット作品つくってます感」みたいなのが鼻につく感じ、ない？ パプリカとか日常のOP曲とか特にそんな感じがする 漫画で言ったらバクマン。とドクターストーンも同じような匂いを感じる ヒットするのは当然、すべて計算の内ですよ、みたいな 100日後に死ぬワニ...",
-          "link": "https://anond.hatelabo.jp/20200603181732",
-          "publishedOn": "2021-07-25T20:58:12.000Z",
-          "wordCount": 108,
-          "title": "米津玄師とヒャダインが苦手"
-        },
-        {
-          "id": "https://unseenjapan.com/kobayashi-scandal-jpn-edition/",
-          "author": null,
-          "description": "Articles on Unseen Japan may contain affiliate links from which we earn a commission if you make a purchase. This is a special Japanese-language edition of our news article entitled “Holocaust Joke Lands Olympics Opening Director in Hot Water.” The original English version can be found here. 追記...",
-          "link": "https://unseenjapan.com/kobayashi-scandal-jpn-edition/",
-          "publishedOn": "2021-07-25T18:45:55.000Z",
-          "wordCount": 1195,
-          "title": "ユダヤ人から見た小林賢太郎氏のホロコーストコント(JPN Editon) - Unseen Japan"
-        },
-        {
-          "id": "https://kabumatome.doorblog.jp/archives/65983227.html",
-          "author": null,
-          "description": "Олимпиада. Мой друг Киврин pic.twitter.com/UsgCoRZTyw — SMIRNOVTАSS (@SMI_TASS) July 24, 2021 🦊源九郎狐@cute_fox_earsうわぁ。 しかもR5。オリンピックのために新調したであろうものが。 2021/07/25 20:32:39 ローレイ@RaleighProスポーツ撮影のプロもミラーレス使う時代よなー 2021/07/25 22:31:30 偽職@purple...",
-          "link": "https://kabumatome.doorblog.jp/archives/65983227.html",
-          "publishedOn": "2021-07-25T18:01:41.000Z",
-          "wordCount": 504,
-          "title": "ソニーのカメラに乗り替えるプロカメラマン、東京2020五輪でも如実に : 市況かぶ全力２階建"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/sports/story/18670/index.html?cid=2020hk-tw-sports-text-0725",
-          "author": null,
-          "description": "7月24日・土曜日、体操男子や柔道など人気競技が一斉に始まる中、テレビ中継がなかったにもかかわらず、ネット配信で自転車ファンを熱狂させてSNSのトレンドに入った「自転車男子ロードレース」。でも、素人にはそのすごさがよくわからない…？そんな人のために、レースを振り返りながらすごさを解説します！ 決着の瞬間...",
-          "link": "https://www3.nhk.or.jp/sports/story/18670/index.html?cid=2020hk-tw-sports-text-0725",
-          "publishedOn": "2021-07-25T16:35:51.000Z",
-          "wordCount": 283,
-          "title": "トレンド席巻！自転車ロードレースのすごさ！ 東京オリンピック | NHKスポーツ"
-        },
-        {
-          "id": "https://jp.reuters.com/article/tokyo-2020-cycling-idJPKBN2EV0ES",
-          "author": null,
-          "description": "［小山町（静岡県）　２５日　ロイター］ - 東京五輪は２５日の女子自転車ロードレースで、数学の研究を本職とするオーストリアのアナ・キーゼンホファーが初めての出場で金メダルを獲得した。プロの自転車選手ではないキーゼンホファーはコーチやスタッフをつけず、自身でトレーニングや食事を管理している。 キーゼン...",
-          "link": "https://jp.reuters.com/article/tokyo-2020-cycling-idJPKBN2EV0ES",
-          "publishedOn": "2021-07-25T15:28:46.000Z",
-          "wordCount": 26,
-          "title": "五輪＝自転車女子ロード、オーストリアの数学研究者が金メダル | ロイター"
-        },
-        {
-          "id": "https://togetter.com/li/1749895",
-          "author": null,
-          "description": "自転車競技のロードレースの放送で再認識させてくれた日本の美しい景色や，ツール・ド・フランスで活躍した有名選手達が日本開催のレースでガチに疾走する様子などに感動する呟きをまとめてみました． 選手名とかルールとかは一旦置いておいて，ロードレースの空撮の魅力などが伝わったら嬉しいです．今なら見逃し配信も...",
-          "link": "https://togetter.com/li/1749895",
-          "publishedOn": "2021-07-25T14:08:41.000Z",
-          "wordCount": 720,
-          "title": "東京五輪2020・ロードレースの向こうに映し出された日本の景色 - Togetter"
-        },
-        {
-          "id": "https://tvod.hatenablog.com/entry/2021/07/25/225836",
-          "author": null,
-          "description": "コメカ　小山田圭吾のことについて話したいと思います。正直言ってぼくはまだ非常に混乱していて、自分でも整理がついていません。ただ、これまで自分なりにサブカルチャー批評をやってきて、コーネリアスやフリッパーズ・ギターにも何度も言及し、肯定的に評価もしてきた。TVODの『ポスト・サブカル焼け跡派』でも、フ...",
-          "link": "https://tvod.hatenablog.com/entry/2021/07/25/225836",
-          "publishedOn": "2021-07-25T14:04:58.000Z",
-          "wordCount": 129,
-          "title": "小山田圭吾氏を起点とする一連の出来事について / TVOD - TVOD"
-        },
-        {
-          "id": "https://times.abema.tv/news-article/8667595",
-          "author": null,
-          "description": "「大人に囲まれ、やらなきゃいけない空気に」「現場から走って逃げてしまった」ネットに“写真”が”半永久”に残る時代、撮影を後悔するグラビアアイドルを生まないためには。ABEMA TIMES[アベマタイムズ]は「見たい！」がみつかる情報ニュースサイトです。ABEMAの番組を中心に、ニュース映像や面白動画の紹介、著名人のイ...",
-          "link": "https://times.abema.tv/news-article/8667595",
-          "publishedOn": "2021-07-25T13:57:58.000Z",
-          "wordCount": 5,
-          "title": "「大人に囲まれ、やらなきゃいけない空気に」「現場から走って逃げてしまった」ネットに“写真”が”半永久”に残る時代、撮影を後悔するグラビアアイドルを生まないためには 【ABEMA TIMES】"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210725225651",
-          "author": null,
-          "description": "オリンピック興味ない派が、いざ始まったら肯定派に変わってきて、やっぱアホだなって思う。 さっそくどの報道機関もオリンピックを最優先で報道し、コロナは二の次になってきて、洗脳モード入ってきました。 政府が思い描いた通りに、オリンピックが盛り上がった状態が続いて、衆院選もそもまま自民に票が入るんやろ？ ...",
-          "link": "https://anond.hatelabo.jp/20210725225651",
-          "publishedOn": "2021-07-25T13:57:05.000Z",
-          "wordCount": 204,
-          "title": "結局政府が思い描いた未来になってそう"
-        },
-        {
-          "id": "https://note.com/takasu/n/nd94c48c0b26a",
-          "author": null,
-          "description": "僕の友達は　@ochyai @GOROman @etsuko_ichihara 等やりたいことを仕事にしてる人も多いけど、ほぼ全員が会社員やプロ研究者からの独立組。 楽してたくさん稼ぐ話、マジ騙された話以外まったく聞かないので、会社大事 未経験フリーランスを席捲する「カジュアルな情報商材」https://t.co/eHkJYRlsH8 — 高須正和@NT深圳コ...",
-          "link": "https://note.com/takasu/n/nd94c48c0b26a",
-          "publishedOn": "2021-07-25T13:10:55.000Z",
-          "wordCount": 111,
-          "title": "会社員やることで「社会のルールを知れること」の良さはもっときちんと広められるべきだ｜TAKASU Masakazu｜note"
-        },
-        {
-          "id": "https://twitter.com/akira_you/status/1419228947766644736",
-          "author": null,
-          "description": "ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2",
-          "link": "https://twitter.com/akira_you/status/1419228947766644736",
-          "publishedOn": "2021-07-25T12:54:35.000Z",
-          "wordCount": 196,
-          "title": "akira_you on Twitter: \"ブラウザのアドレスバーで検索できて便利やん。でもね、会社でつかうのはやめとき。 mDNSで同じLAN居る人全員に、このアドレス知りませんか？って検索ワードで聞きおるで。 Firefoxは検索窓がアドレスバーの右にあるからアドレス… https://t.co/zhn1fKxxe2\""
         }
       ]
     }
