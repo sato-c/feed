@@ -6,6 +6,276 @@
       "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
       "articles": [
         {
+          "id": "https://www.nikkei.com/article/DGXZQOCC254JW0V20C21A8000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 新型コロナウイルス感染拡大の「第5波」が全国に波及している。インド型（デルタ型）変異ウイルスが地方に広がり、43都道府県で新規感染者数が国基準で最も深刻な「ス...",
+          "link": "https://www.nikkei.com/article/DGXZQOCC254JW0V20C21A8000000/",
+          "publishedOn": "2021-08-25T21:56:48.000Z",
+          "wordCount": 117,
+          "title": "新型コロナ: 地方に感染急拡大　43都道府県、新規感染者ステージ4に: 日本経済新聞"
+        },
+        {
+          "id": "https://gendai.ismedia.jp/articles/-/86584",
+          "author": null,
+          "description": "今後の未来像は 予防接種という行為は、接種者自身はもちろんのこと、それ以外の方の感染機会を減らすことに繋がる。そのため、そのような間接的な防御が人口内で積み重なり、流行自体を防ぐ効果が得られたものを集団免疫効果と呼ぶ。そして、流行排除のための閾値について、従来株の場合、予防接種率が60％超程度ではな...",
+          "link": "https://gendai.ismedia.jp/articles/-/86584",
+          "publishedOn": "2021-08-25T21:49:17.000Z",
+          "wordCount": 177,
+          "title": "西浦博教授が考える「ワクチン接種が進む日本」でこれから先に見込まれる“展開”（西浦 博） | 現代ビジネス | 講談社（1/5）"
+        },
+        {
+          "id": "https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html",
+          "author": null,
+          "description": "4度目となる緊急事態宣言下では、新型コロナウイルスの感染状況が改善する兆しが見えなかった。7月下旬、政府は宣言の対象を拡大、延長する検討に入った。政府に助言する専門家たちには「リーダーの言葉が国民に届いていない」と、菅義偉首相の発信に対する不満が広がっていた。 「国民の気持ちに寄り添うようなメッセー...",
+          "link": "https://www.asahi.com/articles/ASP8S54FZP8PUTFK007.html",
+          "publishedOn": "2021-08-25T21:10:58.000Z",
+          "wordCount": 233,
+          "title": "首相「圧倒的にうまくやってる」　目を背けた厳しい現実：朝日新聞デジタル"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210826/k10013223821000.html",
+          "author": null,
+          "description": "モデルナの新型コロナウイルスワクチンの一部に異物が混入しているのが相次いで見つかり、厚生労働省は同じ工程で製造されたワクチンの使用を見合わせることを決めました。対象となるワクチンは合わせておよそ160万回分で、これまでのところ健康被害は報告されていないということです。 厚生労働省などによりますと、今...",
+          "link": "https://www3.nhk.or.jp/news/html/20210826/k10013223821000.html",
+          "publishedOn": "2021-08-25T20:21:44.000Z",
+          "wordCount": 28,
+          "title": "モデルナのワクチン 一部に異物混入 約160万回分使用見合わせ | 新型コロナ ワクチン（日本国内） | NHKニュース"
+        },
+        {
+          "id": "https://www.nikkei.com/article/DGXZQOUA25EKV0V20C21A8000000/",
+          "author": null,
+          "description": "日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら 厚生労働省は26日、米モデルナ製の新型コロナウイルスワクチンについて異物の混入が見つかったとして、約160万回分の接種を見合わせると発表した。一部はすでに接種さ...",
+          "link": "https://www.nikkei.com/article/DGXZQOUA25EKV0V20C21A8000000/",
+          "publishedOn": "2021-08-25T18:29:15.000Z",
+          "wordCount": 132,
+          "title": "新型コロナ: モデルナワクチン、160万回分接種停止　異物混入の報告: 日本経済新聞"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5b4b207dc3dca45c3f6d53a0d0afc0d4171335cb",
+          "author": null,
+          "description": "ファイザー製の新型コロナウイルスのワクチン接種後にできる、ウイルスに対抗するための抗体の量は、１回目接種の３か月後には、４分の１に減ったことがわかりました。それでも、自然感染で得られる抗体よりは多い量だということです。 藤田医科大学は、ファイザー製のワクチンを接種した職員２０９人について、新型コロ...",
+          "link": "https://news.yahoo.co.jp/articles/5b4b207dc3dca45c3f6d53a0d0afc0d4171335cb",
+          "publishedOn": "2021-08-25T17:45:10.000Z",
+          "wordCount": 74,
+          "title": "ファイザー“抗体量”３か月後４分の１に減（日本テレビ系（NNN）） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://togetter.com/li/1765035",
+          "author": null,
+          "description": "ねえね　猫の座布団 @Doragonsyoten 「誰もが文字が書いてあると反射的に読むわけではない」ってのは文字があると全部読む族の人には盲点だったりするんよな。家庭内に対面口語コミュニケーションしかなかった人達ってのはわりと多いんよ。そして親が文字読まないと子供もそれを読む習慣はつかないらしいんよね。 2021-0...",
+          "link": "https://togetter.com/li/1765035",
+          "publishedOn": "2021-08-25T16:42:31.000Z",
+          "wordCount": 977,
+          "title": "「誰もが文字が書いてあると反射的に読むわけではない」ってのは､文字があると全部読む族の人には盲点だったりする - Togetter"
+        },
+        {
+          "id": "https://www.fnn.jp/articles/-/229731",
+          "author": null,
+          "description": "アフガニスタンの武装勢力タリバンが、「日本人を必要としている」などと協力を呼びかける一方、自衛隊には、早期撤退を求めた。 タリバン・ムジャヒド報道官「われわれは、日本人のアフガニスタンからの退避を望んでいません。しかし、自衛隊は退去してほしい」 タリバンの報道官は、FNNの取材に対し、「われわれは日本...",
+          "link": "https://www.fnn.jp/articles/-/229731",
+          "publishedOn": "2021-08-25T15:43:41.000Z",
+          "wordCount": 131,
+          "title": "タリバン「日本人は必要 自衛隊は撤退を」　FNNの取材に応じる"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210825234710",
+          "author": null,
+          "description": "記憶が鮮明なうちに記録しておくのはいいかもしれない、と思ったので書く。 スペック30代後半都内のIT系企業で働くwebエンジニアリモートワーク仕事関係の人間関係は良好（だと思う）友達少ない。恋人3年超いない。インテリアは特に詳しくない。 賃貸派だった理由色んな街に住むのが楽しい。 出身が地方だったこともあり...",
+          "link": "https://anond.hatelabo.jp/20210825234710",
+          "publishedOn": "2021-08-25T15:02:53.000Z",
+          "wordCount": 148,
+          "title": "独身アラフォーwebエンジニアが中古マンションを買ってリノベした"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bf8202d737d64169757f5bc2ab3a0e02594dbc42",
+          "author": null,
+          "description": "菅首相は２５日夜、新型コロナウイルス対策として緊急事態宣言の追加発令などを決めたことを受け、首相官邸で記者会見した。首相は「国民の協力をいただきながらこの危機を何としても乗り越えていく」と述べた。そのうえで、１兆４０００億円の予備費の使用を週内に決定することを明らかにした。 【動画】菅首相の似顔絵...",
+          "link": "https://news.yahoo.co.jp/articles/bf8202d737d64169757f5bc2ab3a0e02594dbc42",
+          "publishedOn": "2021-08-25T14:59:12.000Z",
+          "wordCount": 67,
+          "title": "首相「明かりは見え始めている」…ワクチンは「デルタ株にも効果」と強調（読売新聞オンライン） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://blog.shin1x1.com/entry/getting-stated-with-phpstan",
+          "author": null,
+          "description": "PHP にはアプリケーションを実行せずに静的にコード品質をチェックする静的解析ツールがいくつかあります。有名なところでは、PHPStan や Psalm、Phan、PHPMD などがあります。本エントリでは、まだこうした静的解析ツールを導入していないプロジェクト向けに PHPStan 導入の流れをまとめてみました。 3(4) 行まとめ サ...",
+          "link": "https://blog.shin1x1.com/entry/getting-stated-with-phpstan",
+          "publishedOn": "2021-08-25T13:04:18.000Z",
+          "wordCount": 1105,
+          "title": "level=0 から始める PHPStan(Larastan) 導入ガイド - Shin x Blog"
+        },
+        {
+          "id": "https://togetter.com/li/1764952",
+          "author": null,
+          "description": "これまでのあらすじ 1、安久工機に工場見学希望の電話が 2、電話主の息子さん（小学生）が人工心臓に興味を持っているとのこと 3、さらに詳しく話を聞くと、少年の知識のガチさに現場パニック 4、安久工機、大喜びで工場見学を受け入れる 5、安久工機、少年の見学を成功させるべく万全の準備に取り組む",
+          "link": "https://togetter.com/li/1764952",
+          "publishedOn": "2021-08-25T13:02:17.000Z",
+          "wordCount": 811,
+          "title": "『人工心臓ガチ勢の小学生』による安久工機の工場見学が実現！初日からフルパワーで対応する大人たちがステキ - Togetter"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210825/k10013223231000.html",
+          "author": null,
+          "description": "国内最大級のロックの祭典「フジロックフェスティバル」 新型コロナの影響で、2年ぶりの開催となりました。 アーティストは、出演するか、取りやめるか。 観客も、現地に行くか、オンライン配信で見るか。 対応は分かれました。 新型コロナの感染が確認されてから1年半。 “分断”を生まないために、何が必要なのでしょう...",
+          "link": "https://www3.nhk.or.jp/news/html/20210825/k10013223231000.html",
+          "publishedOn": "2021-08-25T12:54:19.000Z",
+          "wordCount": 94,
+          "title": "News Up フジロックから考える コロナ禍の“分断” | 新型コロナウイルス | NHKニュース"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801",
+          "author": null,
+          "description": "ジャーナリストの江川紹子氏が２４日、ツイッターを更新。東京パラリンピック開会式の演出に「障害がある人の無限の可能性を表すのに、片翼の飛行機で喩える、という表現がまったく不適切だと思います」との考えをつぶやいた。 【写真】主人公の小さな飛行機を演じる１３歳の和合由依さん 東京パラリンピック開会式では...",
+          "link": "https://news.yahoo.co.jp/articles/79bae802f08ded59d6d8d546d670bda7634aa801",
+          "publishedOn": "2021-08-25T11:23:28.000Z",
+          "wordCount": 67,
+          "title": "江川紹子氏、パラ開会式での片翼飛行機表現「まったく不適切だと思います」（デイリースポーツ） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210825132748",
+          "author": null,
+          "description": "ワクチン摂取 永遠と あと1つ何？",
+          "link": "https://anond.hatelabo.jp/20210825132748",
+          "publishedOn": "2021-08-25T11:17:07.000Z",
+          "wordCount": 113,
+          "title": "3大イラッとする誤字"
+        },
+        {
+          "id": "https://togetter.com/li/1764894",
+          "author": null,
+          "description": "詩秘 恵瑠 / CPL @sh1p1_ele 20歳ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん天才かな？あれっ体がだるくて足に違和感があるぞ」 医者「何やってんのあんた！21世紀の日本でこんな病気なる人いないよ！！！！！」 2021-08-24 09:19:51",
+          "link": "https://togetter.com/li/1764894",
+          "publishedOn": "2021-08-25T11:14:13.000Z",
+          "wordCount": 1380,
+          "title": "ワイ「三食白米と梅干しだけ食べてれば食費浮くしカロリーも抑えられるじゃん」→医者「21世紀の日本でこんな病気なる人いないよ！！！！！」 - Togetter"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210825140256",
+          "author": null,
+          "description": "例えば、カレーはルーの箱の裏に書いてある通りに作れば、一応及第点のものが出来る。 その上で、具を小間切れ肉と玉ねぎだけにしてしまえば、包丁使うのは玉ねぎ切るだけで煮込みは省略という、まさに簡単で美味しいレシピとなる。 このうち、特に重要なのが包丁を使う手間で、キッチンシンクが低すぎる状態で料理する...",
+          "link": "https://anond.hatelabo.jp/20210825140256",
+          "publishedOn": "2021-08-25T11:11:12.000Z",
+          "wordCount": 92,
+          "title": "フレンチもイタリアンも敷居が高い"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210825132034",
+          "author": null,
+          "description": "バイトして車買った。軽自動車だけどカスタムされてあるし車屋さんも「これは軽に見えないよ」って言ってくれてうれしかった。 友達同士でオレの車に乗って海に行こうぜってなって表題の件。 6人全員乗れるかって話になって、カスタムされてあるから大丈夫って言ってるのにグループの中でうるさい女が軽自動車は4人しか...",
+          "link": "https://anond.hatelabo.jp/20210825132034",
+          "publishedOn": "2021-08-25T11:10:39.000Z",
+          "wordCount": 127,
+          "title": "女友達に660馬力の車乗ってるなんて男と思えないと言われた"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266",
+          "author": null,
+          "description": "テレワークを求める政治家に国会こそオンライン化するよう提言です。 政府新型コロナ分科会・尾身会長：「今こういう時期ですから、国会の議論もできる範囲でテレワーク、オンラインですね、それでやるとメッセージになる」 政府が経済界に対してテレワークなどで出勤者を7割削減するように求めているなか、政府の分科会...",
+          "link": "https://news.yahoo.co.jp/articles/2d4ffcff4db074462f2a8c86aef4687956b3b266",
+          "publishedOn": "2021-08-25T11:02:02.000Z",
+          "wordCount": 69,
+          "title": "「国会の議論もオンライン化を」尾身会長が提言（テレビ朝日系（ANN）） - Yahoo!ニュース"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html",
+          "author": null,
+          "description": "出演者が痛がる様子を笑いの対象にするようなバラエティー番組の演出について、BPO＝放送倫理・番組向上機構は、青少年に与える影響の重大性を考慮して審議することを決めました。 BPOによりますと出演者に痛がるような行為をしかけ、その様子をみんなで笑うようなバラエティー番組について、視聴者などから「不快に思う...",
+          "link": "https://www3.nhk.or.jp/news/html/20210825/k10013223161000.html",
+          "publishedOn": "2021-08-25T10:15:56.000Z",
+          "wordCount": 17,
+          "title": "“出演者が痛がる様子を笑いにする番組演出” BPOが審議へ | NHKニュース"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210825190424",
+          "author": null,
+          "description": "あぶない刑事の木の実ナナとか。 新鮮組！の堺雅人さんとか。",
+          "link": "https://anond.hatelabo.jp/20210825190424",
+          "publishedOn": "2021-08-25T10:04:34.000Z",
+          "wordCount": 126,
+          "title": "「登場が少ないけどぜったいに外せない脇役」っていうのある？"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20210825174800",
+          "author": null,
+          "description": "私は都内で働く内科医である。 ここ数か月ワクチン接種問診バイトというものが医師求人サイトに掲載されており、私も時間が空くと勤務している。 主な仕事は問診し接種可能か不可能かを判断し、可能な場合は接種後の待機時間を15分か30分か判断することである。 判断基準は厚生労働省が発布する手引き（https://www.mhlw...",
+          "link": "https://anond.hatelabo.jp/20210825174800",
+          "publishedOn": "2021-08-25T08:59:24.000Z",
+          "wordCount": 90,
+          "title": "調布のワクチン地域接種のローカルルールを告発したい"
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=HJKqSYK_z0w",
+          "author": null,
+          "description": "アイドルマスターシリーズ15周年のその先の未来へ向け、TVアニメ「アイドルマスター」チームが再集結。 錦織監督とCloverworksによる完全新作アニメーションコンセプトムービー。 本作はさらにスタジオカラーがビジュアル制作として制作に参加し、 15人のアイドルたちによるイメージソング『VOY@GER』が、コンセプトムー...",
+          "link": "https://www.youtube.com/watch?v=HJKqSYK_z0w",
+          "publishedOn": "2021-08-25T07:42:41.000Z",
+          "wordCount": null,
+          "title": "【アニメ】アイドルマスターシリーズ コンセプトムービー2021『VOY@GER』【アイドルマスター】"
+        },
+        {
+          "id": "https://bunshun.jp/articles/-/48139",
+          "author": null,
+          "description": "横浜市の副市長を務める平原敏英氏（62）が、カジノIR構想への参入を狙う業者から、2016年当時、度々高級料亭で接待を受けていたことが森功氏（ノンフィクション作家）の取材で分かった。森氏は業者側が後に参入計画を巡ってトラブルになり民事調停を行った際の資料を入手。そこには接待の詳細な記録や、費用を負担した...",
+          "link": "https://bunshun.jp/articles/-/48139",
+          "publishedOn": "2021-08-25T07:34:00.000Z",
+          "wordCount": 174,
+          "title": "菅首相“側近”　横浜市副市長がカジノIR業者から高級料亭で61万円接待 | 文春オンライン"
+        },
+        {
+          "id": "https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang",
+          "author": null,
+          "description": "Transcript オープン化が進むC++の 現状と展望 ⾼橋 晶 (Akira Takahashi) cpp_akira@Twitter faithandbrave@GitHub 2021/08/25 (⽔) OSS X Users Meeting #31 ⾃⼰紹介 • ⾼橋 晶 (Akira Takahashi) • C++⽇本語リファレンスサイトcpprefjp のコアメンバ • C++の勉強会C++ MIXの運営 • 著書 • 『C++テンプレートテクニ...",
+          "link": "https://speakerdeck.com/faithandbrave/opunhua-gajin-muc-plus-plus-falsexian-zhuang-tozhan-wang",
+          "publishedOn": "2021-08-25T07:33:13.000Z",
+          "wordCount": 564,
+          "title": "オープン化が進むC++の現状と展望 - Speaker Deck"
+        },
+        {
+          "id": "https://amass.jp/150220/",
+          "author": null,
+          "description": "ニルヴァーナ（Nirvana）のメンバーと、カート・コバーン（Kurt Cobain）の遺産を管理するエステートは、アルバム『Nevermind』のジャケット・カヴァーに赤ん坊として登場したスペンサー・エルデンから訴えられたと報じられています。エルデンは、バンドが連邦児童ポルノ法に違反し、児童の性的搾取を行ったと主張してい...",
+          "link": "https://amass.jp/150220/",
+          "publishedOn": "2021-08-25T05:16:10.000Z",
+          "wordCount": 47,
+          "title": "『Nevermind』のカヴァー・ベイビー、ニルヴァーナを児童ポルノで提訴 - amass"
+        },
+        {
+          "id": "https://www.nhk.or.jp/politics/articles/feature/66133.html",
+          "author": null,
+          "description": "夜中も響く電子音、指先には24時間酸素飽和度を測る機器がついている。 53歳。NHKで選挙報道の仕事をしている私は、新型コロナウイルス感染症により7月下旬から1か月間都内の病院に入院した。肺炎で一時重症にもなり、6日間人工呼吸器につながり眠り続けた。 いま、自宅療養者が十分な医療を受けられないことが問題とな...",
+          "link": "https://www.nhk.or.jp/politics/articles/feature/66133.html",
+          "publishedOn": "2021-08-25T03:55:51.000Z",
+          "wordCount": 149,
+          "title": "コロナ感染 人工呼吸器６日間眠り続け生還の記録 | NHK政治マガジン"
+        },
+        {
+          "id": "https://togetter.com/li/1764795",
+          "author": null,
+          "description": "iek @iekiek1984 パラリンピック開会式の流れ 片翼の飛行機「わたしは飛べないの(´・ω・`)」 仲間たち「わたしは目が見えないけど飛べたよ！」「ワイは小さいけど飛べたで！」 片翼の飛行機「でもなぁ…(´・ω・`)」 デコトラに乗ったHOTEI「俺のギターを聴け！」ｷﾞｭﾜｰﾝ 片翼の飛行機「よし、飛ぶ！！(`・ω・´)」 2021-08-...",
+          "link": "https://togetter.com/li/1764795",
+          "publishedOn": "2021-08-25T03:32:48.000Z",
+          "wordCount": 1077,
+          "title": "若冲のデコトラに乗った布袋がキルビルを弾く「パラリンピック開会式」がまさに求めていたものすぎた - Togetter"
+        },
+        {
+          "id": "https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545",
+          "author": null,
+          "description": "人長さんのこれまでの記事を総ざらい 「四川料理のスゴい人」こと、日本橋の四川料理店リバヨンアタック料理長・人長良次さん。 人長さんのレシピを集めた書籍も絶賛発売中です。 ▼人長さん初の著書『四川料理のスゴい人 自宅でつくる本格中華レシピ』（三才ブックス） www.sansaibooks.co.jp これまで『メシ通』でもさ...",
+          "link": "https://www.hotpepper.jp/mesitsu/entry/noriki-washiya/2021-00545",
+          "publishedOn": "2021-08-25T01:33:58.000Z",
+          "wordCount": 269,
+          "title": "「四川料理のスゴい人」これまでの全レシピ14品目の振り返り＆総まとめ - メシ通 | ホットペッパーグルメ"
+        },
+        {
+          "id": "https://qiita.com/k__watanabe/items/0dc5b31ea960db118926",
+          "author": null,
+          "description": "Help us understand the problem. What is going on with this article?",
+          "link": "https://qiita.com/k__watanabe/items/0dc5b31ea960db118926",
+          "publishedOn": "2021-08-25T00:15:52.000Z",
+          "wordCount": 591,
+          "title": "フロントエンドの慣習のまとめ - Qiita"
+        },
+        {
           "id": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/1345999.html",
           "author": null,
           "description": "“やじうまの杜”では、ニュース・レビューにこだわらない幅広い話題をお伝えします。",
@@ -7627,249 +7897,6 @@
           "publishedOn": "2021-07-27T13:30:13.000Z",
           "wordCount": 39,
           "title": "都局長「不安あおらないで」　コロナ過去最高、小池氏対応せず ｜ 共同通信"
-        },
-        {
-          "id": "http://blog.livedoor.jp/dqnplus/archives/2009479.html",
-          "author": null,
-          "description": "厚労省「こうなる事を想定し国民にお願いしていたが､国民は政府を信頼してないのでどんなメッセージ出しても共感してもらえない」 1 名前：potato ★：2021/07/27(火) 19:20:58.62 ID:ntrLaIwz9 厚労省 幹部「感染者の増加 想定より早い」 厚生労働省の幹部の1人は「インドで確認された変異ウイルスの『デルタ株』の感染...",
-          "link": "http://blog.livedoor.jp/dqnplus/archives/2009479.html",
-          "publishedOn": "2021-07-27T12:18:41.000Z",
-          "wordCount": 13717,
-          "title": "痛いニュース(ﾉ∀`) : 厚労省「こうなる事を想定し国民にお願いしていたが､国民は政府を信頼してないのでどんなメッセージ出しても共感してもらえない」 - ライブドアブログ"
-        },
-        {
-          "id": "https://www.sankei.com/article/20210727-5S6SMX2JLZN7JLSNLQRHIRO4OA/",
-          "author": null,
-          "description": "本多平直衆院議員立憲民主党のワーキングチーム（ＷＴ）の議論で性交同意年齢に関し「５０代が１４歳と恋愛し同意があった場合に罰せられるのはおかしい」などと発言した同党の本多平直衆院議員＝比例北海道＝が２７日、離党届を提出し、党は受理した。本多氏はその後の記者会見で議員辞職する意向を表明した。立民執行...",
-          "link": "https://www.sankei.com/article/20210727-5S6SMX2JLZN7JLSNLQRHIRO4OA/",
-          "publishedOn": "2021-07-27T12:08:29.000Z",
-          "wordCount": 43,
-          "title": "立民、統治能力欠如が浮き彫り　本多氏議員辞職へ - 産経ニュース"
-        },
-        {
-          "id": "https://www.tokyo-np.co.jp/article/119781",
-          "author": null,
-          "description": "大会組織委員会はこの日、選手・関係者から新たに７人の検査陽性者が出たと発表。うち選手２人を含めた５人が海外在住者だった。７月１日からの累計は１６０人に達し、そのうち海外在住者が７９人で、ほぼ半数となっている。 会見では「東京五輪を開催するタイミングは適切だったか」という質問も飛んだ。アダムス氏は選...",
-          "link": "https://www.tokyo-np.co.jp/article/119781",
-          "publishedOn": "2021-07-27T11:53:31.000Z",
-          "wordCount": 304,
-          "title": "ＩＯＣ　東京のコロナ感染者急増「コメントするのは私ではない」：東京新聞 TOKYO Web"
-        },
-        {
-          "id": "https://nordot.app/792719111059390464",
-          "author": null,
-          "description": "総務省消防庁は27日、患者の搬送先がすぐに決まらない「救急搬送困難事案」が、19～25日の1週間に全国52の消防で2202件あったと発表した。前週より43％多く、3週連続の増加。このうち37度以上の発熱や呼吸困難などの症状があり、新型コロナウイルス感染が疑われる事案は698件で、前週の1.6倍と大幅に増えた。 東京、大阪...",
-          "link": "https://nordot.app/792719111059390464",
-          "publishedOn": "2021-07-27T11:46:08.000Z",
-          "wordCount": 38,
-          "title": "「救急搬送困難事案」が大幅増　コロナ疑いは1.6倍 ｜ 共同通信"
-        },
-        {
-          "id": "https://www.gamespark.jp/article/2021/07/27/110661.html",
-          "author": null,
-          "description": "日頃よりGame*Sparkをご愛読いただきありがとうございます。",
-          "link": "https://www.gamespark.jp/article/2021/07/27/110661.html",
-          "publishedOn": "2021-07-27T11:35:45.000Z",
-          "wordCount": 180,
-          "title": "7月25日掲載のオリンピックに関するコラムにつきまして | Game*Spark - 国内・海外ゲーム情報サイト"
-        },
-        {
-          "id": "https://www.tokyo-np.co.jp/article/119772",
-          "author": null,
-          "description": "石川県加賀市での大田楽と狂言の公演で、歌と共にパーカッションの演奏を披露したラティールさん＝２０１６年７月（本人提供） 東京五輪の開会式に出演が決まっていた西アフリカ・セネガル出身の打楽器奏者ラティール・シーさん（４８）が今年５月、式典の企画・運営を担った広告代理店から出演を断られていたことが分か...",
-          "link": "https://www.tokyo-np.co.jp/article/119772",
-          "publishedOn": "2021-07-27T11:32:46.000Z",
-          "wordCount": 311,
-          "title": "五輪開会式出演依頼をキャンセル…セネガル人音楽家「差別されるとは」　組織委側に抗議：東京新聞 TOKYO Web"
-        },
-        {
-          "id": "https://bunshun.jp/articles/-/47404",
-          "author": null,
-          "description": "中央区晴海にある東京五輪・パラリンピック選手村付近。 出会い系アプリ「Tinder」を起動すると引き締まった肉体でポーズをとり、これみよがしに自信に満ちた肉体美を魅せる選手たちが男女どちらも確認できる。プロフィールの背景には五輪のエンブレム、自国の国旗や競技名が書かれ《Here for the olympics!》、《Olympi...",
-          "link": "https://bunshun.jp/articles/-/47404",
-          "publishedOn": "2021-07-27T11:16:14.000Z",
-          "wordCount": 189,
-          "title": "「どうしても日本人としたいんだ！」“外出禁止”の五輪選手村で “出会い系アプリ”が大流行のリアル | 文春オンライン"
-        },
-        {
-          "id": "https://note.com/helixmakimaki/n/n7e417f067125",
-          "author": null,
-          "description": "いつのことだか思い出してごらん。あんなこと、こんなこと、あったでしょう？ 「『三連休を挟めば忘れる』だなんて、国民を馬鹿にしないでください。」 この言葉が誰の言葉か覚えている人はいるだろうか。 2015年9月15日 Students Emergency Action for Liberal Democracy - s 自由と民主主義のための学生緊急行動 「SEA...",
-          "link": "https://note.com/helixmakimaki/n/n7e417f067125",
-          "publishedOn": "2021-07-27T10:41:55.000Z",
-          "wordCount": 77,
-          "title": "拝啓、立憲民主党様。「国民舐めんな」の言葉と真心を今君たちに。｜helixmakimaki｜note"
-        },
-        {
-          "id": "https://note.com/noyamaayon/n/n98c35152ebb3",
-          "author": null,
-          "description": "ショーディレクター解任報道により、急きょ発売中止となった、幻の「開会式プログラム」。その中の、演出・小林賢太郎氏のインタビューを読んだ私は、この記事を書かねばならないと思った。インタビュー内容は後述するが、とにかく、私が知りうる限りの事実を、正確に、わかりやすく、順を追って、ここに記そうと思う。...",
-          "link": "https://note.com/noyamaayon/n/n98c35152ebb3",
-          "publishedOn": "2021-07-27T09:52:24.000Z",
-          "wordCount": 170,
-          "title": "発売中止となった開会式公式プログラムが拡散？東京オリンピック《演出・小林賢太郎》の真相～沸いたピクトグラム～｜のやまやの｜note"
-        },
-        {
-          "id": "https://www.tokyo-np.co.jp/article/119736",
-          "author": null,
-          "description": "菅義偉首相は２７日夕、東京都の新型コロナウイルス感染者が過去最多の２８４８人となったことに絡み、東京五輪をこのまま続けるかについて「人流は減っている。そこ（中止）はありません」と述べた。記者団から「感染は拡大している。中止の選択肢はないのか」と質問されたのに答えた。",
-          "link": "https://www.tokyo-np.co.jp/article/119736",
-          "publishedOn": "2021-07-27T09:32:45.000Z",
-          "wordCount": 312,
-          "title": "菅首相　五輪「中止の選択肢ない」　東京のコロナ感染、最多の2848人も：東京新聞 TOKYO Web"
-        },
-        {
-          "id": "https://note.com/yukinbo78/n/n60ac0f23dd2d",
-          "author": null,
-          "description": "昨今、ネットでの誹謗中傷や嫌がらせによるトラブルが頻繁に発生しています。 今回、しがない一絵描きである私自身がPixivメッセージにて 『あからさまではないが、確実にクリエイターを攻撃してくる』 事案に遭遇しましたので、 今後、もしくは今までに同様のことに遭遇した方向けの注意喚起として、その紹介と『やりと...",
-          "link": "https://note.com/yukinbo78/n/n60ac0f23dd2d",
-          "publishedOn": "2021-07-27T08:07:44.000Z",
-          "wordCount": 53,
-          "title": "Pixivメッセージで受けた巧妙な嫌がらせについて｜幸坊｜note"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210727/k10013162881000.html",
-          "author": null,
-          "description": "東京都は27日、都内で新たに2848人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の火曜日より1461人増え過去最多となりました。1日に2000人を超えるのは第3波のことし1月15日以来で、感染の急拡大に歯止めがかかりません。 一方、都の基準で集計した27日時点の重症の患者は26日より4人増え...",
-          "link": "https://www3.nhk.or.jp/news/html/20210727/k10013162881000.html",
-          "publishedOn": "2021-07-27T07:15:28.000Z",
-          "wordCount": 56,
-          "title": "東京都 新型コロナ 2848人の感染確認 過去最多 | 新型コロナ 国内感染者数 | NHKニュース"
-        },
-        {
-          "id": "https://pc.watch.impress.co.jp/docs/news/1340386.html",
-          "author": null,
-          "description": "日本アイ・ビー・エム株式会社(IBM)は7月27日、日本初となるゲート型商用量子コンピューティング・システム「IBM Quantum System One」を神奈川県川崎市に設置・稼働開始したと発表し、記念セレモニーを行なった。設置場所は「新川崎・創造のもり」地区に位置する産学交流インキュベーション施設「かわさき新産業創造センター(KBIC)」。",
-          "link": "https://pc.watch.impress.co.jp/docs/news/1340386.html",
-          "publishedOn": "2021-07-27T07:05:48.000Z",
-          "wordCount": 237,
-          "title": "日本初のIBM製「ゲート型商用量子コンピュータ」が新川崎で稼働。アメリカ、ドイツに次いで世界で3番目 - PC Watch"
-        },
-        {
-          "id": "https://www.itmedia.co.jp/news/articles/2107/27/news115.html",
-          "author": null,
-          "description": "サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の基礎知識などが学べるといい、「初心者（エンジニア）の指針になる」などの声が出ている。 サイボウズが公式ブログで無償公開している、新人ITエンジニア向けの研修資料がTwitterで話題だ。Webアプリ開発の...",
-          "link": "https://www.itmedia.co.jp/news/articles/2107/27/news115.html",
-          "publishedOn": "2021-07-27T07:04:22.000Z",
-          "wordCount": 157,
-          "title": "サイボウズの“駆け出しエンジニア”向け研修資料が話題　Webアプリ開発やIT文化の基礎を無償公開 - ITmedia NEWS"
-        },
-        {
-          "id": "https://togetter.com/li/1750665",
-          "author": null,
-          "description": "ヲノサトル @wonosatoru 作曲家/音楽家/多摩美術大学教授/明和電機「経理のヲノさん」/ブラックベルベッツ鍵盤奏者など。ご連絡はこちらからどうぞ wonosatoru.com/mail wonosatoru.com ヲノサトル @wonosatoru あれほど連れて行った公園も水族館も遊園地も息子氏は全くおぼえていない。子供のためだから仕方ないやと出...",
-          "link": "https://togetter.com/li/1750665",
-          "publishedOn": "2021-07-27T07:03:16.000Z",
-          "wordCount": 1032,
-          "title": "連れていった公園も水族館も遊園地も、今や子どもは覚えていない「夏休みの日々は親の記憶のためにあった」という話 - Togetter"
-        },
-        {
-          "id": "https://r.gnavi.co.jp/g-interview/entry/narumi/5203",
-          "author": null,
-          "description": "この1年ほどめちゃくちゃハマっているカレーのお店が池袋にあります。 正確にはカレー屋ではなく、スリランカ料理店。看板料理はたくさんの具をバナナの皮で包んだ「バナナリーフカレー」です。 そしてスリランカ料理なのに店名は「フロリダ亭」。 はい、なんだか混乱してきますね。 でもここはとにかく最高なんです。お...",
-          "link": "https://r.gnavi.co.jp/g-interview/entry/narumi/5203",
-          "publishedOn": "2021-07-27T03:39:48.000Z",
-          "wordCount": 262,
-          "title": "池袋のスリランカ料理店、その名も「フロリダ亭」――。最高にうまいバナナリーフカレーをお安く食べるならここ！ - ぐるなび みんなのごはん"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210727115101",
-          "author": null,
-          "description": "7/25(日) 13:00から行われた東京オリンピック 女子ロードレースで奇跡が起こりましたので普段、自転車ロードレースに関心の無い方でも分かるよう解説してみました。 何が起こったのかオーストリアから単独で参加していたプロではない博士号持ちの数学研究者アンナ・キーセンホーファー選手がスタート直後から飛び出し、...",
-          "link": "https://anond.hatelabo.jp/20210727115101",
-          "publishedOn": "2021-07-27T02:55:27.000Z",
-          "wordCount": 175,
-          "title": "オリンピック女子ロードレースの奇跡を素人にも分かるよう解説する"
-        },
-        {
-          "id": "https://note.com/seikei_kin/n/nd26d58dec7ac",
-          "author": null,
-          "description": "久しぶりのnote投稿です。今回は自分の勉強がてら、UX・情報設計・アジャイル開発など、デザインに関わる様々な局面で知っておくと役立つフレームワークを集めてみました。 有名なものからデザイン以外にも使えそうなものまで幅広く選んでいますので、気になるものがあれば改めて実作業に生かすなり、掘り下げて研究する...",
-          "link": "https://note.com/seikei_kin/n/nd26d58dec7ac",
-          "publishedOn": "2021-07-27T02:01:22.000Z",
-          "wordCount": 144,
-          "title": "デザインに活かせるフレームワーク20｜金 成奎｜note"
-        },
-        {
-          "id": "https://fooddiversity.today/article_95626.html",
-          "author": null,
-          "description": "東京オリンピック・パラリンピック競技大会組織委員会にご回答頂きました 2021年7月24日に共同通信社から『東京五輪を取材する国内外のメディアの拠点、メインプレスセンター（MPC）に、イスラム教の礼拝室や戒律に従った「ハラル」料理が準備されておらず、ムスリム（イスラム教徒）から不評を買っている。』というニュ...",
-          "link": "https://fooddiversity.today/article_95626.html",
-          "publishedOn": "2021-07-26T20:39:47.000Z",
-          "wordCount": 679,
-          "title": "「MPCに礼拝室とハラールフードがない？」について、東京オリンピック・パラリンピック競技大会組織委員会へ事実確認を行いました | Food Diversity.today"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210727/k10013161951000.html",
-          "author": null,
-          "description": "ことし9月にイタリアで開幕する世界3大映画祭の1つ「ベネチア国際映画祭」で革新的な作品を集めた「オリゾンティ部門」に湯浅政明監督のアニメ映画「犬王」がノミネートされました。 ベネチア国際映画祭はカンヌ、ベルリンと並ぶ世界3大映画祭の1つで、日本時間の26日夜、主要な部門のノミネート作品が発表されました。 ...",
-          "link": "https://www3.nhk.or.jp/news/html/20210727/k10013161951000.html",
-          "publishedOn": "2021-07-26T20:25:04.000Z",
-          "wordCount": 19,
-          "title": "「ベネチア国際映画祭」湯浅政明監督の「犬王」ノミネート | エンタメ | NHKニュース"
-        },
-        {
-          "id": "https://www.afpbb.com/articles/-/3351556",
-          "author": null,
-          "description": "アウン・サン・スー・チー氏。米ニューヨークのコロンビア大学で（2012年9月22日撮影、資料写真）。(c)Stan HONDA / AFP 【7月27日 AFP】ミャンマーの軍事政権は26日、同国で昨年実施された総選挙は「自由かつ公正」ではなかったとして、選挙結果を無効とした。同選挙では、今年2月のクーデターで拘束されたアウン・サン...",
-          "link": "https://www.afpbb.com/articles/-/3351556",
-          "publishedOn": "2021-07-26T17:44:18.000Z",
-          "wordCount": 146,
-          "title": "ミャンマー軍事政権、総選挙の結果無効に スー・チー氏政党圧勝　写真1枚　国際ニュース：AFPBB News"
-        },
-        {
-          "id": "https://anond.hatelabo.jp/20210727011453",
-          "author": null,
-          "description": "十ーーーーーー分エロいですからーーーーーーーーーーーー！！！！！！！！！！！残念！！！！！！！！！！！！！！！！！ ていうかユニフォームにしたって学校指定水着にしたって丈が長いから全身覆ってるから性的に見られなくなると思ってるの、女ってそこまで単純な生き物なの？ 逆にこっちがナメられてるようで腹立...",
-          "link": "https://anond.hatelabo.jp/20210727011453",
-          "publishedOn": "2021-07-26T16:17:22.000Z",
-          "wordCount": 176,
-          "title": "女「露出の無い衣装だから性的に見られなくて安心〜〜〜」"
-        },
-        {
-          "id": "https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html",
-          "author": null,
-          "description": "Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 大手CDNベンダのFastlyは、CDNエッジで提供しているサーバレスコンピューティング環境「Compute@Edge」で、JavaScriptのサポートを発表しました。 JavaScript on Compute@Edge is here. https://t...",
-          "link": "https://www.publickey1.jp/blog/21/fastlyjavascriptwebassemblycdncomputeedge.html",
-          "publishedOn": "2021-07-26T15:29:37.000Z",
-          "wordCount": 150,
-          "title": "Fastly、JavaScriptをWebAssemblyへコンパイルし、CDNエッジで瞬時に起動。サーバレス環境「Compute@Edge」の新機能を発表 － Publickey"
-        },
-        {
-          "id": "https://shonenjumpplus.com/episode/3269754496410783844",
-          "author": null,
-          "description": "JASRAC許諾第9009285055Y45038号 JASRAC許諾第9009285050Y45038号 JASRAC許諾第9009285049Y43128号 許諾番号 ID000002929 ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号 第6091713号)です。",
-          "link": "https://shonenjumpplus.com/episode/3269754496410783844",
-          "publishedOn": "2021-07-26T15:05:08.000Z",
-          "wordCount": 115,
-          "title": "[第17話]ダンダダン - 龍幸伸 | 少年ジャンプ＋"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d96aa0453b6aca827fe4dcff3123edee8e999868",
-          "author": null,
-          "description": "◇東京五輪　卓球混合ダブルス決勝（2021年7月26日　東京体育館） 混合ダブルス決勝、日本の水谷隼・伊藤美誠組―中国の許キン・劉詩ブン組の対決に、“謎の中国応援団”が現れた。中国の大きな国旗を持った20人ほどの集団が観客席の一角を陣取った。試合前から声援を送り、得点が入るたびに大歓声が上がった。無観客で実施...",
-          "link": "https://news.yahoo.co.jp/articles/d96aa0453b6aca827fe4dcff3123edee8e999868",
-          "publishedOn": "2021-07-26T13:39:03.000Z",
-          "wordCount": 78,
-          "title": "無観客なのに…卓球の混合ダブルス決勝に“謎の中国応援団”（スポニチアネックス） - Yahoo!ニュース"
-        },
-        {
-          "id": "https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html",
-          "author": null,
-          "description": "東京オリンピック、卓球の新種目、混合ダブルスの決勝で日本の水谷隼選手と伊藤美誠選手のペアが中国のペアにゲームカウント4対3で勝って金メダルを獲得しました。日本が卓球で金メダルを獲得したのは初めてです。 水谷選手と伊藤選手のペアが26日夜、東京体育館で行われた決勝で対戦したのは、おととしの世界選手権で金...",
-          "link": "https://www3.nhk.or.jp/news/html/20210726/k10013162001000.html",
-          "publishedOn": "2021-07-26T13:28:21.000Z",
-          "wordCount": 26,
-          "title": "オリンピック 水谷・伊藤ぺア 卓球で初の金メダル | 卓球 | NHKニュース"
-        },
-        {
-          "id": "https://www.sankei.com/article/20210726-H4D6LLVF75L4XDYA5RHUJTHLMY/",
-          "author": null,
-          "description": "【東京五輪２０２０　トライアスロン個人男子】トライアスロン個人男子でバイクに臨む選手＝２６日午前、東京・お台場（佐藤徳昭撮影）東京五輪のトライアスロン男子個人が２６日、お台場海浜公園（東京都港区）で行われた。スイム（水泳）１・５キロ、バイク（自転車）４０キロ、ラン（走り）１０キロを立て続けに行い...",
-          "link": "https://www.sankei.com/article/20210726-H4D6LLVF75L4XDYA5RHUJTHLMY/",
-          "publishedOn": "2021-07-26T12:40:47.000Z",
-          "wordCount": 80,
-          "title": "トライアスロン後に嘔吐　暑さや水質…心配の声 - 産経ニュース"
         }
       ]
     }
