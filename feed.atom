@@ -2,10 +2,299 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sato-c.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-09-02T00:40:07.152Z</updated>
+    <updated>2021-09-03T00:40:21.667Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://sato-c.github.io/feed/index.html"/>
     <link rel="self" href="https://sato-c.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[次世代の監視技術 - Telemetry技術のご紹介 - NTT Communications Engineers' Blog]]></title>
+        <id>https://engineers.ntt.com/entry/2021/09/02/162022</id>
+        <link href="https://engineers.ntt.com/entry/2021/09/02/162022"/>
+        <updated>2021-09-02T23:11:50.000Z</updated>
+        <summary type="html"><![CDATA[こんにちは、イノベーションセンターの三島です。 本記事では、次世代の監視技術として期待されるTelemetry技術についてご紹介します。 この記事について 本記事では下記の3点を共有します。 従来の監視技術が抱える課題とTelemetryの可能性 Telemetryの技術概要と、各社の実装状況 NTT Comのネットワーク上で検証し得ら...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ABBAが40年ぶりに新曲公開 世界的ポップグループが活動再開 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210903/k10013240101000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210903/k10013240101000.html"/>
+        <updated>2021-09-02T21:59:58.000Z</updated>
+        <summary type="html"><![CDATA[「ダンシング・クイーン」などのヒット曲で知られる世界的ポップグループのABBAが、2日、40年ぶりとなる新曲を公開し、活動を再開させると発表しました。 スウェーデンの男女4人組グループ、ABBAは、1970年代から80年代にかけて「ダンシング・クイーン」や「マンマ・ミーア」「チキチータ」など、数々のヒット曲を生み出...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワクチン2回接種後の制限緩和、専門家間で賛否　分科会の提言案判明 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210903/k00/00m/010/009000c</id>
+        <link href="https://mainichi.jp/articles/20210903/k00/00m/010/009000c"/>
+        <updated>2021-09-02T21:00:18.000Z</updated>
+        <summary type="html"><![CDATA[政府の有識者会議「新型コロナウイルス感染症対策分科会」（尾身茂会長）が検討してきた、新型コロナのワクチンを2回接種した人の移動や行動に関する制限緩和の提言案が判明した。接種歴もしくは陰性の検査結果を提示すれば、「人に感染させるリスクが低い」として大規模イベントや会食への参加を容認する内容が含まれる...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[アフガン女性らが異例のデモ タリバンに権利尊重求め　写真7枚　国際ニュース：AFPBB News]]></title>
+        <id>https://www.afpbb.com/articles/-/3364589</id>
+        <link href="https://www.afpbb.com/articles/-/3364589"/>
+        <updated>2021-09-02T20:51:32.000Z</updated>
+        <summary type="html"><![CDATA[アフガニスタン・ヘラートで女性たちが行った、女子教育や女性の就労を求めるデモ（2021年9月2日撮影）。(c)AFP 【9月3日 AFP】アフガニスタン西部ヘラート（Herat）で2日、女性たちが異例の街頭デモを行い、イスラム主義組織タリバン（Taliban）の支配下でも娘たちが学校に通えるならば、全身を覆う衣服「ブルカ」の着...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【追記】商用画像を無断転載の嵐、「デジタル庁」事務方トップの石倉洋子さん公式サイトがとんでもないことに | Buzzap！]]></title>
+        <id>https://buzzap.jp/news/20210903-digital-yokoishikura-official-hp-photo-unauthorized-reproduction/</id>
+        <link href="https://buzzap.jp/news/20210903-digital-yokoishikura-official-hp-photo-unauthorized-reproduction/"/>
+        <updated>2021-09-02T17:37:37.000Z</updated>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI「人間は愚かだ。だから適性にあった職をこちらで用意し栄養のある食事を与え管理されている方が幸せなのだ」主人公「それは違う！」大衆「え？いや…？」 - Togetter]]></title>
+        <id>https://togetter.com/li/1768559</id>
+        <link href="https://togetter.com/li/1768559"/>
+        <updated>2021-09-02T16:38:53.000Z</updated>
+        <summary type="html"><![CDATA[かなかわ @kanakawa12 管理者AI「人間は愚かだ。その上弱い。だからそれぞれの適性にあった職をこちらで用意し、栄養素を管理した食事を与え、病気もさせずに管理されている方が幸せなのだ」 主人公「それは違う！人間はどんな困難も乗り越えるべきなんだ！管理される幸せなど偽りだ！」 大衆「えっ？いや……？」 2021-09...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[総裁選で菅首相の応援しない　おひざ元、自民神奈川県連幹事長が発言：朝日新聞デジタル]]></title>
+        <id>https://www.asahi.com/articles/ASP927TZVP92UTIL04K.html</id>
+        <link href="https://www.asahi.com/articles/ASP927TZVP92UTIL04K.html"/>
+        <updated>2021-09-02T15:06:52.000Z</updated>
+        <summary type="html"><![CDATA[自民党神奈川県連の土井隆典幹事長は2日、総裁選に向けた会合後、記者団の取材に応じ、衆院神奈川2区選出の菅義偉首相について、「何とか支えたい気持ちもあるが、目の前の衆院選を勝つにはどうするか考えないといけない。総裁選が行われる中で党員の声をしっかりと受け止めたい。県連としては特に、菅さんを頼むという...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ワクチン接種が進むとどうなるのか　政府の「制限緩和案」が判明 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210902/k00/00m/010/342000c</id>
+        <link href="https://mainichi.jp/articles/20210902/k00/00m/010/342000c"/>
+        <updated>2021-09-02T14:44:31.000Z</updated>
+        <summary type="html"><![CDATA[新型コロナウイルス感染症の流行地域での人の移動や行動の制限緩和をまとめた政府の行程表（ロードマップ）の原案が判明した。10～11月にワクチン接種が進んだ段階で、緊急事態宣言の発令地域でも感染対策を施した飲食店では酒の提供を認めるほか、接種済みの人の県境をまたぐ移動も容認。来週の公表を目指すが、性急な...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[差別的投稿の経緯・問題点・今後の方針 - 尾瀬ガイド協会]]></title>
+        <id>https://oze.guide/free/houshin</id>
+        <link href="https://oze.guide/free/houshin"/>
+        <updated>2021-09-02T14:21:55.000Z</updated>
+        <summary type="html"><![CDATA[令和３年９月２日 当協会公式アカウントによるTwitterにおける多数の差別的投稿に関して 尾瀬ガイド協会 会長　石塚　照久 このたびは、尾瀬ガイド協会（以下「当協会」といいます。）の公式Twitterアカウント（「［公式］尾瀬ガイド協会」@ozekouhou。以下「本件アカウント」といいます。）が複数の差別的な投稿を行っ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全スタートアップ は、いますぐ社員研修にバトルグラウンド を導入すべきだ｜深津 貴之 (fladdict)｜note]]></title>
+        <id>https://note.com/fladdict/n/n9317a26ce225</id>
+        <link href="https://note.com/fladdict/n/n9317a26ce225"/>
+        <updated>2021-09-02T14:20:46.000Z</updated>
+        <summary type="html"><![CDATA[全スタートアップは、いますぐ社員研修にバトルグラウンド を導入すべきである。大事なことなので二回言ってみた。 この基本無料ゲームバトルグラウンド には、スタートアップ社員が学ぶべき全てが詰まっている。 ゲームをプレイするだけで様々なことが学べる。レバレッジ、メタゲーム、メガトレンド、シナジー、スケー...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「この女の子からお前の声がするんじゃが」VTuberをしている作家さんの元に、親族から地獄絵図な写真が送られてくる事態に… - Togetter]]></title>
+        <id>https://togetter.com/li/1768534</id>
+        <link href="https://togetter.com/li/1768534"/>
+        <updated>2021-09-02T13:58:47.000Z</updated>
+        <summary type="html"><![CDATA[新田祐助@もしローコミカライズ2巻発売中 @singekijyosei 兼業作家です。「もしロールプレイングゲームの世界にSNSがあったら」（電撃だいおうじコミカライズ：原作）小説：amzn.to/2VjbxfL コミック：cutt.ly/leXDfj9 他「聖刻 -BEYOND-」「鎮守府空母のLINE事情」など。Vtuber助子は落ち着いたら再開します。 singekij...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[パラリンピックの「クラス分け」に批判 不公平で不正の温床とも　写真4枚　国際ニュース：AFPBB News]]></title>
+        <id>https://www.afpbb.com/articles/-/3364459</id>
+        <link href="https://www.afpbb.com/articles/-/3364459"/>
+        <updated>2021-09-02T13:08:57.000Z</updated>
+        <summary type="html"><![CDATA[東京アクアティクスセンターで練習する米国のジェシカ・ロング（2021年8月23日撮影）。(c)Charly TRIBALLEAU / AFP 【9月2日 AFP】パラリンピックなどの障害者スポーツでは、障害の種類や程度に応じて選手を分類し、公平な競争を実現する「クラス分け」が大きな役割を果たすが、このところ批判の声が高まっている。 子ど...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国、タレント発掘番組を禁止 「男らしさ」奨励を放送局に命令　写真3枚　国際ニュース：AFPBB News]]></title>
+        <id>https://www.afpbb.com/articles/-/3364529</id>
+        <link href="https://www.afpbb.com/articles/-/3364529"/>
+        <updated>2021-09-02T12:32:05.000Z</updated>
+        <summary type="html"><![CDATA[中国・北京のショッピングモールにあるアイドル関連グッズ専門店（2021年9月21日撮影）。(c)JADE GAO / AFP 【9月2日 AFP】中国当局は2日、タレント発掘型リアリティー番組の放送を禁じ、男性をもっと男性的に見せる番組を制作するよう放送局に命じた。中国政府は、「不道徳な」ポップカルチャーが若者を堕落させている...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「私はデジタルの専門家でもエンジニアでもない」――石倉洋子デジタル監の発言が話題に　質疑での発言全文 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2109/02/news166.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2109/02/news166.html"/>
+        <updated>2021-09-02T12:24:22.000Z</updated>
+        <summary type="html"><![CDATA[デジタル庁の事務方トップ「デジタル監」に就任した石倉洋子氏の発足式での発言が物議を呼んでいる。石倉デジタル監は報道陣との質疑応答で何を言っていたのか。一問一答形式でまとめた。石倉デジタル監はPythonに挑戦した経験もあるという。 菅政権の肝いり政策として、9月1日に発足したデジタル庁。その事務方トップ「...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[憲法に詳しい俺がお前らバカに教えてやる]]></title>
+        <id>https://anond.hatelabo.jp/20210902174107</id>
+        <link href="https://anond.hatelabo.jp/20210902174107"/>
+        <updated>2021-09-02T12:08:07.000Z</updated>
+        <summary type="html"><![CDATA[何故か私人間のトラブルに憲法上の権利を持ち出すアホが沢山いるけど、そもそも憲法が想定しているのは国家対個人の関係であって、個人対個人はメインでは無いんですよね(例外について下記で詳述する。)。 憲法は国家の権力を抑制するための物なんですよ。 だから表現の自由を持ち出すとすれば、国や地方自治体が個人の...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JestでTypeScriptを高速化する | miyauci.me]]></title>
+        <id>https://miyauchi.dev/ja/posts/speeding-up-jest/</id>
+        <link href="https://miyauchi.dev/ja/posts/speeding-up-jest/"/>
+        <updated>2021-09-02T11:58:21.000Z</updated>
+        <summary type="html"><![CDATA[JestでTypeScriptを高速化するJestでテストの高速化させる方法を紹介します。トランスフォーマーとしてesbuildやswcを紹介し、TypeScriptで遅くなりがちなトランスパイルを高速化させることで、テストを自体を高速化します。 はじめにesbuild の登場により、フロントエンドの世界は、開発環境により速度を求めるようにな...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ゆとり世代は「コスパ」、Z世代は「タムパ」若者の「価値観」は進化する！ | bizble（ビズブル）]]></title>
+        <id>https://bizble.asahi.com/articles/2021083100028.html</id>
+        <link href="https://bizble.asahi.com/articles/2021083100028.html"/>
+        <updated>2021-09-02T11:46:25.000Z</updated>
+        <summary type="html"><![CDATA[若い世代の「価値観」は新たな環境の変化でどんどん進化を繰り返すといわれます。「おひとりさま」や「草食系男子」「年の差婚」などの言葉を世に広めたマーケティングライターの牛窪恵さんが、「さとり世代」や「Z世代」の考え方、ものの見方について読み解きます。 みなさん、こんにちは。 マーケティングライターで、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AERA dot.記事は「個人の趣味趣向に対する差別を扇動する」　女子高生遺体遺棄巡り抗議声明、朝日新聞出版が謝罪: J-CAST ニュース【全文表示】]]></title>
+        <id>https://www.j-cast.com/2021/09/02419532.html?p=all</id>
+        <link href="https://www.j-cast.com/2021/09/02419532.html?p=all"/>
+        <updated>2021-09-02T11:37:02.000Z</updated>
+        <summary type="html"><![CDATA[朝日新聞出版のウェブメディア「AERA dot.」が、東京都墨田区の女子高生死体遺棄容疑で逮捕された夫婦の趣味を強調する見出しの記事を配信したことを受け、NPO法人バーチャルライツ（千葉県印西市）は1日、「個人の趣味趣向に対する差別を扇動する」として「緊急声明」を公表した。 朝日新聞出版はJ-CASTニュースの取材...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光触媒「発見者」藤嶋昭氏と研究チーム、中国・上海理工大に移籍 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20210902/k00/00m/040/261000c</id>
+        <link href="https://mainichi.jp/articles/20210902/k00/00m/040/261000c"/>
+        <updated>2021-09-02T10:58:21.000Z</updated>
+        <summary type="html"><![CDATA[光で化学反応を起こす「光触媒」を発見し、ノーベル賞候補にも名前が挙がる藤嶋昭・東京大特別栄誉教授（元東京理科大学長）が8月末に、自ら育成した研究チームと共に中国の上海理工大に移籍した。同大は今後、藤嶋氏を中心とした研究所を新設する。 財源不足などにより日本の研究環境が悪化する中で、産業競争力にも直...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「1年半の苦労を台無しにする暴挙」　音楽4団体が「NAMIMONOGATARI」問題で共同声明 - ITmedia NEWS]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2109/02/news159.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2109/02/news159.html"/>
+        <updated>2021-09-02T10:56:26.000Z</updated>
+        <summary type="html"><![CDATA[コンサートプロモーターズ協会、日本音楽制作者連盟、日本音楽事業者協会、日本音楽出版社協会の音楽4団体は9月2日、観客が密集していたと問題になっている「NAMIMONOGATARI 2021」などの主催者を非難する共同声明を発表した。 4団体によると、NAMIMONOGATARIを含む複数の野外フェス公演で感染拡大防止対策ガイドライン...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[コロナ家族感染 “子を残し親が亡くなる” 相次ぐ親の重症化 | 新型コロナウイルス | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20210902/k10013239701000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20210902/k10013239701000.html"/>
+        <updated>2021-09-02T09:57:40.000Z</updated>
+        <summary type="html"><![CDATA[感染力が強い「デルタ株」が主流となる新型コロナウイルスの第5波では、子育て中の家庭で感染が広がり、親が重症化するケースが相次いでいます。首都圏にある大学病院では、子どもとともに感染し、重症化した夫婦に対して懸命な治療が続けられたものの、50代の夫が子を残して亡くなる事態が起きました。 川越市にある、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「本物の社畜」が生まれようとしている - シロクマの屑籠]]></title>
+        <id>https://p-shirokuma.hatenadiary.com/entry/20210902/1630575055</id>
+        <link href="https://p-shirokuma.hatenadiary.com/entry/20210902/1630575055"/>
+        <updated>2021-09-02T09:38:44.000Z</updated>
+        <summary type="html"><![CDATA[www3.nhk.or.jp 今週、NHKのサイトで"在宅勤務中も禁煙"を求める企業の動きについての報道があった。野村ホールディングスは、出社している社員に加えて在宅でリモートワークしている社員にも、就業時間中は禁煙を求めるのだという。 こうした動きは社員の健康の維持と生産性向上を図るねらいがあるとのことで、イオン、...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Desktopの代替方法 - Windows and Mac編]]></title>
+        <id>https://zenn.dev/koduki/articles/ba54daaba28f93</id>
+        <link href="https://zenn.dev/koduki/articles/ba54daaba28f93"/>
+        <updated>2021-09-02T09:28:01.000Z</updated>
+        <summary type="html"><![CDATA[はじめに 新方針でDocker Desktopが大企業での利用の場合は商用ライセンスの使用が必要になるようです。新料金体系は8/31から実施ですが、2022年1月31日まで猶予期間があります。 個人やスモールビジネス、あるいは教育やOSSプロダクトなどは継続して無料版のPersonalを利用できるようですが、従業員数250人以上/年間売...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行政文章はMarkdownで管理できるか｜Hal Seki｜note]]></title>
+        <id>https://note.com/hal_sk/n/n916a422caafd</id>
+        <link href="https://note.com/hal_sk/n/n916a422caafd"/>
+        <updated>2021-09-02T08:10:47.000Z</updated>
+        <summary type="html"><![CDATA[行政文章のMarkdown化、進めていきたい。公開時だけでなく、普段からMarkdownでやりとりできるといいんだけどな。Wordを使って文章作ってる人をターゲットにしたMarkdownエディタを作ってみたい。 HackMDでもまだ難しいイメージ。実務に寄せていく必要がある。https://t.co/3iVDjXVHcQ — Hal Seki (@hal_sk) August 31, ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[伊藤岳 on Twitter: "#自宅療養　を終えた、さいたま市の方から、「これが、保健所から届いた自宅療養者用セットです」と見せていただいた。 カレー、やきとり、ソース焼きそば…高熱にうなされている時に、食えるものじゃない。 食事も、医療、療養の一部。「自宅療… https://t.co/B8Pj7bGlqu"]]></title>
+        <id>https://twitter.com/gaku_ito/status/1432948718249017354</id>
+        <link href="https://twitter.com/gaku_ito/status/1432948718249017354"/>
+        <updated>2021-09-02T06:17:12.000Z</updated>
+        <summary type="html"><![CDATA[#自宅療養　を終えた、さいたま市の方から、「これが、保健所から届いた自宅療養者用セットです」と見せていただいた。 カレー、やきとり、ソース焼きそば…高熱にうなされている時に、食えるものじゃない。 食事も、医療、療養の一部。「自宅療… https://t.co/B8Pj7bGlqu]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【独自】大使館が職員を口止めか　アフガン退避遅れ｜テレ朝news-テレビ朝日のニュースサイト]]></title>
+        <id>https://news.tv-asahi.co.jp/news_international/articles/000227562.html</id>
+        <link href="https://news.tv-asahi.co.jp/news_international/articles/000227562.html"/>
+        <updated>2021-09-02T06:06:12.000Z</updated>
+        <summary type="html"><![CDATA[1日、アフガニスタンにいる日本人らの自衛隊機による退避作戦を、「今回のオペレーションの最大の目標というのは、邦人を保護することでありました。そういう意味では、良かったというふうに思っています」と総括した、菅義偉総理大臣。 しかし、実際に出国できたのは、日本人1人だけで、約500人もの現地スタッフなどは...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中野ブロードウェイのファンシーショップとまんだらけ]]></title>
+        <id>https://anond.hatelabo.jp/20210902135525</id>
+        <link href="https://anond.hatelabo.jp/20210902135525"/>
+        <updated>2021-09-02T04:59:38.000Z</updated>
+        <summary type="html"><![CDATA[ちょっと詳しいから頑張って書くよ。法律的なことはわかんないからお気持ち構文になるけど読んでくれたら嬉しいな。 Spank!というショップに置いてあるものが多岐にわたるので発端のツイートで「ファンシーショップ」とぼんやり説明してしまい、サンリオギフトゲートとか小学生向けのバラエティショップを頭に思い浮かべ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[エヴァがなかったら90年代を代表する作品になっていた？要素てんこ盛りSFコメディロボット戦艦アニメ『機動戦艦ナデシコ』の話 - Togetter]]></title>
+        <id>https://togetter.com/li/1768370</id>
+        <link href="https://togetter.com/li/1768370"/>
+        <updated>2021-09-02T04:52:55.000Z</updated>
+        <summary type="html"><![CDATA[はぁとふる倍国土 @keiichisennsei お下劣サイテーパロディー漫画家の田中圭一です。 ファンティアも始めました。作品情報、連載情報、その他の情報を発信していきますので、登録の方よろしくお願いします｡ fantia.jp/fanclubs/19234 facebook.com/keiichisennsei はぁとふる倍国土 @keiichisennsei アマプラで30年ぶり...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[時間跳躍式完全無劣化転送装置 - 山素 / 【読み切り】時間跳躍式完全無劣化転送装置 | コミックDAYS]]></title>
+        <id>https://comic-days.com/episode/3269754496432828238</id>
+        <link href="https://comic-days.com/episode/3269754496432828238"/>
+        <updated>2021-09-02T01:10:16.000Z</updated>
+        <summary type="html"><![CDATA[コミックDAYSは正規版配信サイトマークを取得したサービスです。 © KODANSHA Ltd. All rights reserved. このサイトのデータの著作権は講談社が保有します。無断複製転載放送等は禁止します。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[産休申し出た途端「辞めて」　女性研究者が実験台を殴って耐えたのは：朝日新聞デジタル]]></title>
         <id>https://www.asahi.com/articles/ASP855HX2P7MULBJ007.html</id>
@@ -22,6 +311,16 @@
         <link href="https://www3.nhk.or.jp/news/html/20210902/k10013238001000.html"/>
         <updated>2021-09-01T21:09:05.000Z</updated>
         <summary type="html"><![CDATA[87歳の上皇さまは2日、昭和天皇と並び、確かな記録が残るとされる歴代の天皇の中で最高齢となられました。 昭和8年12月23日に生まれた上皇さまは、2日で生まれてから3万2031日となり、在位中に崩御した昭和天皇と並ぶ長寿となられました。 これは確かな記録が残るとされる飛鳥時代の推古天皇以降の天皇の中では最高齢と...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「叱り飛ばせば、相手は一念発起し、やる気を出して成長する」→なぜこんなことが「効果がある」と思い込まれてしまったのか - Togetter]]></title>
+        <id>https://togetter.com/li/1768208</id>
+        <link href="https://togetter.com/li/1768208"/>
+        <updated>2021-09-01T16:31:51.000Z</updated>
+        <summary type="html"><![CDATA[伊藤　剛 @GoITO 「強い調子で叱り飛ばし、人格を傷つけるようなことを言えば、相手は一念発起し、やる気を出して成長する」というのは、現実にはまず起きないことなのだが、なぜこんなことが「効果がある」と思い込まれてしまったのか。 2017-08-28 23:59:00 最速配信研究会 山崎大輔 @yamaz 褒めると成績が下がって怒...]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
@@ -8418,326 +8717,6 @@
         <link href="https://anond.hatelabo.jp/20210804220909"/>
         <updated>2021-08-04T13:24:35.000Z</updated>
         <summary type="html"><![CDATA[2ヶ月後に日本が大きく変わる。 9月末で自民党総裁任期が満了する。 菅・無投票再選の流れは都議選で終わった。 秋の衆院選で自民党大敗を防ぐために、総裁を変える声が党内で出ている。 しかし世間で人気のある議員（石破・河野・小泉・野田）は党内支持が弱く、特に各派閥の領袖と安倍が推せる候補ではない。 石破はめ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Appleの製品セキュリティ解説が面白い]]></title>
-        <id>https://zenn.dev/okuoku/articles/bc57255d35dfad</id>
-        <link href="https://zenn.dev/okuoku/articles/bc57255d35dfad"/>
-        <updated>2021-08-04T12:19:58.000Z</updated>
-        <summary type="html"><![CDATA[Appleは自社の製品セキュリティについて割と詳細に解説したホワイトペーパーを公開している。何故か日本語版もある。 (PDF版) https://manuals.info.apple.com/MANUALS/1000/MA1902/ja_JP/apple-platform-security-guide-j.pdf このドキュメントは言わば ユーザのプライバシで商売をすることの決意表明 であり、このレベ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中華人民共和国駐大阪総領事館 on Twitter: "欧米各国は口が嫌だと言っても、体は正直なものだ。欧米各国の中傷は新疆貿易に影響なく、今年上半期、新疆のEUに対する輸出は前年同期比131％増、すでにEUから脱退した英国も192.2％増加している。新疆問題においてノイズは存在するも… https://t.co/SmsrsC7ssT"]]></title>
-        <id>https://twitter.com/ChnConsul_osaka/status/1422813087850110981</id>
-        <link href="https://twitter.com/ChnConsul_osaka/status/1422813087850110981"/>
-        <updated>2021-08-04T12:09:08.000Z</updated>
-        <summary type="html"><![CDATA[欧米各国は口が嫌だと言っても、体は正直なものだ。欧米各国の中傷は新疆貿易に影響なく、今年上半期、新疆のEUに対する輸出は前年同期比131％増、すでにEUから脱退した英国も192.2％増加している。新疆問題においてノイズは存在するも… https://t.co/SmsrsC7ssT]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自宅療養方針、尾身氏への事前相談なし　首相「今初めて聞いた」 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210804/k00/00m/010/370000c</id>
-        <link href="https://mainichi.jp/articles/20210804/k00/00m/010/370000c"/>
-        <updated>2021-08-04T12:03:07.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス感染症対策の進捗（しんちょく）に関する関係閣僚会議で発言する菅義偉首相＝首相官邸で2021年8月4日午後2時48分、竹内幹撮影 菅義偉首相は4日、政府の新型コロナウイルス感染症対策分科会の尾身茂会長が、入院対象を重症者らに絞り込む方針を事前に相談されなかったことについて「今初めて（聞いた）...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[緊急事態宣言なのに、何であれやらないの？]]></title>
-        <id>https://anond.hatelabo.jp/20210804165854</id>
-        <link href="https://anond.hatelabo.jp/20210804165854"/>
-        <updated>2021-08-04T11:03:59.000Z</updated>
-        <summary type="html"><![CDATA[緊急事態宣言の要項には、「病院の外にテントやプレハブなど臨時の医療施設をつくろうとする場合、知事は土地や建物の所有者の同意がなくても使うことができる。」というものがあるはずなのに、何で実施されないのでしょう？ 土地を接収するかは置いておいても、１年以上経っているのだから、コロナに対応するための医療...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[河村市長、金メダルがぶり　「無礼」市役所に抗議　選手は冷静対応 | 毎日新聞]]></title>
-        <id>https://mainichi.jp/articles/20210804/k00/00m/040/311000c</id>
-        <link href="https://mainichi.jp/articles/20210804/k00/00m/040/311000c"/>
-        <updated>2021-08-04T10:37:30.000Z</updated>
-        <summary type="html"><![CDATA[女子ソフトボールの後藤希友選手（右）の金メダルをかむ河村たかし名古屋市長＝市役所で2021年8月4日午前10時1分、岡正勝撮影 東京オリンピックで金メダルを獲得した女子ソフトボール日本代表の後藤希友（みう）選手（20）＝トヨタ自動車＝が4日、出身地である名古屋市の河村たかし市長を訪ね、13年越しの連覇達成を報告...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中等症患者の入院制限方針　与野党から撤回要求　首相は否定「丁寧に説明」：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/121859</id>
-        <link href="https://www.tokyo-np.co.jp/article/121859"/>
-        <updated>2021-08-04T10:33:50.000Z</updated>
-        <summary type="html"><![CDATA[新型コロナウイルス患者の入院を制限し、重症者以外は原則自宅療養とする政府の方針転換に関し、自民党は４日、党会合で撤回を求めることを決めた。公明党は衆院厚生労働委員会の閉会中審査で、撤回を含めた再検討を訴え、立憲民主、共産、国民民主の野党各党も撤回要求で一致した。菅義偉首相は官邸で記者団に「病床を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「脱いでしまった」草なぎ剛さんが発表した「1番後悔していること」が正直すぎてTwitter騒然「草ぬぎ先輩」 - Togetter]]></title>
-        <id>https://togetter.com/li/1754565</id>
-        <link href="https://togetter.com/li/1754565"/>
-        <updated>2021-08-04T10:32:18.000Z</updated>
-        <summary type="html"><![CDATA[リンク ABEMA 7.2 新しい別の窓 - #41(8月) (バラエティ) | 無料動画・見逃し配信を見るなら | ABEMA 7.2 新しい別の窓 - #41(8月)等、人気お笑い芸人やタレントが出演しているバラエティ番組やここでしか見られないオリジナル番組を好きな時に何度でも楽しめます。また、ABEMAなら多彩な動画を無料で24時間どこでも視聴...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロナ入院制限方針、撤回しないと首相 ｜ 共同通信]]></title>
-        <id>https://nordot.app/795599044028940288</id>
-        <link href="https://nordot.app/795599044028940288"/>
-        <updated>2021-08-04T10:30:48.000Z</updated>
-        <summary type="html"><![CDATA[菅首相は政府による新型コロナウイルス患者の入院制限方針に与党から撤回要求が出ていることについて「撤回しない」とした上で「必要な医療を受けられるための措置だ。説明し理解してもらう」と記者団に述べた。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[名古屋 河村市長 ソフトボールの金メダルかみ 批判相次ぐ | メダル オリンピック | NHKニュース]]></title>
-        <id>https://www3.nhk.or.jp/news/html/20210804/k10013181441000.html</id>
-        <link href="https://www3.nhk.or.jp/news/html/20210804/k10013181441000.html"/>
-        <updated>2021-08-04T10:11:09.000Z</updated>
-        <summary type="html"><![CDATA[名古屋市の河村市長が4日、東京オリンピックで活躍したソフトボールの選手から金メダル獲得の報告を受けた際、披露されたメダルを突然、口に入れてかみ、市役所に批判の電話やメールなどが相次いでいます。 名古屋市の河村市長は4日午前、ソフトボール日本代表チームのメンバーで、名古屋市熱田区出身の後藤希友投手と面...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福田元首相「極めて遺憾」　公文書改ざん問題に：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP8463YRP84UTFK00S.html</id>
-        <link href="https://www.asahi.com/articles/ASP8463YRP84UTFK00S.html"/>
-        <updated>2021-08-04T10:06:05.000Z</updated>
-        <summary type="html"><![CDATA[福田康夫元首相は、国立公文書館開館50周年の記念式典で講演し、森友学園の国有地取引にからむ財務省の決裁文書改ざん問題について、「極めて遺憾な問題だ。公文書（管理）法の制度も理念も覆すような事件であった」と指摘した。 講演は7月1日に都内で行われ、このほどユーチューブに動画が公開された。 福田氏は、改ざ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「プレーブック」では禁止なのに…レストラン、家電量販店　ボランティアが大会関係者を送迎：東京新聞 TOKYO Web]]></title>
-        <id>https://www.tokyo-np.co.jp/article/121844</id>
-        <link href="https://www.tokyo-np.co.jp/article/121844"/>
-        <updated>2021-08-04T09:50:24.000Z</updated>
-        <summary type="html"><![CDATA[東京五輪の外国人の大会関係者らが、ボランティアの運転する車で大会と無関係なレストランや商業施設へ出掛けていると、ボランティアドライバーを務める女性が本紙に証言した。選手らと外部との接触を遮断する「バブル（泡）方式」を壊す行為だけに、女性は「行きたいと言われたら、どこへでも行かざるを得ないが、ルー...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[カルマンフィルターが自動運転の自己位置推定で使われるまで - Tier IV Tech Blog]]></title>
-        <id>https://tech.tier4.jp/entry/2021/08/04/160000</id>
-        <link href="https://tech.tier4.jp/entry/2021/08/04/160000"/>
-        <updated>2021-08-04T09:38:37.000Z</updated>
-        <summary type="html"><![CDATA[はじめまして、ティアフォー技術本部 Planning / Controlチームで開発を行っている堀部と申します。 今回は状態推定の王道技術「カルマンフィルター」が実際に自動運転で用いられるまでの道のりやノウハウなどを書いていこうと思います。 みなさんはカルマンフィルターという言葉を聞いたことがありますでしょうか。 カ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[しんぶん赤旗日曜版 on Twitter: "【スクープ】 来日した五輪関係者の感染者十数人が都民のための宿泊療養施設に入所していたことが編集部の取材で判明。組織委員会は選手らに陽性者が出た時のために五輪専用のホテルを借りています。なぜ都民の療養施設に海外からの五輪関係者が入… https://t.co/LEy2adXB0G"]]></title>
-        <id>https://twitter.com/nitiyoutwitt/status/1422834030823706625</id>
-        <link href="https://twitter.com/nitiyoutwitt/status/1422834030823706625"/>
-        <updated>2021-08-04T09:23:36.000Z</updated>
-        <summary type="html"><![CDATA[【スクープ】 来日した五輪関係者の感染者十数人が都民のための宿泊療養施設に入所していたことが編集部の取材で判明。組織委員会は選手らに陽性者が出た時のために五輪専用のホテルを借りています。なぜ都民の療養施設に海外からの五輪関係者が入… https://t.co/LEy2adXB0G]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[マンガ「この巻がすごい！」大賞]]></title>
-        <id>https://anond.hatelabo.jp/20210801171826</id>
-        <link href="https://anond.hatelabo.jp/20210801171826"/>
-        <updated>2021-08-04T08:54:32.000Z</updated>
-        <summary type="html"><![CDATA[思いついたから書いてみました。記憶をもとに書いているので間違いがあるかもしれない。 1巻　テルマエロマエ（ヤマザキマリ） 2巻　ヘルシング（平野耕太） 3巻　僕といっしょ（古谷実） 4巻　ジャイアント（山田芳裕） 5巻　デビルマン（永井豪） 6巻　チェンソーマン（藤本タツキ） 7巻　名探偵コナン（青山剛昌） 8...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一般人に戻ると「五輪は中止すべき」と感じた　元バスケ代表の戸惑い - 一般スポーツ,テニス,バスケット,ラグビー,アメフット,格闘技,陸上 [バスケットボール]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP825DZ1P7YUTQP034.html</id>
-        <link href="https://www.asahi.com/articles/ASP825DZ1P7YUTQP034.html"/>
-        <updated>2021-08-04T08:49:25.000Z</updated>
-        <summary type="html"><![CDATA[6月、バスケットボール女子元日本代表の大崎佑圭（31）のもとに、母校の東京成徳高から講演依頼があった。新型コロナウイルスの影響で、生徒たちが東京オリンピック（五輪）にネガティブな印象を持っている。本来の素晴らしさも知ってほしいから、過去の体験を話して欲しい。そんな趣旨だった。 2016年リオデジャネイロ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福岡5歳児バス置き去り　保護者会で20人の“園児閉じ込め”が発覚 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47701</id>
-        <link href="https://bunshun.jp/articles/-/47701"/>
-        <updated>2021-08-04T07:33:11.000Z</updated>
-        <summary type="html"><![CDATA[保護者会が行われたのは7月31日の夜のこと。事故当日は、園長がバスから園児全員を降ろしたか確認せずドアに鍵をかけたこと、出欠確認のカードを回収していなかったことなど園側に問題があったことが判明。そこで約80人もの保護者が保育園に集まり、園長が経緯の説明を行った。 会が始まると、不可解な説明に業を煮やし...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自民過半数割れ、立憲伸び悩み、維新3倍増、衆院選289全選挙区予測 | 週刊文春 電子版]]></title>
-        <id>https://bunshun.jp/denshiban/articles/b1462?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=socialLink</id>
-        <link href="https://bunshun.jp/denshiban/articles/b1462?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=socialLink"/>
-        <updated>2021-08-04T07:30:56.000Z</updated>
-        <summary type="html"><![CDATA[菅首相が「総裁任期を踏まえ、判断する」と語る解散総選挙。感染拡大で政権に逆風が吹いている中、自民党は踏み留まることができるのか。あの疑惑大臣や不祥事議員、注目選挙区の当落は？ どこよりも詳しい完全予測！ （くぼた まさし　政治広報システム研究所代表） 「開会式は過去最高に近い視聴率だった。柔道もかな...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[資料入手　東京五輪閉会式で「天皇も参加する〇×クイズ」演出案 | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47697</id>
-        <link href="https://bunshun.jp/articles/-/47697"/>
-        <updated>2021-08-04T07:27:02.000Z</updated>
-        <summary type="html"><![CDATA[資料の表題は、〈TOKYO2020 OLYMPIC GAMES　CLOSING CEREMONY PLAN〉。昨年10月27日付で、全97ページ。東京都の小池百合子知事へのプレゼンテーション用にまとめられたものだ。 資料の31ページ目には、次のような記述がある。 〈VIPも天皇陛下も参加する〉 参考として貼り付けられているのは、往年の日本テレビの人気番...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「玉木社長のご紹介」タマホーム取締役が社員に風俗店利用推奨LINE | 文春オンライン]]></title>
-        <id>https://bunshun.jp/articles/-/47698</id>
-        <link href="https://bunshun.jp/articles/-/47698"/>
-        <updated>2021-08-04T07:14:44.000Z</updated>
-        <summary type="html"><![CDATA[東証一部上場の大手住宅メーカー・タマホームの取締役が、社員に対して風俗店の利用を推奨し、利用後に内容を報告させていたことが「週刊文春」の取材でわかった。「週刊文春」の入手したLINEや証言によれば、玉木伸弥社長も風俗店利用推奨に関与していた疑いがある。 タマホームを巡っては、これまで事実上の“ワクチン...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自宅療養で人々を見殺しにすると決めた菅首相｜ニューズウィーク日本版 オフィシャルサイト]]></title>
-        <id>https://www.newsweekjapan.jp/fujisaki/2021/08/post-18.php</id>
-        <link href="https://www.newsweekjapan.jp/fujisaki/2021/08/post-18.php"/>
-        <updated>2021-08-04T04:58:45.000Z</updated>
-        <summary type="html"><![CDATA[＜菅政権は全力で国民の生命を救おうとはしていない。何もしなくても「政権は安泰」と高を括っているからだ＞ 8月2日、政府は新型コロナウイルスで、「中等症」であっても「症状が軽い」あるいは「重症化リスクの少ない」患者に関しては、「自宅療養」を可とする方針を出した。これまでは原則的にコロナ患者は入院、無症...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国、「ゲームはアヘン」と最大級の表現で批判。更なる締め付け強化へ - GAME Watch]]></title>
-        <id>https://game.watch.impress.co.jp/docs/news/1342086.html</id>
-        <link href="https://game.watch.impress.co.jp/docs/news/1342086.html"/>
-        <updated>2021-08-04T02:37:49.000Z</updated>
-        <summary type="html"><![CDATA[中国国営企業 新華社通信系の国営紙 経済参考報は8月3日、「ゲームは精神的アヘン」とするコラムを掲載し、中国ゲーム市場に大きな衝撃を与えている。]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政府の方針急転、命に直結する問題　自宅療養どこまで [新型コロナウイルス]：朝日新聞デジタル]]></title>
-        <id>https://www.asahi.com/articles/ASP837KGDP83ULBJ00H.html</id>
-        <link href="https://www.asahi.com/articles/ASP837KGDP83ULBJ00H.html"/>
-        <updated>2021-08-03T21:56:58.000Z</updated>
-        <summary type="html"><![CDATA[政府は新型コロナウイルス患者の「入院制限」を打ち出した。インドで見つかった変異株（デルタ株）の猛威で医療が逼迫（ひっぱく）するためだが、一部の中等症患者も自宅療養としており、方針転換といえる。容体の急変に十分な対応ができるのか。与野党や医療現場から懸念の声が相次いだ。 「必要なのは、重症化された方...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新型コロナ: 厄介な国のワクチン忌避　リスク不寛容でさまよう英社製: 日本経済新聞]]></title>
-        <id>https://www.nikkei.com/article/DGXZQODK281E70Y1A720C2000000/</id>
-        <link href="https://www.nikkei.com/article/DGXZQODK281E70Y1A720C2000000/"/>
-        <updated>2021-08-03T21:03:16.000Z</updated>
-        <summary type="html"><![CDATA[日経の記事利用サービスについて 企業での記事共有や会議資料への転載・複製、注文印刷などをご希望の方は、リンク先をご覧ください。 詳しくはこちら やはり腑（ふ）に落ちない。政府は英アストラゼネカの新型コロナウイルス向けワクチンを医薬品として特例承認したにもかかわらず、2カ月半も接種に使うかどうかを棚上...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[東浩紀「五輪開会式を巡るゴタゴタに国家と国民の絆の崩壊を感じた」〈AERA〉（AERA dot.） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/ab41f657cdd0d7b9aad8567953f6239387773bb4</id>
-        <link href="https://news.yahoo.co.jp/articles/ab41f657cdd0d7b9aad8567953f6239387773bb4"/>
-        <updated>2021-08-03T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[批評家の東浩紀さんの「AERA」巻頭エッセイ「eyes」をお届けします。時事問題に、批評的視点からアプローチします。 ＊　　＊　　＊ 五輪開会式は悲惨だった。直前のトラブルの話である。 開会式の9日前、7月14日に楽曲をミュージシャンの小山田圭吾氏が担当することが発表されると、すぐに過去の「障害者いじめ自慢」が...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[コロナに関係なく、私たちの働き方はとっくに「限界」だった　日本人が知らない、人口ボーナス期・オーナス期の「勝てるルール」の違い - ログミーBiz]]></title>
-        <id>https://logmi.jp/business/articles/324726</id>
-        <link href="https://logmi.jp/business/articles/324726"/>
-        <updated>2021-08-03T17:41:46.000Z</updated>
-        <summary type="html"><![CDATA[コロナに関係なく、私たちの働き方はとっくに「限界」だった 日本人が知らない、人口ボーナス期・オーナス期の「勝てるルール」の違い 小室淑恵と体験する心理的安全性の高いオンライン会議と、多様な意見があふれ出すオンライン会議のやりかた 株式会社ワーク・ライフバランスが主催したイベントに、代表取締役社長の小...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘-‘ という名前の、中身が無いのに70万回ダウンロードされてる謎のnpmパッケージ – 秋元@サイボウズラボ・プログラマー・ブログ]]></title>
-        <id>https://labs.cybozu.co.jp/blog/akky/2021/08/empty-npm-package-downloaded-sub-one-million-times/</id>
-        <link href="https://labs.cybozu.co.jp/blog/akky/2021/08/empty-npm-package-downloaded-sub-one-million-times/"/>
-        <updated>2021-08-03T15:16:48.000Z</updated>
-        <summary type="html"><![CDATA[– という名前の JavaScript/TypeScript パッケージについて警告を発している記事が話題となっています。 このパッケージ、中身はほとんど空で、Readme と、dev で TypeScript を動かせるようにするライブラリ群を呼ぶ箇所だけのもの。 しかし、この “-” を使っている他の npm パッケージが 50個以上あり、約一年前の公開...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CNN.co.jp : ベラルーシからの亡命支援団体トップ、遺体で見つかる　ウクライナ]]></title>
-        <id>https://www.cnn.co.jp/world/35174746.html</id>
-        <link href="https://www.cnn.co.jp/world/35174746.html"/>
-        <updated>2021-08-03T14:39:48.000Z</updated>
-        <summary type="html"><![CDATA[ウクライナの首都キエフ市内の公園で、ベラルーシからの亡命者を支援する団体の代表者ビタリー・シショフ氏が遺体で見つかった/Google ウクライナ・キエフ（ＣＮＮ） ウクライナ警察によると、首都キエフ市内の公園で３日、ベラルーシからの亡命者を支援する団体「ウクライナ・ベラルーシの家（ＢＤＵ）」の代表者ビタリ...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小山田圭吾問題の最終的解決｜外山恒一｜note]]></title>
-        <id>https://note.com/toyamakoichi/n/n01bb51913d8e</id>
-        <link href="https://note.com/toyamakoichi/n/n01bb51913d8e"/>
-        <updated>2021-08-03T14:37:49.000Z</updated>
-        <summary type="html"><![CDATA[──名探偵・外山恒一の冒険４ 「名探偵・外山恒一の冒険」シリーズ １．オフィスＶＡＤの秘密（98年） ２．「アナーキー・イン・ザ・UK」の秘密（04年） ３．『ファイト・クラブ』──“映像の乱れ”の謎（16年） １． さて皆さん。 北尾修一氏による勇気ある告発によって、〝コーネリアス〟こと小山田圭吾氏への今回の壮絶な...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[塩野義製薬、コロナワクチン、製剤見直し　抗体価上がらず　年内実用化は困難に | 化学工業日報]]></title>
-        <id>https://www.chemicaldaily.co.jp/%E5%A1%A9%E9%87%8E%E7%BE%A9%E8%A3%BD%E8%96%AC%E3%80%81%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%80%81%E8%A3%BD%E5%89%A4%E8%A6%8B%E7%9B%B4%E3%81%97%E3%80%80%E6%8A%97%E4%BD%93/</id>
-        <link href="https://www.chemicaldaily.co.jp/%E5%A1%A9%E9%87%8E%E7%BE%A9%E8%A3%BD%E8%96%AC%E3%80%81%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%AF%E3%82%AF%E3%83%81%E3%83%B3%E3%80%81%E8%A3%BD%E5%89%A4%E8%A6%8B%E7%9B%B4%E3%81%97%E3%80%80%E6%8A%97%E4%BD%93/"/>
-        <updated>2021-08-03T14:01:15.000Z</updated>
-        <summary type="html"><![CDATA[ホーム ＨＰ独自・先行 塩野義製薬、コロナワクチン、製剤見直し　抗体価上がらず　年内実用化は困難に 塩野義製薬は２日、開発中の新型コロナウイルスワクチンの製剤を変更したと発表した。従来の製剤では十分な抗体反応が見込めず、効果を高めるアジュバント（免疫増強剤）を変えて再開発する。今月、追加の臨床試験を...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[豪選手ら帰国時、日航機で騒ぐ　トイレ汚し、会社側が苦情（共同通信） - Yahoo!ニュース]]></title>
-        <id>https://news.yahoo.co.jp/articles/f9140aa5c2d6a62344ccd68bd0d41f9d2d9e3aa9</id>
-        <link href="https://news.yahoo.co.jp/articles/f9140aa5c2d6a62344ccd68bd0d41f9d2d9e3aa9"/>
-        <updated>2021-08-03T13:07:08.000Z</updated>
-        <summary type="html"><![CDATA[【シドニー共同】東京五輪に出場したオーストラリアのサッカーと7人制ラグビーの男子代表選手らが、帰国時に搭乗した日航機内で酔っぱらって歌うなどして騒ぎ、乗務員による着席やマスク着用の指示を拒否したため日航が苦情を訴えたと複数のオーストラリアメディアが3日報じた。 オーストラリアン紙電子版によると、2人...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[政権に斬り込む『パンケーキを毒見する』河村光庸Pインタビュー「『鬼滅』や『エヴァ』は映画館を救わなかった」 【第1回】 | 映画 | BANGER!!!]]></title>
-        <id>https://www.banger.jp/movie/61751/</id>
-        <link href="https://www.banger.jp/movie/61751/"/>
-        <updated>2021-08-03T12:44:44.000Z</updated>
-        <summary type="html"><![CDATA[「若い人が政治に興味を持たないのは我々の責任」 「企画・製作・エグゼクティブプロデューサー　河村光庸」――邦画ファンにとって、このクレジットには見覚えがあるはず。河村氏は『新聞記者』と『ｉ－新聞記者ドキュメント－』（ともに2019年）で新藤兼人賞ドキュメンタリー賞を受賞。ここ2年で公開された作品だけでも...]]></summary>
-        <author>
-            <name>はてなブックマーク - 人気エントリー - 総合</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国会採掘 - 国会で「誰が」「何を」「どれだけ」言ったか採掘する。 -]]></title>
-        <id>https://kokkaisaikutsu.github.io/</id>
-        <link href="https://kokkaisaikutsu.github.io/"/>
-        <updated>2021-08-03T12:42:07.000Z</updated>
-        <summary type="html"><![CDATA[本サイトは 国立国会図書館 国会議事録検索システム を通じて収集したデータを使用しています。 本サイトのデータは単語の使用回数を議事録から機械的に抽出したものであり、該当の単語に関する発言者の主張・賛否、発言の根拠、発言の妥当性を示すものではありません。]]></summary>
         <author>
             <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
